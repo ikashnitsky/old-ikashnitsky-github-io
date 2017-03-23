@@ -1,0 +1,11 @@
+<header id="masthead">
+  <div class="inner-wrap">
+    <a href="{{ site.url }}/" class="site-title">{{ site.title }}</a>
+    <nav role="navigation" class="menu top-menu">
+        {% include navigation.html %}
+    </nav>
+  </div><!-- /.inner-wrap -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+</header><!-- /.masthead -->

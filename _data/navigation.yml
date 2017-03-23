@@ -1,0 +1,42 @@
+# Site navigation links
+
+- title         : "BLOG"
+  url           : /
+  excerpt       : "DemographeR's notes"
+  image         : teaser-blog.png
+  
+- title         : "ARCHIVE"
+  url           : /archive
+  excerpt       : "Archive of all blog posts"
+  image         : teaser-archive.png
+
+- title         : "ME"
+  url           : /me
+  excerpt       : "About me"
+  image         : teaser-me.png
+  
+- title         : "PUB"
+  url           : /pubs
+  excerpt       : "List of publications"
+  image         : teaser-pubs.png
+  
+- title         : "CONF"
+  url           : /conf
+  excerpt       : "Talks at conferences and seminars"
+  image         : teaser-conf.png
+  
+- title         : "DD"
+  url           : /dd
+  excerpt       : "Demographic Digest"
+  image         : teaser-dd.png
+  
+- title         : "TEA"
+  url           : /tea
+  excerpt       : "Lecture notes & teaching materials"
+  image         : teaser-tea.png 
+  
+- title         : "CONTACTS"
+  url           : /contacts
+  excerpt       : "My contacts and profiles"
+  image         :  teaser-contacts.png 
+  

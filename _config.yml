@@ -1,0 +1,69 @@
+# Site wide configuration
+
+title                   : "Ilya Kashnitsky"
+description             : "Personal website of Ilya Kashnitsky"
+author                  : ilya
+logo                    : logo-120x120.png
+teaser                  : teaser-blog.png
+locale                  : en
+url                     : https://ikashnitsky.github.io
+feed:
+  path                  : atom.xml
+encoding                : UTF-8
+google_analytics        : UA-93349619-1
+comments                : true
+
+# Jekyll configuration
+
+sass:
+  sass_dir              : _sass
+  style                 : compressed
+permalink               : /:categories/:year/:title/
+markdown                : kramdown
+highlighter             : rouge
+kramdown:
+  toc_levels            : 1..2
+  mathjax               : true
+  input                 : GFM
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Site owner
+owner:
+  name                  : "Ilya Kashnitsky"
+  web                   : https://ikashnitsky.github.io/me
+  email                 : "ilya.kashnitsky@gmail.com"
+  twitter               : "ikashnitsky"
+  github                : "ikashnitsky"
+  facebook              : "ikashnitsky"
+  bio                   : "Ilya Kashnitsky is a PhD candidate in demography at University of Groningen and Netherlands Interdisciplinary Demographic Institute, and a Junior Research Fellow at the National Research University Higher School of Economics"
+  avatar                : bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname      : https-ikashnitsky-github-io
+
+include: ["_pages", ".htaccess"]
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

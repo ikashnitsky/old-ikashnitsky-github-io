@@ -1,0 +1,1903 @@
+
+@article{lutz_demographic_2015,
+	title = {Demographic aspects of climate change mitigation and adaptation},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.969929},
+	doi = {10.1080/00324728.2014.969929},
+	abstract = {This paper addresses the contribution of changes in population size and structures to greenhouse gas emissions and to the capacity to adapt to climate change. The paper goes beyond the conventional focus on the changing composition by age and sex. It does so by addressing explicitly the changing composition of the population by level of educational attainment, taking into account new evidence about the effect of educational attainment in reducing significantly the vulnerability of populations to climatic challenges. This evidence, which has inspired a new generation of socio-economic climate change scenarios, is summarized. While the earlier {IPCC}-{SRES} (Intergovernmental Panel on Climate Change—Special Report on Emissions Scenarios) scenarios only included alternative trajectories for total population size (treating population essentially as a scaling parameter), the Shared Socio-economic Pathways ({SSPs}) in the new scenarios were designed to capture the socio-economic challenges to climate change mitigation and adaptation, and include full age, sex, and education details for all countries.},
+	pages = {S69--S76},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Lutz, Wolfgang and Striessnig, Erich},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912918},
+	file = {Lutz_Striessnig_2015_Demographic_aspects_of_climate_change_mitigation_and_adaptation.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Lutz_Striessnig/Lutz_Striessnig_2015_Demographic_aspects_of_climate_change_mitigation_and_adaptation.pdf:application/pdf}
+}
+
+@article{livi-bacci_what_2015,
+	title = {What we can and cannot learn from the history of world population},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.975909},
+	doi = {10.1080/00324728.2014.975909},
+	abstract = {Mankind is passing through an exceptional phase of accelerated population growth that generates anxiety about the future. How many billion people will share the limited resources of our globe a century from now? What will be the consequences of globalization for human behaviour? How will individuals react to emerging new constraints? What will be the consequences of climate change for human society? Obviously enough, history cannot offer operational answers to these crucial questions. Nevertheless, history offers some interesting insights into demographic behaviour experienced in the past that could be replicated in the future, with the variations and adaptations dictated by the changing contexts. In other words, there are constants and structures in human behaviour, and there are robust mechanisms in the functioning of demographic systems that are of some help in preparing us to deal with the future.},
+	pages = {S21--S28},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Livi-Bacci, Massimo},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912914},
+	file = {Livi-Bacci_2015_What_we_can_and_cannot_learn_from_the_history_of_world_population.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Livi-Bacci/Livi-Bacci_2015_What_we_can_and_cannot_learn_from_the_history_of_world_population.pdf:application/pdf}
+}
+
+@article{coleman_death_2015,
+	title = {The Death of the West: An alternative view},
+	volume = {69},
+	issn = {0032-4728, 1477-4747},
+	url = {http://www.tandfonline.com/doi/full/10.1080/00324728.2014.970401},
+	doi = {10.1080/00324728.2014.970401},
+	shorttitle = {The Death of the West},
+	pages = {S107--S118},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Coleman, David and Basten, Stuart},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	langid = {english},
+	file = {Coleman_Basten_2015_The_Death_of_the_West.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Coleman_Basten/Coleman_Basten_2015_The_Death_of_the_West.pdf:application/pdf}
+}
+
+@article{kreager_population_2015,
+	title = {Population theory—A long view},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.981095},
+	doi = {10.1080/00324728.2014.981095},
+	abstract = {Any attempt to take a long view of population research, its findings, and applications is bound to raise questions about the state of population theory. Recent research on the history of population thought enables us to include a much more complete account of classical and early modern sources, and of parallel and complementary developments in population biology. This paper considers four major shifts in the conceptual and empirical ambitions of population inquiry over the long term. In general, major conceptual developments in ideas about population reflect major shifts in political and biological theory. The nature of population in European science and society was substantially established before demography emerged as a twentieth-century academic discipline focused chiefly on fertility and mortality. A long view suggests that demography is currently in the course of a shift that constructively re-integrates it with the wider field of scientific and historical population thinking.},
+	pages = {S29--S37},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Kreager, Philip},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912915},
+	file = {Kreager_2015_Population_theory—A_long_view.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Kreager/Kreager_2015_Population_theory—A_long_view.pdf:application/pdf}
+}
+
+@article{_china_2015,
+	title = {China to allow two children for all couples},
+	url = {http://news.xinhuanet.com/english/2015-10/29/c_134763645.htm},
+	journaltitle = {Xinhua},
+	urldate = {2015-11-01},
+	date = {2015-10-29},
+	file = {China to allow two children for all couples - Xinhua | English.news.cn:/home/ikashnitsky/Zotero_System/storage/4BPZ98UF/c_134763645.html:text/html}
+}
+
+@article{coleman_populationlong_2015,
+	title = {Population—The long view},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2015.1017346},
+	doi = {10.1080/00324728.2015.1017346},
+	pages = {S1--S9},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Coleman, David and Basten, Stuart and Billari, Francesco C.},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912911},
+	file = {Coleman_et_al_2015_Population—The_long_view.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Coleman et al/Coleman_et_al_2015_Population—The_long_view.pdf:application/pdf}
+}
+
+@article{sear_evolutionary_2015,
+	title = {Evolutionary contributions to the study of human fertility},
+	volume = {69},
+	issn = {0032-4728, 1477-4747},
+	url = {http://www.tandfonline.com/doi/full/10.1080/00324728.2014.982905},
+	doi = {10.1080/00324728.2014.982905},
+	pages = {S39--S55},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Sear, Rebecca},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	langid = {english},
+	file = {Sear_2015_Evolutionary_contributions_to_the_study_of_human_fertility.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sear/Sear_2015_Evolutionary_contributions_to_the_study_of_human_fertility.pdf:application/pdf}
+}
+
+@article{billari_integrating_2015,
+	title = {Integrating macro- and micro-level approaches in the explanation of population change},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2015.1009712},
+	doi = {10.1080/00324728.2015.1009712},
+	abstract = {Demographers study population change across time and place, and traditionally they place a strong emphasis on a long-range view of population change. This paper builds on current reflections on how to structure the study of population change and proposes a two-stage perspective. The first stage, discovery, focuses on the production of novel evidence at the population level. The second stage, explanation, develops accounts of demographic change and tests how the action and interaction of individuals generate what is discovered in the first stage. This explanatory stage also provides the foundation for the prediction of demographic change. The transformation of micro-level actions and interactions into macro-level population outcomes is identified as a key challenge for the second stage. Specific instances of research are discussed.},
+	pages = {S11--S20},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Billari, Francesco C.},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912913},
+	file = {Billari_2015_Integrating_macro-_and_micro-level_approaches_in_the_explanation_of_population.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Billari/Billari_2015_Integrating_macro-_and_micro-level_approaches_in_the_explanation_of_population.pdf:application/pdf}
+}
+
+@article{demeny_sub-replacement_2015,
+	title = {Sub-replacement fertility in national populations: Can it be raised?},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.962930},
+	doi = {10.1080/00324728.2014.962930},
+	shorttitle = {Sub-replacement fertility in national populations},
+	abstract = {This paper comments on the four main functions demographers perform: fact-finding, analysis, prediction, and policymaking. Successes in the first two of these are counterbalanced by weakness in predictive ability. The focus of the comments, however, is on policy. Demographers were influential in promoting efforts to lower very high fertility but are ineffectual in proposing policies that could reverse the tendency of fertility to sink well below replacement levels. The paper argues for a break from exclusive reliance on the standard measures of modern welfare states intended to raise fertility and urges exploration of radically new approaches. Two promising innovations are briefly outlined: one would give the right to vote to all citizens regardless of age, the voting right of minors being exercised by parental proxy, and another that would reform state-administered pension schemes by arranging a direct transfer of working children’s mandatory contributions to social security funds to their retired parents.},
+	pages = {S77--S85},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Demeny, Paul},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912919},
+	file = {Demeny_2015_Sub-replacement_fertility_in_national_populations.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Demeny/Demeny_2015_Sub-replacement_fertility_in_national_populations.pdf:application/pdf}
+}
+
+@article{reher_baby_2015,
+	title = {Baby booms, busts, and population ageing in the developed world},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.963421},
+	doi = {10.1080/00324728.2014.963421},
+	abstract = {The key challenge facing contemporary society is a process of population ageing rooted mainly in past fertility cycles. The goals of the study reported in this paper were (i) to analyse jointly the post-1930s baby boom and the baby bust that followed, (ii) to consider the specific ways this particular combination influenced the process of ageing in different societies, and (iii) to evaluate some possible implications for policy of different historical experiences. Demographic time series for 27 nations in the developed world were used. The main results confirm the importance of the boom and bust fertility cycle of the second half of the twentieth century for population ageing. Some countries will experience ageing processes driven mainly by the growth of elderly populations while others will age largely as a result of declines in working-age populations. These differences underscore the need to tailor policy priorities for specific patterns of ageing.},
+	pages = {S57--S68},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Reher, David S.},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912917},
+	file = {Reher_2015_Baby_booms,_busts,_and_population_ageing_in_the_developed_world.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Reher/Reher_2015_Baby_booms,_busts,_and_population_ageing_in_the_developed_world.pdf:application/pdf}
+}
+
+@article{basten_fertility_2015,
+	title = {Fertility in China: An uncertain future},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.982898},
+	doi = {10.1080/00324728.2014.982898},
+	shorttitle = {Fertility in China},
+	abstract = {As one of the world’s two population ‘billionaires’, the future of China’s population is truly of global significance. With its very low fertility and a rapidly ageing population, it might appear that the country’s famous (or notorious) family planning restrictions are somewhat anachronistic. Here, we explore the process of reform seen over the past three decades and, most recently, in late 2013. We suggest that the popular notion that the family planning restrictions are acting as a pressure valve suppressing a pent-up demand for childbearing, particularly in rural China, is likely to be inaccurate. We also suggest that further reform of the restrictions will not solve the problems of population ageing or many of the other issues widely associated with the restrictions. We conclude that the prospects for further reform are wide-ranging, but likely to be beset by many challenges.},
+	pages = {S97--S105},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Basten, Stuart and Jiang, Quanbao},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912921},
+	file = {Basten_Jiang_2015_Fertility_in_China.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Basten_Jiang/Basten_Jiang_2015_Fertility_in_China.pdf:application/pdf}
+}
+
+@article{teitelbaum_political_2015,
+	title = {Political demography: Powerful trends under-attended by demographic science},
+	volume = {69},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2014.977638},
+	doi = {10.1080/00324728.2014.977638},
+	shorttitle = {Political demography},
+	abstract = {The interconnections between politics and the dramatic demographic changes under way around the world have been neglected by the two research disciplines that could contribute most to their understanding: demography and political science. Instead, this area of ‘political demography’ has largely been ceded to political activists, pundits, and journalists, leading often to exaggerated or garbled interpretation. The terrain includes some of the most politically sensitive and contested issues: alleged demographically determined shifts in the international balance of power; low fertility, population decline, and demographic ageing; international migration; change in national identity; and compositional shifts in politically sensitive social categories and human rights. Meanwhile many governments and non-governmental actors have actively pursued varieties of ‘strategic demography’, deploying fertility, mortality, or migration as instruments of domestic or international policy. Political scientists and demographers could and should use their knowledge and analytic techniques to improve understanding and to moderate excessive claims and fears on these topics.},
+	pages = {S87--S95},
+	issue = {sup1},
+	journaltitle = {Population Studies},
+	author = {Teitelbaum, Michael S.},
+	urldate = {2015-05-01},
+	date = {2015-04-30},
+	pmid = {25912920},
+	file = {Teitelbaum_2015_Political_demography.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Teitelbaum/Teitelbaum_2015_Political_demography.pdf:application/pdf}
+}
+
+@article{perelli-harris_changes_2012,
+	title = {Changes in union status during the transition to parenthood in eleven European countries, 1970s to early 2000s},
+	volume = {66},
+	issn = {0032-4728, 1477-4747},
+	url = {http://www.tandfonline.com/doi/abs/10.1080/00324728.2012.673004},
+	doi = {10.1080/00324728.2012.673004},
+	pages = {167--182},
+	number = {2},
+	journaltitle = {Population Studies},
+	author = {Perelli-Harris, Brienna and Kreyenfeld, Michaela and Sigle-Rushton, Wendy and Keizer, Renske and Lappegård, Trude and Jasilioniene, Aiva and Berghammer, Caroline and Di Giulio, Paola},
+	urldate = {2015-10-26},
+	date = {2012-07},
+	langid = {english},
+	keywords = {\#tcj10\#1},
+	file = {Perelli-Harris et al_2012_Changes in union status during the transition to parenthood in eleven European.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Perelli-Harris et al/Perelli-Harris et al_2012_Changes in union status during the transition to parenthood in eleven European.pdf:application/pdf}
+}
+
+@article{van_bavel_subreplacement_2010,
+	title = {Subreplacement fertility in the West before the baby boom: Past and current perspectives},
+	volume = {64},
+	issn = {0032-4728, 1477-4747},
+	url = {http://www.tandfonline.com/doi/abs/10.1080/00324720903362806},
+	doi = {10.1080/00324720903362806},
+	shorttitle = {Subreplacement fertility in the West before the baby boom},
+	pages = {1--18},
+	number = {1},
+	journaltitle = {Population Studies},
+	author = {Van Bavel, Jan},
+	urldate = {2015-10-26},
+	date = {2010-03},
+	langid = {english},
+	keywords = {\#tcj10\#3},
+	file = {Van Bavel_2010_Subreplacement fertility in the West before the baby boom.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Van Bavel/Van Bavel_2010_Subreplacement fertility in the West before the baby boom.pdf:application/pdf}
+}
+
+@article{preston_changing_1975,
+	title = {The changing relation between mortality and level of economic development},
+	volume = {29},
+	issn = {00324728},
+	url = {http://www.jstor.org/stable/2173509?origin=crossref},
+	doi = {10.2307/2173509},
+	pages = {231},
+	number = {2},
+	journaltitle = {Population Studies},
+	author = {Preston, Samuel H.},
+	urldate = {2015-10-26},
+	date = {1975-07},
+	keywords = {\#tcj\#2},
+	file = {Preston_1975_The changing relation between mortality and level of economic development.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Preston/Preston_1975_The changing relation between mortality and level of economic development.pdf:application/pdf}
+}
+
+@article{coleman_fertility_2010,
+	title = {The fertility of ethnic minorities in the {UK}, 1960s–2006},
+	volume = {64},
+	issn = {0032-4728, 1477-4747},
+	url = {http://www.tandfonline.com/doi/abs/10.1080/00324720903391201},
+	doi = {10.1080/00324720903391201},
+	pages = {19--41},
+	number = {1},
+	journaltitle = {Population Studies},
+	author = {Coleman, D. A. and Dubuc, S.},
+	urldate = {2015-10-26},
+	date = {2010-03},
+	langid = {english},
+	keywords = {\#tcj10\#2},
+	file = {Coleman_Dubuc_2010_The fertility of ethnic minorities in the UK, 1960s–2006.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Coleman_Dubuc/Coleman_Dubuc_2010_The fertility of ethnic minorities in the UK, 1960s–2006.pdf:application/pdf}
+}
+
+@article{caldwell_education_1979,
+	title = {Education as a Factor in Mortality Decline An Examination of Nigerian Data},
+	volume = {33},
+	issn = {00324728},
+	url = {http://www.jstor.org/stable/2173888?origin=crossref},
+	doi = {10.2307/2173888},
+	pages = {395},
+	number = {3},
+	journaltitle = {Population Studies},
+	author = {Caldwell, J. C.},
+	urldate = {2015-10-26},
+	date = {1979-11},
+	keywords = {\#tcj\#3},
+	file = {Caldwell_1979_Education as a Factor in Mortality Decline An Examination of Nigerian Data.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Caldwell/Caldwell_1979_Education as a Factor in Mortality Decline An Examination of Nigerian Data.pdf:application/pdf}
+}
+
+@article{bumpass_trends_2000,
+	title = {Trends in cohabitation and implications for children's family contexts in the United States},
+	volume = {54},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/713779060},
+	doi = {10.1080/713779060},
+	abstract = {This paper documents increasing cohabitation in the United States, and the implications of this trend for the family lives of children. The stability of marriage-like relationships (including marriage and cohabitation) has decreased despite a constant divorce rate. Children increasingly live in cohabiting families either as a result of being born to cohabiting parents or of their mother s entry into a cohabiting union. The proportion of births to unmarried women born into cohabiting families increased from 29 to 39 per cent in the period 1980-84 to 1990-94, accounting for almost all of the increase in unmarried childbearing. As a consequence, about two-fifths of all children spend some time in a cohabiting family, and the greater instability of families begun by cohabitation means that children are also more likely to experience family disruption. Estimates from multi-state life tables indicate the extent to which the family lives of children are spent increasingly in cohabiting families and decreasingly in married families.},
+	pages = {29--41},
+	number = {1},
+	journaltitle = {Population Studies},
+	author = {Bumpass, Larry and Lu, Hsien-Hen},
+	urldate = {2015-10-26},
+	date = {2000-01-01},
+	keywords = {\#tcj\#1, top demography - 9},
+	file = {Bumpass_Lu_2000_Trends in cohabitation and implications for children's family contexts in the.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Bumpass_Lu/Bumpass_Lu_2000_Trends in cohabitation and implications for children's family contexts in the.pdf:application/pdf}
+}
+
+@article{bongaarts_how_2015,
+	title = {How many more missing women? Excess female mortality and prenatal sex selection, 1970–2050},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00046.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00046.x},
+	shorttitle = {How Many More Missing Women?},
+	abstract = {Sex-based discrimination has resulted in severe demographic imbalances between males and females, culminating in a large number of “missing women” in several countries around the world. We provide new estimates and projections of the number of missing females and of the roles played by prenatal and postnatal factors in this imbalance. We estimate time series of the number of missing females, the number of excess female deaths, and the number of missing female births for the world and selected countries. Estimates are provided for 1970–2010 and projections are made from 2010 to 2050. We show that the estimates of these different indicators are consistent with one another and account for the dynamics of the population of missing females over time. We conclude that the number of missing females has steadily risen in the past decades, reaching 126 million in 2010, and the number is expected to peak at 150 million in 2035. Excess mortality was the dominant cause of missing females in the past, and this is expected to remain the case in future decades in spite of the recent rise of prenatal sex selection. The annual number of newly missing females reached 3.4 million in 2010 and is expected to remain above 3 million every year until 2050.},
+	pages = {241--269},
+	number = {2},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Bongaarts, John and Guilmoto, Christophe Z.},
+	urldate = {2015-11-10},
+	date = {2015-06-01},
+	langid = {english},
+	file = {Bongaarts_Guilmoto_2015_How many more missing women.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Bongaarts_Guilmoto/Bongaarts_Guilmoto_2015_How many more missing women.pdf:application/pdf}
+}
+
+@article{shon_forty_2015,
+	title = {Forty years of immigrant segregation in France, 1968–2007. How different is the new immigration?},
+	volume = {52},
+	issn = {0042-0980, 1360-063X},
+	url = {http://usj.sagepub.com.proxy-ub.rug.nl/content/52/5/823},
+	doi = {10.1177/0042098014529343},
+	abstract = {Analysing restricted access census data, this paper examines the long-term trends of immigrant segregation in France from 1968 to 2007. Similarly to other European countries, France experienced a rise in the proportion of immigrants in its population that was characterised by a new predominance of non-European immigration. Despite this, average segregation levels remained moderate. While the number of immigrant enclaves increased, particularly during the 2000s, the average concentration for most groups decreased because of a reduction of heavily concentrated census tracts, and census tracts with few immigrants. Contradicting frequent assertions, neither mono-ethnic census tracts nor ghettos exist in France. By contrast, many immigrants live in census tracts characterised by a low proportion of immigrants from their own group and from all origins. A long residential period in France is correlated with lower concentrations and proportion of immigrants in the census tract for most groups, though these effects are sometimes modest.},
+	pages = {823--840},
+	number = {5},
+	journaltitle = {Urban Studies},
+	shortjournal = {Urban Stud},
+	author = {Shon, Jean-Louis Pan Ké and Verdugo, Gregory},
+	urldate = {2015-03-26},
+	date = {2015-04-01},
+	langid = {english},
+	keywords = {France, French segregation, immigrant, incorporation, segregation},
+	file = {Shon_Verdugo_2015_Forty years of immigrant segregation in France, 1968–2007.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Shon_Verdugo/Shon_Verdugo_2015_Forty years of immigrant segregation in France, 1968–2007.pdf:application/pdf}
+}
+
+@article{stimers_capital_2011,
+	title = {Capital Vice in the Midwest: The Spatial Distribution of the Seven Deadly Sins},
+	volume = {7},
+	issn = {1744-5647},
+	url = {http://www.tandfonline.com/doi/abs/10.4113/jom.2011.1133},
+	doi = {10.4113/jom.2011.1133},
+	shorttitle = {Capital Vice in the Midwest},
+	pages = {9--17},
+	number = {1},
+	journaltitle = {Journal of Maps},
+	author = {Stimers, Mitchell and Bergstrom, Ryan and Vought, Tom and Dulin, Michael},
+	urldate = {2014-11-16},
+	date = {2011-01-01},
+	keywords = {\#bonus},
+	file = {Stimers et al_2011_Capital Vice in the Midwest.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Stimers et al/Stimers et al_2011_Capital Vice in the Midwest.pdf:application/pdf}
+}
+
+@article{anderson_low_2015,
+	title = {Low Fertility, Socioeconomic Development, and Gender Equity},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00065.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00065.x},
+	abstract = {While new empirical findings and theoretical frameworks provide insight into the interrelations between socioeconomic development, gender equity, and low fertility, puzzling exceptions and outliers in these findings call for a more all-encompassing framework to understand the interplay between these processes. We argue that the pace and onset of development are two important factors to be considered when analyzing gender equity and fertility. Within the developed world, “first-wave developers”—or countries that began socioeconomic development in the nineteenth/early twentieth century—currently have much higher fertility levels than “late developers.” We lay out a novel theoretical approach to explain why this is the case and provide empirical evidence to support our argument. Our approach not only explains historical periods of low fertility but also sheds light on why there exists such large variance in fertility rates among today's developed countries.},
+	pages = {381--407},
+	number = {3},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Anderson, Thomas and Kohler, Hans-Peter},
+	urldate = {2015-11-26},
+	date = {2015-09-01},
+	langid = {english},
+	note = {00000},
+	file = {Anderson_Kohler_2015_Low Fertility, Socioeconomic Development, and Gender Equity.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Anderson_Kohler/Anderson_Kohler_2015_Low Fertility, Socioeconomic Development, and Gender Equity.pdf:application/pdf}
+}
+
+@article{esping-andersen_re-theorizing_2015,
+	title = {Re-theorizing Family Demographics},
+	volume = {41},
+	issn = {00987921},
+	url = {http://doi.wiley.com/10.1111/j.1728-4457.2015.00024.x},
+	doi = {10.1111/j.1728-4457.2015.00024.x},
+	pages = {1--31},
+	number = {1},
+	journaltitle = {Population and Development Review},
+	author = {Esping-Andersen, Gøsta and Billari, Francesco C.},
+	urldate = {2015-11-01},
+	date = {2015-03},
+	langid = {english},
+	file = {Esping-Andersen_Billari_2015_Re-theorizing_Family_Demographics.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Esping-Andersen_Billari/Esping-Andersen_Billari_2015_Re-theorizing_Family_Demographics.pdf:application/pdf}
+}
+
+@article{sobotka_two_2014,
+	title = {Two Is Best? The Persistence of a Two-Child Family Ideal in Europe},
+	volume = {40},
+	rights = {© 2014 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2014.00691.x/abstract},
+	doi = {10.1111/j.1728-4457.2014.00691.x},
+	shorttitle = {Two Is Best?},
+	abstract = {How persistent and universal has the two child family ideal been in Europe during the last three decades? We analyze responses of women of reproductive age from 168 surveys conducted in 37 countries in 1979–2012. A two-child ideal has become nearly universal among women in all parts of Europe. Countries that used to display higher ideal family size have converged over time toward a two-child model. Six out of ten women in Europe consider two children as ideal, and this proportion is very similar in different regions. The mean ideal family size has become closely clustered around 2.2 in most countries. Gradual shifts can be documented toward more women expressing an ideal of having one child (and, quite rarely, having no children) and a parallel decline in an ideal of three or more children. An increasing number of European countries saw their mean ideal family size falling to relatively low levels around 1.95–2.15. However, with the exception of one survey for eastern Germany and two of the surveys not included in our study owing to high nonresponse or low sample size, none of the analyzed surveys suggests a decline in mean ideal family size to levels considerably below replacement, i.e., below 1.9 children per woman.},
+	pages = {391--419},
+	number = {3},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Sobotka, Tomáš and Beaujouan, Éva},
+	urldate = {2015-11-26},
+	date = {2014-09-01},
+	langid = {english},
+	note = {00011},
+	file = {Sobotka_Beaujouan_2014_Two Is Best.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sobotka_Beaujouan/Sobotka_Beaujouan_2014_Two Is Best.pdf:application/pdf}
+}
+
+@article{villamor_accuracy_2010,
+	title = {Accuracy of the Chinese lunar calendar method to predict a baby's sex: a population-based study: Chinese calendar sex prediction},
+	volume = {24},
+	issn = {02695022, 13653016},
+	url = {http://doi.wiley.com/10.1111/j.1365-3016.2010.01129.x},
+	doi = {10.1111/j.1365-3016.2010.01129.x},
+	shorttitle = {Accuracy of the Chinese lunar calendar method to predict a baby's sex},
+	pages = {398--400},
+	number = {4},
+	journaltitle = {Paediatric and Perinatal Epidemiology},
+	author = {Villamor, Eduardo and Dekker, Louise and Svensson, Tobias and Cnattingius, Sven},
+	urldate = {2015-09-07},
+	date = {2010-05-21},
+	langid = {english},
+	file = {Villamor et al_2010_Accuracy of the Chinese lunar calendar method to predict a baby's sex.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Villamor et al/Villamor et al_2010_Accuracy of the Chinese lunar calendar method to predict a baby's sex.pdf:application/pdf}
+}
+
+@article{fakih_impact_2015,
+	title = {The impact of Syrian refugees on the labor market in neighboring countries: empirical evidence from Jordan},
+	volume = {27},
+	issn = {1024-2694},
+	url = {http://dx.doi.org/10.1080/10242694.2015.1055936},
+	doi = {10.1080/10242694.2015.1055936},
+	shorttitle = {The impact of Syrian refugees on the labor market in neighboring countries},
+	abstract = {This paper analyzes time-sensitive data on a humanitarian crisis in the Middle East. It aims to assess the impact of the steep influx of Syrian refugees into Jordan on the country’s labor market since the onset of the conflict in Syria (March 2011). As of August 2014, nearly three million registered Syrians have sought refuge in neighboring countries (Lebanon, Jordan, Iraq, and Turkey), according to the United Nations High Commissioner for Refugees. Jordan and Lebanon are hosting the majority of them. This paper utilizes data regarding unemployment rates, employment rates, labor force participation, the number of refugees, and economic activity at the level of governorates. The vector autoregressive methodology is used to examine time series data from the most affected governorates in Jordan. The empirical results of Granger causality tests and impulse response functions show that there is no relationship between the influx of Syrian refugees and the Jordanian labor market. Our results are verified through a set of robustness checks.},
+	pages = {64--86},
+	number = {1},
+	journaltitle = {Defence and Peace Economics},
+	author = {Fakih, Ali and Ibrahim, May},
+	urldate = {2015-12-16},
+	date = {2015-06-22},
+	file = {Fakih_Ibrahim_2015_The impact of Syrian refugees on the labor market in neighboring countries.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Fakih_Ibrahim/Fakih_Ibrahim_2015_The impact of Syrian refugees on the labor market in neighboring countries.pdf:application/pdf}
+}
+
+@article{yaylaci_perceptions_2015,
+	title = {Perceptions and newspaper coverage of Syrian refugees in Turkey},
+	volume = {12},
+	rights = {Terms and conditions associated with Transnational Press London Journals Transfer of Copyright Agreement   Copyright to the unpublished and original article submitted by the author(s), the abstract forming part thereof, and any subsequent errata (collectively, the “Article”) is hereby transferred to the Transnational Press London ({TPL}) for the full term thereof throughout the world, subject to the Author Rights (as hereinafter defined) and to acceptance of the Article for publication in a journal of {TPL}. This transfer of copyright includes all material to be published as part of the Article (in any medium), including but not limited to tables, figures, graphs, movies, other multimedia files, and all supplemental materials. {TPL} shall have the right to register copyright to the Article in its name as claimant, whether separately or as part of the journal issue or other medium in which the Article is included.  The author(s) shall have the following rights (the “Author Rights”):   All proprietary rights other than copyright, such as patent rights.  The nonexclusive right, after publication by {TPL}, to give permission to third parties to republish print versions of the Article or a translation thereof, or excerpts therefrom, without obtaining permission from {TPL}, provided the {TPL}-prepared version is not used for this purpose, the Article is not republished in another journal, and the third party does not charge a fee. If the {TPL} version is used, or the third party republishes in a publication or product charging a fee for use, permission from {TPL} must be obtained.  The right to use all or part of the Article, including the {TPL}-prepared version without revision or modification, on the author(s)’ web home page or employer’s website and to make copies of all or part of the Article, including the {TPL}-prepared version without revision or modification, for the author(s)’ and/or the employer’s use for educational or research purposes.  The right to post and update the Article on free-access e-print servers as long as files prepared and/or formatted by {TPL} or its vendors are not used for that purpose. Any such posting made or updated after acceptance of the Article for publication shall include a link to the online abstract in the {TPL} journal or to the entry page of the journal. If the author wishes the {TPL}-prepared version to be used for an online posting other than on the author(s)’ or employer’s website, {TPL} permission is required; if permission is granted, {TPL} will provide the Article as it was published in the journal, and use will be subject to {TPL} terms and conditions.  The right to make, and hold copyright in, works derived from the Article, as long as all of the following conditions are met: (a) at least one author of the derived work is an author of the Article; (b) the derived work includes at least ten (10) percent of new material not covered by {TPL}’s copyright in the Article; and (c) the derived work includes no more than fifty (50) percent of the text (including equations) of the Article. If these conditions are met, copyright in the derived work rests with the authors of that work, and {TPL} (and its successors and assigns) will make no claim on that copyright. If these conditions are not met, explicit {TPL} permission must be obtained. Nothing in this Section shall prevent {TPL} (and its successors and assigns) from exercising its rights in the Article.   All copies of part or all of the Article made under any of the Author Rights shall include the appropriate bibliographic citation and notice of the {TPL} copyright.  By submitting a paper to the {TPL} journal, authors agree to this Agreement, and represent and warrant that the Article is original with the author(s) and does not infringe any copyright or violate any other right of any third parties, and that the Article has not been published elsewhere, and is not being considered for publication elsewhere in any form, except as provided herein. The submitting author(s) also represent and warrant that they have the full power to enter into this Agreement and to make the grants contained herein.},
+	issn = {1741-8992},
+	url = {http://www.tplondon.com/journal/index.php/ml/article/view/538},
+	abstract = {In this study we analysed the perceptions about Syrian refugees as reflected in the newspapers. A qualitative design based on content analysis was adopted in this research. The news on Syrian refugees appeared in Hurriyet, Yeni Safak and Cumhuriyet newspapers between 1 January 2014 and 31 December 2014 have been analysed. These were classified on the basis of themes, styles, main concepts, and photographs used. Our findings show that, the political standing of the newspapers and their attitudes towards the Turkish government strongly affect the ways they shape the news about Syrian refugees.},
+	pages = {238--250},
+	number = {3},
+	journaltitle = {Migration Letters},
+	author = {Yaylacı, Filiz Göktuna and Karakuş, Mine},
+	urldate = {2015-11-08},
+	date = {2015-08-29},
+	langid = {english},
+	file = {Yaylacı_Karakuş_2015_Perceptions and newspaper coverage of Syrian refugees in Turkey.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Yaylacı_Karakuş/Yaylacı_Karakuş_2015_Perceptions and newspaper coverage of Syrian refugees in Turkey.pdf:application/pdf}
+}
+
+@article{doocy_internal_2015,
+	title = {Internal displacement and the Syrian crisis: an analysis of trends from 2011–2014},
+	volume = {9},
+	rights = {2015 Doocy et al.},
+	issn = {1752-1505},
+	url = {http://www.conflictandhealth.com/content/9/1/33/abstract},
+	doi = {10.1186/s13031-015-0060-7},
+	shorttitle = {Internal displacement and the Syrian crisis},
+	abstract = {Since the start of the Syrian crisis in 2011, civil unrest and armed conflict in the country have resulted in a rapidly increasing number of people displaced both within and outside of Syria. Those displaced face immense challenges in meeting their basic needs. This study sought to characterize internal displacement in Syria, including trends in both time and place, and to provide insights on the association between displacement and selected measures of household well-being and humanitarian needs.},
+	pages = {33},
+	number = {1},
+	journaltitle = {Conflict and Health},
+	author = {Doocy, Shannon and Lyles, Emily and Delbiso, Tefera D. and Robinson, Courtland W. and The {IOCC}/{GOPA} Study Team},
+	urldate = {2015-12-16},
+	date = {2015-10-01},
+	langid = {english},
+	pmid = {26430468},
+	keywords = {Conflict, Health, Internal displacement, Syria},
+	file = {Doocy et al_2015_Internal displacement and the Syrian crisis.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Doocy et al/Doocy et al_2015_Internal displacement and the Syrian crisis.pdf:application/pdf}
+}
+
+@article{bircan_educational_2015,
+	title = {Educational Assessment of Syrian Refugees in Turkey},
+	volume = {12},
+	rights = {Terms and conditions associated with Transnational Press London Journals Transfer of Copyright Agreement   Copyright to the unpublished and original article submitted by the author(s), the abstract forming part thereof, and any subsequent errata (collectively, the “Article”) is hereby transferred to the Transnational Press London ({TPL}) for the full term thereof throughout the world, subject to the Author Rights (as hereinafter defined) and to acceptance of the Article for publication in a journal of {TPL}. This transfer of copyright includes all material to be published as part of the Article (in any medium), including but not limited to tables, figures, graphs, movies, other multimedia files, and all supplemental materials. {TPL} shall have the right to register copyright to the Article in its name as claimant, whether separately or as part of the journal issue or other medium in which the Article is included.  The author(s) shall have the following rights (the “Author Rights”):   All proprietary rights other than copyright, such as patent rights.  The nonexclusive right, after publication by {TPL}, to give permission to third parties to republish print versions of the Article or a translation thereof, or excerpts therefrom, without obtaining permission from {TPL}, provided the {TPL}-prepared version is not used for this purpose, the Article is not republished in another journal, and the third party does not charge a fee. If the {TPL} version is used, or the third party republishes in a publication or product charging a fee for use, permission from {TPL} must be obtained.  The right to use all or part of the Article, including the {TPL}-prepared version without revision or modification, on the author(s)’ web home page or employer’s website and to make copies of all or part of the Article, including the {TPL}-prepared version without revision or modification, for the author(s)’ and/or the employer’s use for educational or research purposes.  The right to post and update the Article on free-access e-print servers as long as files prepared and/or formatted by {TPL} or its vendors are not used for that purpose. Any such posting made or updated after acceptance of the Article for publication shall include a link to the online abstract in the {TPL} journal or to the entry page of the journal. If the author wishes the {TPL}-prepared version to be used for an online posting other than on the author(s)’ or employer’s website, {TPL} permission is required; if permission is granted, {TPL} will provide the Article as it was published in the journal, and use will be subject to {TPL} terms and conditions.  The right to make, and hold copyright in, works derived from the Article, as long as all of the following conditions are met: (a) at least one author of the derived work is an author of the Article; (b) the derived work includes at least ten (10) percent of new material not covered by {TPL}’s copyright in the Article; and (c) the derived work includes no more than fifty (50) percent of the text (including equations) of the Article. If these conditions are met, copyright in the derived work rests with the authors of that work, and {TPL} (and its successors and assigns) will make no claim on that copyright. If these conditions are not met, explicit {TPL} permission must be obtained. Nothing in this Section shall prevent {TPL} (and its successors and assigns) from exercising its rights in the Article.   All copies of part or all of the Article made under any of the Author Rights shall include the appropriate bibliographic citation and notice of the {TPL} copyright.  By submitting a paper to the {TPL} journal, authors agree to this Agreement, and represent and warrant that the Article is original with the author(s) and does not infringe any copyright or violate any other right of any third parties, and that the Article has not been published elsewhere, and is not being considered for publication elsewhere in any form, except as provided herein. The submitting author(s) also represent and warrant that they have the full power to enter into this Agreement and to make the grants contained herein.},
+	issn = {1741-8992},
+	url = {http://www.tplondon.com/journal/index.php/ml/article/view/509},
+	abstract = {In political, social and economical terms, Turkey is the most affected country of the Syrian crisis. More importantly, Turkey as a host country of Syrian refugees has been living a dramatic demographic change. The most marginalized group living in Turkey is children. Refugee education has hence become of top priority. The global report in refugee education is below the critical level, but Turkish report is even worse in the contexts of not only accessibility and quality. This work refers to uniquely gathered dataset from {AFAD} and {UNHCR} in order to portray the current demography of Syrian refugees in particular concentrating on the ones living in camps.  Main purpose is elaborating the current educational assessment of Syrian child refugees in Turkey. Our findings indicate the significant number of refugee children in need of access to basic education at all levels and underlines the magnitude of scarce of education program development mainly due to lack of financial matters. Hence, it advises a kind of collaboration among implementing public and private partners at the local, national and international levels.},
+	pages = {226--237},
+	number = {3},
+	journaltitle = {Migration Letters},
+	author = {Bircan, Tuba and Sunata, Ulaş},
+	urldate = {2015-11-08},
+	date = {2015-07-26},
+	langid = {english},
+	file = {Bircan_Sunata_2015_Educational Assessment of Syrian Refugees in Turkey.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Bircan_Sunata/Bircan_Sunata_2015_Educational Assessment of Syrian Refugees in Turkey.pdf:application/pdf}
+}
+
+@article{sirkeci_measuring_2015,
+	title = {Measuring impact and the most influential works in Migration Studies},
+	volume = {12},
+	url = {http://tplondon.com/journal/index.php/ml/article/viewFile/570/415},
+	pages = {336--345},
+	number = {3},
+	journaltitle = {Migration Letters},
+	author = {Sirkeci, Ibrahim and Cohen, Jeffery},
+	urldate = {2015-10-24},
+	date = {2015},
+	file = {Sirkeci_Cohen_2015_Measuring impact and the most influential works in Migration Studies.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sirkeci_Cohen/Sirkeci_Cohen_2015_Measuring impact and the most influential works in Migration Studies.pdf:application/pdf}
+}
+
+
+@article{wahrendorf_previous_2015,
+	title = {Previous employment histories and quality of life in older ages: sequence analyses using {SHARELIFE}},
+	volume = {35},
+	issn = {1469-1779},
+	url = {http://journals.cambridge.org/article_S0144686X14000713},
+	doi = {10.1017/S0144686X14000713},
+	shorttitle = {Previous employment histories and quality of life in older ages},
+	abstract = {{ABSTRACT} This article summarizes previous employment histories and studies associations between types of histories and quality of life in older ages. Retrospective information from the Survey of Health, Ageing and Retirement in Europe ({SHARE}) was used and the occupational situation for each age between 30 and 65 of 4,808 men and 4,907 women aged 65 or older in Europe was considered. Similar histories were regrouped using sequence analyses, and multi-level modelling was applied to study associations with quality of life. To avoid reverse causality, individuals with poor health prior to or during their working life were excluded. Men's employment histories were dominated by long periods of paid employment that ended in retirement (‘regular’ histories). Women's histories were more diverse and also involved domestic work, either preceding regular careers (‘mixed’ histories) or dominating working life (‘home-maker’ histories). The highest quality of life was found among women with mixed histories and among men with regular histories and late retirement. In contrast, retirement between 55 and 60 (but not earlier) and regular histories ending in unemployment or domestic work (for men only) were related to lower quality of life, as well as home-maker histories in the case of women. Findings remain significant after controlling for social position, partnership and parental history, as well as income in older ages. Results point to the importance of continuous employment for health and wellbeing, not only during the working life, but also after labour market exit.},
+	pages = {1928--1959},
+	number = {9},
+	journaltitle = {Ageing \& Society},
+	author = {Wahrendorf, Morten},
+	urldate = {2015-12-23},
+	date = {2015-10},
+	note = {00002},
+	file = {Wahrendorf_2015_Previous employment histories and quality of life in older ages.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Wahrendorf/Wahrendorf_2015_Previous employment histories and quality of life in older ages.pdf:application/pdf}
+}
+
+@article{sanderson_faster_2015,
+	title = {Faster Increases in Human Life Expectancy Could Lead to Slower Population Aging},
+	volume = {10},
+	url = {http://dx.doi.org/10.1371/journal.pone.0121922},
+	doi = {10.1371/journal.pone.0121922},
+	abstract = {Counterintuitively, faster increases in human life expectancy could lead to slower population aging. The conventional view that faster increases in human life expectancy would lead to faster population aging is based on the assumption that people become old at a fixed chronological age. A preferable alternative is to base measures of aging on people’s time left to death, because this is more closely related to the characteristics that are associated with old age. Using this alternative interpretation, we show that faster increases in life expectancy would lead to slower population aging. Among other things, this finding affects the assessment of the speed at which countries will age.},
+	pages = {e0121922},
+	number = {4},
+	journaltitle = {{PLoS} {ONE}},
+	shortjournal = {{PLoS} {ONE}},
+	author = {Sanderson, Warren C. and Scherbov, Sergei},
+	urldate = {2015-11-01},
+	date = {2015-04-15},
+	file = {Sanderson_Scherbov_2015_Faster_Increases_in_Human_Life_Expectancy_Could_Lead_to_Slower_Population_Aging.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sanderson_Scherbov/Sanderson_Scherbov_2015_Faster_Increases_in_Human_Life_Expectancy_Could_Lead_to_Slower_Population_Aging.pdf:application/pdf}
+}
+
+@article{dukhovnov_who_2015,
+	title = {Who Takes Care of Whom in the United States? Time Transfers by Age and Sex},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00044.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00044.x},
+	shorttitle = {Who Takes Care of Whom in the United States?},
+	abstract = {Non-monetary transfers of time represent a largely unknown, yet pivotal component, of the support system in the United States. We map flows of time transfers, by age and sex, related to informal childcare and adult care in the {US}. We develop methods to estimate intra- and inter-household time transfers using data from the American Time Use Survey (2011–2013). We summarize the results in matrices of time flows by age and sex for the general {US} population, as well as for the “sandwich generation.” Most time transfers flow downwards from parents to young children, with relevant gender differences. The time produced by the sandwich generation is directed toward a more diverse population spectrum, including substantial intra-generational transfers to spouses. Extrapolations based on our findings reveal a projected rise in demand, relative to supply, of informal care, indicating that, to maintain current levels of care, {US} society will have to rely more heavily either on the market or on an increased effort of caregivers.},
+	pages = {183--206},
+	number = {2},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Dukhovnov, Denys and Zagheni, Emilio},
+	urldate = {2015-11-10},
+	date = {2015-06-01},
+	langid = {english},
+	file = {Dukhovnov_Zagheni_2015_Who_Takes_Care_of_Whom_in_the_United_States.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Dukhovnov_Zagheni/Dukhovnov_Zagheni_2015_Who_Takes_Care_of_Whom_in_the_United_States.pdf:application/pdf}
+}
+
+@article{sagi_amusing_2008,
+	title = {Amusing titles in scientific journals and article citation},
+	volume = {34},
+	url = {http://jis.sagepub.com/content/34/5/680.short},
+	pages = {680--687},
+	number = {5},
+	journaltitle = {Journal of Information Science},
+	author = {Sagi, Itay and Yechiam, Eldad},
+	urldate = {2015-12-23},
+	date = {2008}
+}
+
+@article{jamali_article_2011,
+	title = {Article title type and its relation with the number of downloads and citations},
+	volume = {88},
+	issn = {0138-9130, 1588-2861},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s11192-011-0412-z},
+	doi = {10.1007/s11192-011-0412-z},
+	abstract = {Title of an article can be descriptive, declarative or a question. It plays important role in both marketing and findability of article. We investigate the impact of the type of article titles on the number of citations and downloads articles receive. Number of downloads and citations for all articles published in six of {PLoS} (Public Library of Science) journals (2,172 articles) were obtained from {PLoS} and type of each article’s title (including descriptive, indicative and question) was determined as well as the number of substantive words in title (title length). Statistical difference and correlation tests were carried out. The findings showed that differences exist between articles with different types of titles in terms of downloads and citations, especially articles with question titles tended to be downloaded more but cited less than the others. Articles with longer titles were downloaded slightly less than the articles with shorter titles. Titles with colon tended to be longer and receive fewer downloads and citations. As expected, number of downloads and citations were positively correlated.},
+	pages = {653--661},
+	number = {2},
+	journaltitle = {Scientometrics},
+	shortjournal = {Scientometrics},
+	author = {Jamali, Hamid R. and Nikzad, Mahsa},
+	urldate = {2015-12-23},
+	date = {2011-05-19},
+	langid = {english},
+	keywords = {Article titles, Citation, Colon, Download, Information Storage and Retrieval, Interdisciplinary Studies, Library Science, Title length}
+}
+
+@article{fox_urban_2015,
+	title = {Urban fertility responses to local government programs: Evidence from the 1923-1932 U.S.},
+	volume = {32},
+	issn = {1435-9871},
+	url = {http://www.demographic-research.org/volumes/vol32/16/},
+	doi = {10.4054/DemRes.2015.32.16},
+	shorttitle = {Urban fertility responses to local government programs},
+	pages = {487--532},
+	journaltitle = {Demographic Research},
+	author = {Fox, Jonathan and Myrskylä, Mikko},
+	urldate = {2015-02-18},
+	date = {2015-02-18},
+	langid = {english},
+	file = {Fox_Myrskylä_2015_Urban fertility responses to local government programs.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Fox_Myrskylä/Fox_Myrskylä_2015_Urban fertility responses to local government programs.pdf:application/pdf}
+}
+
+@article{norberg_cesarean_2016,
+	title = {Cesarean sections and subsequent fertility},
+	volume = {29},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com/article/10.1007/s00148-015-0567-7},
+	doi = {10.1007/s00148-015-0567-7},
+	abstract = {Cesarean sections are rising all over the world and may, in some countries, soon become the most common delivery mode. A growing body of medical literature documents a robust fact: women undergoing cesarean sections end up having less children. Unlike most of the medical literature, which assumes that this association is mostly working through a physiological channel, we investigate a possible channel linking c-section and subsequent fertility through differences in maternal behavior after a c-section. Using several national and cross-national demographic data sources, we find evidence that maternal choice is playing an important role in shaping the negative association between cesarean section and subsequent fertility. In particular, we show that women are more likely to engage in active contraception after a cesarean delivery and conclude that intentional avoidance of subsequent pregnancies after a c-section seems to be responsible for part of the negative association between c-sections and subsequent fertility.},
+	pages = {5--37},
+	number = {1},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Norberg, Karen and Pantano, Juan},
+	urldate = {2015-11-08},
+	date = {2016},
+	langid = {english},
+	keywords = {C-Sections, Demography, {FERTILITY}, I10, Infertility, J11, J13, Labor Economics, Population Economics, Reproductive Health, Social Policy},
+	file = {Norberg_Pantano_2016_Cesarean sections and subsequent fertility.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Norberg_Pantano/Norberg_Pantano_2016_Cesarean sections and subsequent fertility.pdf:application/pdf}
+}
+
+@article{herr_measuring_2015,
+	title = {Measuring the effect of the timing of first birth on wages},
+	volume = {29},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s00148-015-0554-z},
+	doi = {10.1007/s00148-015-0554-z},
+	abstract = {I study the effect of first-birth timing on women’s wages, defining timing in terms of labor force entry, rather than age. Considering the mechanisms by which timing may affect wages, each is a function of experience rather than age. This transformation also highlights the distinction between a first birth after labor market entry versus before. I show that estimates based on age understate the return to delay for women who remain childless at labor market entry and have obscured the negative return to delay—to a first birth after labor market entry rather than before—for all but college graduates. My results suggest, however, that these returns to first-birth timing may hold only for non-Hispanic white women.},
+	pages = {39--72},
+	number = {1},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Herr, Jane Leber},
+	urldate = {2016-01-18},
+	date = {2015-05-14},
+	langid = {english},
+	keywords = {Demography, First-birth timing, J13, J16, J31, Labor Economics, Population Economics, Social Policy, Wages, women},
+	file = {Herr_2015_Measuring the effect of the timing of first birth on wages.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Herr/Herr_2015_Measuring the effect of the timing of first birth on wages.pdf:application/pdf}
+}
+
+@article{gammon_infoporn:_2009,
+	title = {Infoporn: Today's Playmates Are More Like Anime Figures Than Real Humans},
+	url = {http://archive.wired.com/special_multimedia/2009/st_infoporn_1702},
+	shorttitle = {Infoporn},
+	abstract = {See the latest multimedia and applications including videos, animations, podcasts, photos, and slideshows on Wired.com},
+	journaltitle = {{WIRED}},
+	author = {Gammon, Katharine},
+	urldate = {2015-11-09},
+	date = {2009},
+	file = {Gammon_2009_Infoporn.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Gammon/Gammon_2009_Infoporn.pdf:application/pdf}
+}
+
+@article{gammon_playboys_2015,
+	title = {Playboy’s Image of the Ideal Woman Sure Has Changed},
+	url = {http://www.wired.com/2015/10/playboy-playmates-bmi/},
+	abstract = {We ran the numbers. While American women’s average {BMI} has gone up, Playboy’s largely imagined {BMI} has gone down.},
+	journaltitle = {{WIRED}},
+	author = {Gammon, Katharine},
+	urldate = {2015-11-09},
+	date = {2015-10-15}
+}
+
+@article{myrskyla_happiness:_2014,
+	title = {Happiness: Before and After the Kids},
+	volume = {51},
+	issn = {0070-3370, 1533-7790},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s13524-014-0321-x},
+	doi = {10.1007/s13524-014-0321-x},
+	shorttitle = {Happiness},
+	abstract = {Understanding how having children influences parents’ subjective well-being (“happiness”) has great potential to explain fertility behavior. We study parental happiness trajectories before and after the birth of a child, using large British and German longitudinal data sets. We account for unobserved parental characteristics using fixed-effects models and study how sociodemographic factors modify the parental happiness trajectories. Consistent with existing work, we find that happiness increases in the years around the birth of a first child and then decreases to before-child levels. Moreover, happiness increases before birth, suggesting that the trajectories may capture not only the effect of the birth but also the broader process of childbearing, which may include partnership formation and quality. Sociodemographic factors strongly modify this pattern. Those who have children at older ages or who have more education have a particularly positive happiness response to a first birth; and although having the first two children increases happiness, having a third child does not. The results, which are similar in Britain and Germany, suggest that having up to two children increases happiness, and mostly for those who have postponed childbearing. This pattern is consistent with the fertility behavior that emerged during the second demographic transition and provides new insights into low and late fertility.},
+	pages = {1843--1866},
+	number = {5},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Myrskylä, Mikko and Margolis, Rachel},
+	urldate = {2016-01-13},
+	date = {2014-08-21},
+	langid = {english},
+	keywords = {Demography, {FERTILITY}, Geography (general), Happiness, Life course, Medicine/Public Health, general, Parenthood, Population Economics, Sociology, general},
+	file = {Myrskylä_Margolis_2014_Happiness.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Myrskylä_Margolis/Myrskylä_Margolis_2014_Happiness.pdf:application/pdf}
+}
+
+@article{van_mol_relationship_2016,
+	title = {Relationship satisfaction of European binational couples in the Netherlands},
+	volume = {50},
+	issn = {0147-1767},
+	url = {http://www.sciencedirect.com/science/article/pii/S0147176715301577},
+	doi = {10.1016/j.ijintrel.2015.12.001},
+	abstract = {In this paper, we focus on relationship satisfaction of European binational unions. Although such couples can be considered icons of European integration, little is known about these partnerships as well as the factors affecting relationship satisfaction. We base our analysis on the Dutch data of the {EUMARR}-project, a unique data set on European binational unions (n = 898). We reveal that Europeans in binational unions report higher relationship satisfaction compared to Dutch individuals in binational European and uninational partnerships. Furthermore, our analysis shows that married individuals are more satisfied compared to cohabiting individuals. Finally, having children is negatively and the availability of social support positively correlated with relationship satisfaction. The presence of children shows to be especially challenging for Dutch people in binational unions.},
+	pages = {50--59},
+	journaltitle = {International Journal of Intercultural Relations},
+	shortjournal = {International Journal of Intercultural Relations},
+	author = {Van Mol, Christof and de Valk, Helga A. G.},
+	urldate = {2016-02-10},
+	date = {2016-01},
+	keywords = {Binational union formation, European Integration, Intra-European mobility, Relationship satisfaction, The Netherlands},
+	file = {Van Mol_de Valk_2016_Relationship satisfaction of European binational couples in the Netherlands.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Van Mol_de Valk/Van Mol_de Valk_2016_Relationship satisfaction of European binational couples in the Netherlands.pdf:application/pdf}
+}
+
+@article{switek_internal_2016,
+	title = {Internal Migration and Life Satisfaction: Well-Being Paths of Young Adult Migrants},
+	volume = {125},
+	issn = {0303-8300, 1573-0921},
+	url = {http://link.springer.com/article/10.1007/s11205-014-0829-x},
+	doi = {10.1007/s11205-014-0829-x},
+	shorttitle = {Internal Migration and Life Satisfaction},
+	abstract = {Internal migration is typically associated with higher income, but its relation with life satisfaction remains unclear. Is internal migration accompanied by an increase in life satisfaction and does this increase depend on the reason for moving? What are the aspects of life underlying overall life satisfaction that change following migration? These questions are addressed using longitudinal data from the Swedish Young Adult Panel Study. Migration is defined as a change in municipality of residence. Comparing migrants to non-migrants, it is found that internal migration is accompanied by a short to medium term increase in life satisfaction for those who move due to work (work migrants), as well as those who move for other reasons (non-work migrants). However, only work migrants display an improvement in life satisfaction that remains significant 6 or more years following the move. Work and non-work migrants also differ in the aspects of life that change following migration. For work migrants the move is accompanied by an improvement in occupational status positively associated with well-being 6–10 years after the move. For non-work migrants, a persisting increase in housing satisfaction follows migration, but this housing improvement is accompanied by only a short to medium term increase in overall well-being.},
+	pages = {191--241},
+	number = {1},
+	journaltitle = {Social Indicators Research},
+	shortjournal = {Soc Indic Res},
+	author = {Switek, Malgorzata},
+	urldate = {2016-02-09},
+	date = {2016},
+	langid = {english},
+	keywords = {Domain analysis, Human Geography, {INTERNAL} migration, Life satisfaction, Microeconomics, Occupational status, {PUBLIC} health, Quality of Life Research, Sociology, general},
+	file = {Switek_2016_Internal Migration and Life Satisfaction.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Switek/Switek_2016_Internal Migration and Life Satisfaction.pdf:application/pdf}
+}
+
+@online{leetaru_mapping_2016,
+	title = {Mapping World Happiness And Conflict Through Global News And Image Mining},
+	url = {http://www.forbes.com/sites/kalevleetaru/2016/01/13/mapping-world-happiness-and-conflict-through-global-news-and-image-mining/#7eefc38946a4},
+	abstract = {What nearly 200 million global news articles, 1.4 million photographs, 89 million events, 1.48 billion location mentions and 860 billion emotion scores can teach us about the state of the world in 2015},
+	titleaddon = {Forbes},
+	author = {Leetaru, Kalev},
+	urldate = {2016-02-09},
+	date = {2016-01-13}
+}
+
+@article{barclay_birth_2015,
+	title = {Birth Order and Mortality: A Population-Based Cohort Study},
+	volume = {52},
+	issn = {0070-3370},
+	url = {http://dx.doi.org/10.1007/s13524-015-0377-2},
+	doi = {10.1007/s13524-015-0377-2},
+	shorttitle = {Birth Order and Mortality},
+	pages = {613--639},
+	number = {2},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Barclay, Kieron and Kolk, Martin},
+	urldate = {2016-02-26},
+	date = {2015-04-01},
+	keywords = {Birth order, Fixed effects, Mortality, Population register data, Sweden},
+	file = {Barclay_Kolk_2015_Birth Order and Mortality.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Barclay_Kolk/Barclay_Kolk_2015_Birth Order and Mortality.pdf:application/pdf}
+}
+
+@article{klusener_long-standing_2016,
+	title = {A Long-Standing Demographic East–West Divide in Germany},
+	volume = {22},
+	rights = {Copyright © 2014 John Wiley \& Sons, Ltd.},
+	issn = {1544-8452},
+	url = {http://onlinelibrary.wiley.com/doi/10.1002/psp.1870/abstract},
+	doi = {10.1002/psp.1870},
+	abstract = {Over the last 25 years, a large number of studies have looked at the demographic differences between the previously divided eastern and western parts of Germany. The two regions have converged with respect to mortality and overall fertility levels. But in terms of family formation behaviour, differences remain. Non-marital births are the norm in eastern Germany, whereas they are still the exception in western Germany. Various explanations for these differences have been offered, with the most persuasive linking policy and socio-economic conditions in eastern and western Germany after 1945 with the persistence of regional patterns. Here, we show that the non-marital fertility divide pre-dates the 1945 division of Germany. Indeed, already in the early 20th century, the areas of eastern Germany that made up the German Democratic Republic had, on average, roughly twice the non-marital fertility levels of western Germany. In the first part of our paper, we document the history of this long-standing pattern and provide a set of explanations for its emergence. In the second part, we apply multi-level models to birth register data to explore whether East–West differences in non-marital fertility would remain even under scenarios such as convergence in secularisation levels and economic conditions. The persistence of the past suggests that explanations for family formation differences between eastern and western Germany based solely on the most recent and current conditions are incomplete, and that convergence, if it occurs at all, will take longer than anticipated, perhaps lasting many decades or more. Copyright © 2014 John Wiley \& Sons, Ltd.},
+	pages = {5--22},
+	number = {1},
+	journaltitle = {Population, Space and Place},
+	shortjournal = {Popul. Space Place},
+	author = {Klüsener, Sebastian and Goldstein, Joshua R.},
+	urldate = {2016-02-23},
+	date = {2016-01-01},
+	langid = {english},
+	keywords = {German Democratic Republic, Germany, non-marital fertility, persistence of the past, Spatial analysis, spatial divide},
+	file = {Klüsener_Goldstein_2016_A Long-Standing Demographic East–West Divide in Germany.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Klüsener_Goldstein/Klüsener_Goldstein_2016_A Long-Standing Demographic East–West Divide in Germany.pdf:application/pdf}
+}
+
+@article{vitali_changing_2015,
+	title = {Changing Determinants of Low Fertility and Diffusion: a Spatial Analysis for Italy},
+	rights = {Copyright © 2015 John Wiley \& Sons, Ltd.},
+	issn = {1544-8452},
+	url = {http://onlinelibrary.wiley.com/doi/10.1002/psp.1998/abstract},
+	doi = {10.1002/psp.1998},
+	shorttitle = {Changing Determinants of Low Fertility and Diffusion},
+	abstract = {Italy is a case study in lowest-low fertility. Its internal heterogeneity is substantial and changing over time. The paper has two main aims. First, it aims at investigating whether the theoretical framework offered by the diffusionist perspective to fertility transition could still be relevant in explaining fertility changes in contemporary advanced societies. Second, the paper aims at investigating if and how the associations between fertility and a series of indicators of secularisation, female occupation, contribution of fertility of immigrants, and economic development change across space and over time. We make use of geographically weighted regressions and spatial panel regressions to model explicitly spatial dependence in fertility among Italian provinces over the period between 1999 and 2010. Results show that spatial dependence in provincial fertility persists even after controlling for standard correlates of fertility, consistently with a diffusionist perspective. Further, the local association between fertility and its correlates is not homogeneous across provinces. The strength and in some cases also the direction of such associations vary spatially, suggesting that the determinants of low fertility change across space. Finally, the associations between fertility and its correlates change over time. Copyright © 2015 John Wiley \& Sons, Ltd.},
+	pages = {n/a--n/a},
+	journaltitle = {Population, Space and Place},
+	shortjournal = {Popul. Space Place},
+	author = {Vitali, Agnese and Billari, Francesco C.},
+	urldate = {2016-03-07},
+	date = {2015-01-01},
+	langid = {english},
+	keywords = {geographically weighted regression, Italy, Low fertility, spatial panel models},
+	file = {Vitali_Billari_2015_Changing Determinants of Low Fertility and Diffusion.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Vitali_Billari/Vitali_Billari_2015_Changing Determinants of Low Fertility and Diffusion.pdf:application/pdf}
+}
+
+@article{liefbroer_why_2015,
+	title = {Why do intimate partners live apart? Evidence on {LAT} relationships across Europe},
+	volume = {32},
+	url = {http://search.proquest.com/openview/52b2fb4e4c42cb9860b9ec266e98a593/1?pq-origsite=gscholar},
+	shorttitle = {Why do intimate partners live apart?},
+	pages = {251--286},
+	journaltitle = {Demographic research},
+	author = {Liefbroer, Aart C. and Poortman, Anne-Rigt and Seltzer, Judith A.},
+	urldate = {2016-03-07},
+	date = {2015},
+	file = {Liefbroer et al_2015_Why do intimate partners live apart.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Liefbroer et al/Liefbroer et al_2015_Why do intimate partners live apart.pdf:application/pdf}
+}
+
+@article{grigoriev_huge_2015,
+	title = {The huge reduction in adult male mortality in Belarus and Russia: is it attributable to anti-alcohol measures?},
+	volume = {10},
+	url = {http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0138021},
+	shorttitle = {The huge reduction in adult male mortality in Belarus and Russia},
+	pages = {e0138021},
+	number = {9},
+	journaltitle = {{PLoS} {ONE}},
+	author = {Grigoriev, Pavel and Andreev, Evgeny M.},
+	urldate = {2016-02-09},
+	date = {2015},
+	file = {Grigoriev_Andreev_2015_The huge reduction in adult male mortality in Belarus and Russia.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Grigoriev_Andreev/Grigoriev_Andreev_2015_The huge reduction in adult male mortality in Belarus and Russia.pdf:application/pdf}
+}
+
+@article{tamborini_education_2015,
+	title = {Education and Lifetime Earnings in the United States},
+	volume = {52},
+	issn = {0070-3370, 1533-7790},
+	url = {http://link.springer.com/article/10.1007/s13524-015-0407-0},
+	doi = {10.1007/s13524-015-0407-0},
+	abstract = {Differences in lifetime earnings by educational attainment have been of great research and policy interest. Although a large literature examines earnings differences by educational attainment, research on lifetime earnings—which refers to total accumulated earnings from entry into the labor market until retirement—remains limited because of the paucity of adequate data. Using data that match respondents in the Survey of Income and Program Participation to their longitudinal tax earnings as recorded by the Social Security Administration, we estimate the 50-year work career effects of education on lifetime earnings for men and women. By overcoming the purely synthetic cohort approach, our results provide a more realistic appraisal of actual patterns of lifetime earnings. Detailed estimates are provided for gross lifetime earnings by education; net lifetime earnings after controlling for covariates associated with the probability of obtaining a bachelor’s degree; and the net present 50-year lifetime value of education at age 20. In addition, we provide estimates that include individuals with zero earnings and disability. We also assess the adequacy of the purely synthetic cohort approach, which uses age differences in earnings observed in cross-sectional surveys to approximate lifetime earnings. Overall, our results confirm the persistent positive effects of higher education on earnings over different stages of the work career and over a lifetime, but also reveal notably smaller net effects on lifetime earnings compared with previously reported estimates. We discuss the implications of these and other findings.},
+	pages = {1383--1407},
+	number = {4},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Tamborini, Christopher R. and Kim, {ChangHwan} and Sakamoto, Arthur},
+	urldate = {2016-03-21},
+	date = {2015-06-23},
+	langid = {english},
+	keywords = {Demography, Economic returns to college, Geography (general), Lifetime earnings, Medicine/Public Health, general, Population Economics, Semi-synthetic cohort estimation, Sociology, general, Survey of Income and Program Participation},
+	file = {Tamborini et al_2015_Education and Lifetime Earnings in the United States.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Tamborini et al/Tamborini et al_2015_Education and Lifetime Earnings in the United States.pdf:application/pdf}
+}
+
+@article{goldschmidt_demonstration_2016,
+	title = {A Demonstration of the Causal Power of Absences},
+	volume = {70},
+	rights = {© 2016 The Author dialectica © 2016 Editorial Board of dialectica},
+	issn = {1746-8361},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/1746-8361.12128/abstract},
+	doi = {10.1111/1746-8361.12128},
+	pages = {85--85},
+	number = {1},
+	journaltitle = {Dialectica},
+	shortjournal = {Dialectica},
+	author = {Goldschmidt, Tyron},
+	urldate = {2016-03-25},
+	date = {2016-03-01},
+	langid = {english},
+	file = {Goldschmidt_2016_A Demonstration of the Causal Power of Absences.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Goldschmidt/Goldschmidt_2016_A Demonstration of the Causal Power of Absences.pdf:application/pdf}
+}
+
+@article{scherbov_does_2016,
+	title = {Does selection of mortality model make a difference in projecting population ageing?},
+	volume = {34},
+	url = {http://www.demographic-research.org/volumes/vol34/2/},
+	doi = {10.4054/DemRes.2016.34.2},
+	abstract = {Background: In low mortality countries, assessing future ageing depends to a large extent on scenarios of future mortality reduction at old age. Often in population projections mortality reduction is implemented via life expectancy increases that do not specify mortality change at specific age groups. The selection of models that translate life expectancy into age-specific mortality rates may be of great importance for projecting the older age groups of future populations and indicators of ageing.
+
+Objective: We quantify how the selection of mortality models, assuming similar life expectancy scenarios, affects projected indices of population ageing.
+
+Methods: Using the cohort-component method, we project the populations of Italy, Japan, Russia, Sweden, and the {USA}. For each country, the given scenario of life expectancy at birth is translated into age-specific death rates by applying four alternative mortality models (variants of extrapolations of the log-mortality rates, the Brass relational model, and the Bongaarts shifting model). The models are contrasted according to their produced future age-specific mortality rates, population age composition, life expectancy at age 65, age at remaining life expectancy 15 years, and conventional and prospective old-age dependency ratios.
+
+Conclusions: We show strong differences between the alternative mortality models in terms of mortality age pattern and ageing indicators. Researchers of population ageing should be as careful about their choice of model of age patterns of future mortality as about scenarios of future life expectancy. The simultaneous extrapolation of age-specific death rates may be a better alternative to projecting life expectancy first and then deriving the age patterns of mortality in the second step.},
+	pages = {39--62},
+	number = {2},
+	journaltitle = {Demographic Research},
+	shortjournal = {Demographic Research},
+	author = {Scherbov, Sergei and Ediev, Dalkhat},
+	urldate = {2016-01-18},
+	date = {2016-01-13},
+	file = {Scherbov_Ediev_2016_Does selection of mortality model make a difference in projecting population.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Scherbov_Ediev/Scherbov_Ediev_2016_Does selection of mortality model make a difference in projecting population.pdf:application/pdf}
+}
+
+@article{matsudaira_economic_2015,
+	title = {Economic conditions and the living arrangements of young adults: 1960 to 2011},
+	volume = {29},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s00148-015-0555-y},
+	doi = {10.1007/s00148-015-0555-y},
+	shorttitle = {Economic conditions and the living arrangements of young adults},
+	abstract = {The recent economic downturn in the {USA} has coincided with stories of young men and women choosing to remain at home, or to move back in with their parents since they cannot afford to live independently. This paper first describes changes in parental coresidence over the last half-century, and then assesses the causal link between economic conditions and living arrangements among young adults using data on more than 15 million individuals from 1960 to 2011. Comparing changes in economic conditions across {US} states to changes in living arrangements, I find that fewer jobs, low wages, and high rental costs all lead to increases in the numbers of men and women living with their parents. The magnitudes of the effects are quite large: for men, I estimate that changes in economic factors alone are large enough to have caused the observed changes in parental coresidence between 1970 and 2011.},
+	pages = {167--195},
+	number = {1},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Matsudaira, Jordan D.},
+	urldate = {2016-01-18},
+	date = {2015-05-24},
+	langid = {english},
+	keywords = {Demography, Household formation, Impact of the great recession, J11, J12, Labor Economics, Living arrangements, Parental coresidence, Population Economics, R20, Social Policy},
+	file = {Matsudaira_2015_Economic conditions and the living arrangements of young adults.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Matsudaira/Matsudaira_2015_Economic conditions and the living arrangements of young adults.pdf:application/pdf}
+}
+
+@article{marshall_population_2015,
+	title = {Population Projections and Demographic Knowledge in France and Great Britain in the Postwar Period},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00047.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00047.x},
+	abstract = {This study examines how official national population projections—a key mechanism for the production and dissemination of demographic knowledge—contributed to differing interpretations of population and fertility trends in France and Great Britain in the decades following World War {II}, despite these countries' similar fertility rates during most of this period. Projections presented different visions of the demographic future in the two countries. In France, publication of multiple variants emphasized future contingency, with low variants illustrating future population decline due to prolonged below-replacement fertility. In Britain, publication of a single variant, assuming near-replacement-level fertility rates, projected moderate growth. National population projections thus created divergent representations of the two countries' demographic futures: an ever-present threat of population decline in France, and a reassuring image of stability in Britain. Two principal mechanisms that contributed to cross-national differences in population projections—national demographic history and institutional configurations—are discussed.},
+	pages = {271--300},
+	number = {2},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Marshall, Emily A.},
+	urldate = {2015-11-10},
+	date = {2015-06-01},
+	langid = {english},
+	file = {Marshall_2015_Population_Projections_and_Demographic_Knowledge_in_France_and_Great_Britain_in.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Marshall/Marshall_2015_Population_Projections_and_Demographic_Knowledge_in_France_and_Great_Britain_in.pdf:application/pdf}
+}
+
+@article{van_raalte_role_2015,
+	title = {The role of smoking on mortality compression: An analysis of Finnish occupational social classes, 1971-2010},
+	volume = {32},
+	url = {http://search.proquest.com/openview/52b2fb4e4c42cb982a8373c36d00f36a/1?pq-origsite=gscholar},
+	doi = {10.4054/DemRes.2015.32.20},
+	shorttitle = {The role of smoking on mortality compression},
+	pages = {589--620},
+	journaltitle = {Demographic Research},
+	author = {van Raalte, Alyson A. and Myrskylä, Mikko and Martikainen, Pekka},
+	urldate = {2016-02-09},
+	date = {2015},
+	file = {van Raalte et al_2015_The role of smoking on mortality compression.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/van Raalte et al/van Raalte et al_2015_The role of smoking on mortality compression.pdf:application/pdf}
+}
+
+@article{janssen_role_2015,
+	title = {The role of smoking in changes in the survival curve: an empirical study in 10 European countries},
+	volume = {25},
+	issn = {1047-2797},
+	url = {http://www.sciencedirect.com/science/article/pii/S1047279715000290},
+	doi = {10.1016/j.annepidem.2015.01.007},
+	shorttitle = {The role of smoking in changes in the survival curve},
+	abstract = {Purpose
+We examined the role of smoking in the two dimensions behind the time trends in adult mortality in European countries, that is, rectangularization of the survival curve (mortality compression) and longevity extension (increase in the age-at-death).
+Methods
+Using data on national sex-specific populations aged 50 years and older from Denmark, Finland, France, West Germany, Italy, the Netherlands, Norway, Sweden, Switzerland, and the United Kingdom, we studied trends in life expectancy, rectangularity, and longevity from 1950 to 2009 for both all-cause and nonsmoking-related mortality and correlated them with trends in lifetime smoking prevalence.
+Results
+For all-cause mortality, rectangularization accelerated around 1980 among men in all the countries studied, and more recently among women in Denmark and the United Kingdom. Trends in lifetime smoking prevalence correlated negatively with both rectangularization and longevity extension, but more negatively with rectangularization. For nonsmoking-related mortality, rectangularization among men did not accelerate around 1980. Among women, the differences between all-cause mortality and nonsmoking-related mortality were small, but larger for rectangularization than for longevity extension. Rectangularization contributed less to the increase in life expectancy than longevity extension, especially for nonsmoking-related mortality among men.
+Conclusions
+Smoking affects rectangularization more than longevity extension, both among men and women.},
+	pages = {243--249},
+	number = {4},
+	journaltitle = {Annals of Epidemiology},
+	shortjournal = {Annals of Epidemiology},
+	author = {Janssen, Fanny and Rousson, Valentin and Paccaud, Fred},
+	urldate = {2016-02-09},
+	date = {2015-04},
+	keywords = {Compression, life expectancy, Mortality, Sex differences, Smoking-related mortality},
+	file = {Janssen et al_2015_The role of smoking in changes in the survival curve.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Janssen et al/Janssen et al_2015_The role of smoking in changes in the survival curve.pdf:application/pdf}
+}
+
+@article{janssen_adoption_2015,
+	title = {The adoption of smoking and its effect on the mortality gender gap in Netherlands: A historical perspective},
+	volume = {2015},
+	url = {http://downloads.hindawi.com/journals/bmri/aa/370274.pdf},
+	doi = {10.1155/2015/370274},
+	shorttitle = {The adoption of smoking and its effect on the mortality gender gap in Netherlands},
+	pages = {1--12},
+	journaltitle = {{BioMed} research international},
+	author = {Janssen, Fanny and van Poppel, Frans},
+	urldate = {2016-02-09},
+	date = {2015},
+	file = {Janssen_van Poppel_2015_The adoption of smoking and its effect on the mortality gender gap in.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Janssen_van Poppel/Janssen_van Poppel_2015_The adoption of smoking and its effect on the mortality gender gap in.pdf:application/pdf}
+}
+
+@article{kelly_contribution_2016,
+	title = {The contribution of a history of heavy smoking to Scotland's mortality disadvantage},
+	volume = {70},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2016.1145727},
+	doi = {10.1080/00324728.2016.1145727},
+	abstract = {Scotland has a lower life expectancy than any country in Western Europe or North America, and this disadvantage is concentrated above age 50. According to the Human Mortality Database, life expectancy at age 50 has been lower in Scotland than in any other developed country since 1980. Relative to 15 developed countries that we have chosen for comparison, Scotland's life expectancy in 2009 at age 50 was lower by an average of 2.5 years for women and 1.6 years for men. We estimate that Scottish women lost 3.6 years of life expectancy at age 50 as a result of smoking, compared to 1.4 years for the comparison countries. The equivalent figures among men are 3.1 and 2.1 years. These differences are large enough for the history of heavy smoking in Scotland to account both for most of the shortfall in life expectancy for both sexes and for the country's unusually narrow sex differences in life expectancy.},
+	pages = {59--71},
+	number = {1},
+	journaltitle = {Population Studies},
+	author = {Kelly, Laura A. and Preston, Samuel H.},
+	urldate = {2016-03-21},
+	date = {2016-01-02},
+	pmid = {26915969},
+	file = {Kelly_Preston_2016_The contribution of a history of heavy smoking to Scotland's mortality.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Kelly_Preston/Kelly_Preston_2016_The contribution of a history of heavy smoking to Scotland's mortality.pdf:application/pdf}
+}
+
+@article{dion_long-term_2015,
+	title = {Long-Term Contribution of Immigration to Population Renewal in Canada: A Simulation},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00028.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00028.x},
+	shorttitle = {Long-Term Contribution of Immigration to Population Renewal in Canada},
+	abstract = {We analyze the direct and indirect demographic contribution of immigration to the foreign-origin composition of the Canadian population according to various projection scenarios over a century, from 2006 to 2106. More specifically, we use Statistics Canada's Demosim microsimulation model to assess the long-term sensitivity to immigration levels and the frequency of mixed unions of the share of immigrants in Canada and of persons who have at least one ancestor who arrived after 2006. The results of the simulations show that the population renewal process through immigration happens at a fast pace in a high immigration and low fertility country such as Canada. Under the scenarios developed, immigrants who entered after 2006 and their descendants could form the majority of the population by 2058 at the earliest and by 2079 at the latest and could represent between 62 percent and 88 percent in 2106. They also show that mixed unions are a key element of the speed at which the changes are likely to occur in the long run.},
+	pages = {109--126},
+	number = {1},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Dion, Patrice and Caron-Malenfant, Éric and Grondin, Chantal and Grenier, Dominic},
+	urldate = {2015-11-26},
+	date = {2015-03-01},
+	langid = {english},
+	note = {00000},
+	file = {Dion et al_2015_Long-Term Contribution of Immigration to Population Renewal in Canada.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Dion et al/Dion et al_2015_Long-Term Contribution of Immigration to Population Renewal in Canada.pdf:application/pdf}
+}
+
+@article{rallu_projections_2016,
+	title = {Projections of Older Immigrants in France, 2008–2028},
+	rights = {Copyright © 2016 John Wiley \& Sons, Ltd.},
+	issn = {1544-8452},
+	url = {http://onlinelibrary.wiley.com/doi/10.1002/psp.2012/abstract},
+	doi = {10.1002/psp.2012},
+	abstract = {Projections of elderly international migrants in France can provide data for social and health services to serve culturally and linguistically diverse elderly populations. In this regard, projections of future demographic trends are more useful than consideration of current migrant age structures, as the latter are biased. Often, immigrant children born in a host country are not counted with their parents for a variety of reasons. The paper evaluates the nature of return migration flows by older migrants. Although the volume of movement is lower than at younger working ages, immigration to France at older ages is significant and is made up mostly of women. However, the main component influencing trends in elderly migrants is age structure, which varies according to origin and migration history; were moves pre-independence or post-independence in relation to the country of origin: did they occur during an economic boom or bust; and how were they timed in relation to the policy environment? The paper shows how France's ‘closed-border’ policy from 1975 onwards and subsequent family reunification impacted on migration trends of older people by sex. Looking to the future, the migrant communities of longest standing will increase slightly. Exceptions include the Italians and Spanish who will decline in size. Those who arrived later – Moroccans, Turks, and ‘others’ – will increase more than twofold, and sub-Saharan Africans up to sixfold. The numbers of women will increase more rapidly than men. Copyright © 2016 John Wiley \& Sons, Ltd.},
+	pages = {n/a--n/a},
+	journaltitle = {Population, Space and Place},
+	shortjournal = {Popul. Space Place},
+	author = {Rallu, Jean-Louis},
+	urldate = {2016-03-07},
+	date = {2016-01-01},
+	langid = {english},
+	keywords = {migrant ageing, old-age mobility, population projections in France},
+	file = {Rallu_2016_Projections of Older Immigrants in France, 2008–2028.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Rallu/Rallu_2016_Projections of Older Immigrants in France, 2008–2028.pdf:application/pdf}
+}
+
+@incollection{tolts_demographic_2015,
+	location = {Boston, {MA}},
+	title = {Demographic Transformations among Ex-Soviet Migrants in Israel},
+	url = {https://www.academia.edu/11419692/Demographic_Transformations_among_Ex-Soviet_Migrants_in_Israel},
+	pages = {146--168},
+	booktitle = {Research in Jewish Demography and Identity},
+	publisher = {Academic Studies Press},
+	author = {Tolts, Mark S.},
+	date = {2015},
+	file = {Tolts_2015_Demographic Transformations among Ex-Soviet Migrants in Israel.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Tolts/Tolts_2015_Demographic Transformations among Ex-Soviet Migrants in Israel.pdf:application/pdf}
+}
+
+@article{sasson_trends_2016,
+	title = {Trends in Life Expectancy and Lifespan Variation by Educational Attainment: United States, 1990–2010},
+	volume = {53},
+	issn = {0070-3370, 1533-7790},
+	url = {http://link.springer.com/article/10.1007/s13524-015-0453-7},
+	doi = {10.1007/s13524-015-0453-7},
+	shorttitle = {Trends in Life Expectancy and Lifespan Variation by Educational Attainment},
+	abstract = {The educational gradient in life expectancy is well documented in the United States and in other low-mortality countries. Highly educated Americans, on average, live longer than their low-educated counterparts, who have recently seen declines in adult life expectancy. However, limiting the discussion on lifespan inequality to mean differences alone overlooks other dimensions of inequality and particularly disparities in lifespan variation. The latter represents a unique form of inequality, with higher variation translating into greater uncertainty in the time of death from an individual standpoint, and higher group heterogeneity from a population perspective. Using data from the National Vital Statistics System from 1990 to 2010, this is the first study to document trends in both life expectancy and S25—the standard deviation of age at death above 25—by educational attainment. Among low-educated whites, adult life expectancy declined by 3.1 years for women and by 0.6 years for men. At the same time, S25 increased by about 1.5 years among high school–educated whites of both genders, becoming an increasingly important component of total lifespan inequality. By contrast, college-educated whites benefited from rising life expectancy and record low variation in age at death, consistent with the shifting mortality scenario. Among blacks, adult life expectancy increased, and S25 plateaued or declined in nearly all educational attainment groups, although blacks generally lagged behind whites of the same gender on both measures. Documenting trends in lifespan variation can therefore improve our understanding of lifespan inequality and point to diverging trajectories in adult mortality across socioeconomic strata.},
+	pages = {269--293},
+	number = {2},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Sasson, Isaac},
+	urldate = {2016-05-03},
+	date = {2016-01-26},
+	langid = {english},
+	file = {Sasson_2016_Trends in Life Expectancy and Lifespan Variation by Educational Attainment.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sasson/Sasson_2016_Trends in Life Expectancy and Lifespan Variation by Educational Attainment.pdf:application/pdf}
+}
+
+@article{sohn_sexual_2015,
+	title = {Sexual stature dimorphism as an indicator of living standards?},
+	issn = {0301-4460},
+	url = {http://dx.doi.org/10.3109/03014460.2015.1115125},
+	doi = {10.3109/03014460.2015.1115125},
+	abstract = {Background: A group of researchers has argued that sexual stature dimorphism ({SSD}) can serve as an indicator of living standards. This argument is based on evidence that boys’ physical growth is more sensitive to environmental conditions than girls’ physical growth. Because Korea's economic growth in the second half of the 20th century was unprecedentedly rapid, according to their logic, it is likely to see an increasing trend in {SSD}.Aim: We aimed to determine whether {SSD} can serve as an accurate indicator of living standards for a population that would exhibit a pronounced trend in {SSD}, providing that the logic for use of {SSD} is correct.Subjects and methods: We employed nationally representative Korean men born in 1941–1990 (n = 17 268) and women born in 1941–1991 (n = 22 543) and estimated mean heights by sex and birth years. We then calculated {SSD} values and charted the trend.Results: Although male height increased faster than female height, the {SSD} trend was flat for the pooled observations and for sub-groups by socioeconomic status.Conclusion: These results cast doubt on the argument for using {SSD} as an indicator of living standards.},
+	pages = {1--5},
+	journaltitle = {Annals of Human Biology},
+	author = {Sohn, Kitae},
+	urldate = {2016-05-28},
+	date = {2015-10-29},
+	pmid = {26515745},
+	file = {Sohn_2015_Sexual stature dimorphism as an indicator of living standards.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sohn/Sohn_2015_Sexual stature dimorphism as an indicator of living standards.pdf:application/pdf}
+}
+
+@article{camara_biosocial_2015,
+	title = {A biosocial approach to living conditions: inter-generational changes of stature dimorphism in 20th-century Spain},
+	volume = {42},
+	issn = {0301-4460},
+	url = {http://dx.doi.org/10.3109/03014460.2014.911349},
+	doi = {10.3109/03014460.2014.911349},
+	shorttitle = {A biosocial approach to living conditions},
+	abstract = {{AbstarctBackground}: Applying sexual stature dimorphism ({SSD}) to history and the social sciences faces the difficulty of disentangling nature from nurture in addition to the limitations of sources (e.g. small, fragmented or heterogeneous samples).Aim: To investigate the relationship between inter-generational changes and social differences in {SSD} and the evolution of living conditions in 20th-century Spain.Subjects and methods: Self-reported height and socio-demographic information from individuals born 1910–1979 (n = 99 023) were drawn from health interview surveys. Weighed least squares regression was used to construct continuous time-cohort series of {SSD} for the entire population and for specific socioeconomic groups represented by levels of educational attainment.Results: {SSD} remained below modern values among cohorts that were exposed to structural deprivation at pre-adult ages. Socioeconomic status mediated the correction of these deviations among subsequent cohorts. Lower classes (less educated segments of the population) systematically deviated to a greater extent from normal modern {SSD} values and they reached these values later in time.Conclusions: In Spain, variations in {SSD} have been found that are associated with both socioeconomic changes at a nationwide level and {SES} differentials at the individual level, thus continuous series of this indicator offer new opportunities in the study of living conditions of current and past generations.},
+	pages = {168--178},
+	number = {2},
+	journaltitle = {Annals of Human Biology},
+	author = {Cámara, Antonio D.},
+	urldate = {2016-05-20},
+	date = {2015-03-04},
+	file = {Cámara_2015_A biosocial approach to living conditions.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Cámara/Cámara_2015_A biosocial approach to living conditions.pdf:application/pdf}
+}
+
+@article{kang_inequality_2015,
+	title = {Inequality and crime revisited: effects of local inequality and economic segregation on crime},
+	volume = {29},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com/article/10.1007/s00148-015-0579-3},
+	doi = {10.1007/s00148-015-0579-3},
+	shorttitle = {Inequality and crime revisited},
+	abstract = {Economic inequality has long been considered an important determinant of crime. Existing evidence, however, is mostly based on inadequately aggregated data sets, making its interpretation less than straightforward. Using tract- and county-level U.S. Census panel data, I decompose county-level income inequality into its within- and across-tract components and examine the extent to which county-level crime rates are influenced by local inequality and economic segregation. I find that the previously reported positive correlation between violent crime and economic inequality is largely driven by economic segregation across neighborhoods instead of within-neighborhood inequality. Moreover, there is little evidence of a significant empirical link between overall inequality and crime when county- and time-fixed effects are controlled for. On the other hand, a particular form of economic inequality, namely, poverty concentration, remains an important predictor of county-level crime rates.},
+	pages = {593--626},
+	number = {2},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Kang, Songman},
+	urldate = {2016-03-21},
+	date = {2015-12-28},
+	langid = {english},
+	keywords = {Crime, Demography, I32, inequality, Inequality decomposition, K42, Labor Economics, Population Economics, poverty concentration, Social Policy},
+	file = {Kang_2015_Inequality and crime revisited.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Kang/Kang_2015_Inequality and crime revisited.pdf:application/pdf}
+}
+
+@article{sohn_mens_2016,
+	title = {Men’s revealed preferences regarding women’s ages: evidence from prostitution},
+	volume = {37},
+	issn = {1090-5138},
+	url = {http://www.sciencedirect.com/science/article/pii/S1090513816000040},
+	doi = {10.1016/j.evolhumbehav.2016.01.002},
+	shorttitle = {Men’s revealed preferences regarding women’s ages},
+	abstract = {Across time and space, men, both young and old, usually report to be sexually interested in women in their late teens to late 20s. We investigated whether this self-reported preference was supported by behavior in a situation where true preferences are most likely to be revealed: prostitution. Using data from Indonesian prostitutes, we found that in general, the prostitute’s age and the price of sex were negatively related. Upon close scrutiny, the relationship exhibited a flat–decreasing–flat pattern. For prostitutes in the late teens to early 20s, the price of sex was similar; for prostitutes in the early 20s to early 30s, the price of sex rapidly decreased and then stabilized. The value of peak age was substantial: the price attached to sex with prostitutes of peak age was more than twice that for prostitutes in their late 30s. The revealed preferences regarding women’s ages are consistent with the self-reported preferences. Furthermore, this study added precision to existing literature.},
+	pages = {272--280},
+	number = {4},
+	journaltitle = {Evolution and Human Behavior},
+	shortjournal = {Evolution and Human Behavior},
+	author = {Sohn, Kitae},
+	urldate = {2016-05-28},
+	date = {2016-07},
+	keywords = {{AGE}, evolution, Indonesia, Preference, Prostitution, {REPRODUCTION}, Sex},
+	file = {Sohn_2016_Men’s revealed preferences regarding women’s ages.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sohn/Sohn_2016_Men’s revealed preferences regarding women’s ages.pdf:application/pdf}
+}
+
+@article{van_poppel_test_1996,
+	title = {A Test of Durkheim's Theory of Suicide--Without Committing the "Ecological Fallacy"},
+	volume = {61},
+	issn = {0003-1224},
+	url = {http://www.jstor.org/stable/2096361},
+	doi = {10.2307/2096361},
+	abstract = {The data adduced by Durkheim in support of the association between religion and suicide have seldom been subjected to scrutiny; when they have been so examined, the scrutiny has been based, of necessity, on data subject to the "ecological fallacy." Data for the Netherlands, roughly contemporaneous with Durkheim's, that have recently come to light allow us to test the statistical support for Durkheim's theory about religion and suicide without risk of committing this "fallacy." We find the Catholic-Protestant differential in suicide rates to be explicable entirely in terms of the practice of categorizing as "sudden deaths" or "deaths from ill-defined or unspecified cause" a large proportion of deaths among Catholics which would have been categorized as suicides had they occurred among Protestants. This finding raises doubts not only about Durkheim's theory but also about other causal theories concerning suicide that rely on a sociological rather than a psychological (or even idiosyncratic) explanation.},
+	pages = {500--507},
+	number = {3},
+	journaltitle = {American Sociological Review},
+	shortjournal = {American Sociological Review},
+	author = {van Poppel, Frans and Day, Lincoln H.},
+	urldate = {2016-03-07},
+	date = {1996},
+	keywords = {dd\_bonus},
+	file = {van Poppel_Day_1996_A Test of Durkheim's Theory of Suicide--Without Committing the Ecological.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/van Poppel_Day/van Poppel_Day_1996_A Test of Durkheim's Theory of Suicide--Without Committing the Ecological.pdf:application/pdf}
+}
+
+@article{victora_breastfeeding_2016,
+	title = {Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect},
+	volume = {387},
+	issn = {01406736},
+	url = {http://linkinghub.elsevier.com/retrieve/pii/S0140673615010247},
+	doi = {10.1016/S0140-6736(15)01024-7},
+	shorttitle = {Breastfeeding in the 21st century},
+	pages = {475--490},
+	number = {10017},
+	journaltitle = {The Lancet},
+	author = {Victora, Cesar G and Bahl, Rajiv and Barros, Aluísio J D and França, Giovanny V A and Horton, Susan and Krasevec, Julia and Murch, Simon and Sankar, Mari Jeeva and Walker, Neff and Rollins, Nigel C},
+	urldate = {2016-08-09},
+	date = {2016-01},
+	langid = {english}
+}
+
+@article{kelley_who_2015,
+	title = {Who Benefits from Economic Growth? Work and Pay in Brazil, 1973–1988},
+	volume = {54},
+	issn = {1549-0955},
+	url = {http://muse.jhu.edu/content/crossref/journals/population_review/v054/54.1.kelley.html},
+	doi = {10.1353/prv.2015.0000},
+	shorttitle = {Who Benefits from Economic Growth?},
+	pages = {1--26},
+	number = {1},
+	journaltitle = {Population Review},
+	author = {Kelley, Jonathan and Haller, Archibald O.},
+	urldate = {2016-07-22},
+	date = {2015},
+	langid = {english},
+	file = {Kelley_Haller_2015_Who Benefits from Economic Growth.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Kelley_Haller/Kelley_Haller_2015_Who Benefits from Economic Growth.pdf:application/pdf}
+}
+
+@article{murphy_impact_2016,
+	title = {The Impact of Migration on Long-Term European Population Trends, 1850 to Present},
+	volume = {42},
+	rights = {© 2016 Wiley Periodicals, Inc},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2016.00132.x/abstract},
+	doi = {10.1111/j.1728-4457.2016.00132.x},
+	pages = {225--244},
+	number = {2},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Murphy, Michael},
+	urldate = {2016-06-15},
+	date = {2016},
+	langid = {english},
+	file = {Murphy_2016_The Impact of Migration on Long-Term European Population Trends, 1850 to Present.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Murphy/Murphy_2016_The Impact of Migration on Long-Term European Population Trends, 1850 to Present.pdf:application/pdf}
+}
+
+@article{lariviere_simple_2016,
+	title = {A simple proposal for the publication of journal citation distributions},
+	rights = {© 2016, Published by Cold Spring Harbor Laboratory Press. This pre-print is available under a Creative Commons License (Attribution 4.0 International), {CC} {BY} 4.0, as described at http://creativecommons.org/licenses/by/4.0/},
+	url = {http://biorxiv.org/content/early/2016/07/05/062109},
+	doi = {10.1101/062109},
+	abstract = {Although the Journal Impact Factor ({JIF}) is widely acknowledged to be a poor indicator of the quality of individual papers, it is used routinely to evaluate research and researchers. Here, we present a simple method for generating the citation distributions that underlie {JIFs}. Application of this straightforward protocol reveals the full extent of the skew of distributions and variation in citations received by published papers that is characteristic of all scientific journals. Although there are differences among journals across the spectrum of {JIFs}, the citation distributions overlap extensively, demonstrating that the citation performance of individual papers cannot be inferred from the {JIF}. We propose that this methodology be adopted by all journals as a move to greater transparency, one that should help to refocus attention on individual pieces of work and counter the inappropriate usage of {JIFs} during the process of research assessment.},
+	pages = {062109},
+	journaltitle = {{bioRxiv}},
+	author = {Lariviere, Vincent and Kiermer, Veronique and {MacCallum}, Catriona J. and {McNutt}, Marcia and Patterson, Mark and Pulverer, Bernd and Swaminathan, Sowmya and Taylor, Stuart and Curry, Stephen},
+	urldate = {2016-07-21},
+	date = {2016-07-05},
+	langid = {english},
+	file = {Lariviere et al_2016_A simple proposal for the publication of journal citation distributions.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Lariviere et al/Lariviere et al_2016_A simple proposal for the publication of journal citation distributions.pdf:application/pdf}
+}
+
+@inproceedings{valverde_determinants_2016,
+	location = {Mainz, Germany},
+	title = {The determinants of marriage market in Spain at the end of the {XIX} century. An econometric spatial approach},
+	url = {http://epc2016.princeton.edu/abstracts/160533},
+	booktitle = {European Population Conference 2016},
+	author = {Valverde, Joaquin Recaño and Carioli, Alessandra},
+	date = {2016},
+	file = {Valverde_Carioli_2016_The determinants of marriage market in Spain at the end of the XIX century.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Valverde_Carioli/Valverde_Carioli_2016_The determinants of marriage market in Spain at the end of the XIX century.pdf:application/pdf}
+}
+
+@inproceedings{lutz_demographic_2016,
+	location = {Mainz, Germany},
+	title = {Demographic metabolism at work},
+	url = {http://epc2016.princeton.edu/abstracts/161019},
+	booktitle = {European Population Conference 2016},
+	author = {Lutz, Wolfgang and Striessnig, Erich},
+	date = {2016},
+	file = {Lutz_Striessnig_2016_Demographic metabolism at work.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Lutz_Striessnig/Lutz_Striessnig_2016_Demographic metabolism at work.pdf:application/pdf}
+}
+
+@inproceedings{sambt_quantifying_2016,
+	location = {Mainz, Germany},
+	title = {Quantifying economic dependency},
+	url = {http://epc2016.princeton.edu/abstracts/160452},
+	booktitle = {European Population Conference 2016},
+	author = {Sambt, Joze and Loichinger, Elke and Fürnkranz-Prskawetz, Alexia and Freiberger, Michael and Hammer, Bernhard},
+	date = {2016},
+	file = {Sambt et al_2016_Quantifying economic dependency.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Sambt et al/Sambt et al_2016_Quantifying economic dependency.pdf:application/pdf}
+}
+
+@inproceedings{zeman_estimating_2016,
+	location = {Mainz, Germany},
+	title = {Estimating indicators of fertility timing from consecutive census data on children ever born},
+	url = {http://epc2016.princeton.edu/abstracts/160618},
+	booktitle = {European Population Conference 2016},
+	author = {Zeman, Kryštof},
+	date = {2016},
+	file = {Zeman_2016_Estimating indicators of fertility timing from consecutive census data on.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Zeman/Zeman_2016_Estimating indicators of fertility timing from consecutive census data on.pdf:application/pdf}
+}
+
+@inproceedings{scherbov_subjective_2016,
+	location = {Mainz, Germany},
+	title = {Subjective life expectancy: differences by smoking, education and gender},
+	url = {http://epc2016.princeton.edu/uploads/160554},
+	booktitle = {European Population Conference 2016},
+	author = {Scherbov, Sergei and Arpino, Bruno and Bordone, Valeria},
+	date = {2016},
+	file = {Scherbov et al_2016_Subjective life expectancy.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Scherbov et al/Scherbov et al_2016_Subjective life expectancy.pdf:application/pdf}
+}
+
+@inproceedings{alexander_flexible_2016,
+	location = {Mainz, Germany},
+	title = {A flexible Bayesian model for estimating subnational mortality},
+	url = {http://epc2016.princeton.edu/abstracts/160471},
+	booktitle = {European Population Conference 2016},
+	author = {Alexander, Monica and Zagheni, Emilio and Barbieri, Magali},
+	date = {2016},
+	file = {Alexander et al_2016_A flexible Bayesian model for estimating subnational mortality.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Alexander et al/Alexander et al_2016_A flexible Bayesian model for estimating subnational mortality.pdf:application/pdf}
+}
+
+@inproceedings{basellini_modeling_2016,
+	location = {Mainz, Germany},
+	title = {Modeling and forecasting age at death distributions},
+	url = {http://epc2016.princeton.edu/abstracts/160864},
+	booktitle = {European Population Conference 2016},
+	author = {Basellini, Ugofilippo and Camarda, Carlo G.},
+	date = {2016},
+	file = {Basellini_Camarda_2016_Modeling and forecasting age at death distributions.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Basellini_Camarda/Basellini_Camarda_2016_Modeling and forecasting age at death distributions.pdf:application/pdf}
+}
+
+@inproceedings{philipov_dynamics_2016,
+	location = {Mainz, Germany},
+	title = {The dynamics of human capital-specific old-age dependency ratio in Europe},
+	url = {http://epc2016.princeton.edu/abstracts/160618},
+	booktitle = {European Population Conference 2016},
+	author = {Philipov, Dimiter and Goujon, Anne and Di Giulio, Paola},
+	date = {2016},
+	file = {Philipov et al_2016_The dynamics of human capital-specific old-age dependency ratio in Europe.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Philipov et al/Philipov et al_2016_The dynamics of human capital-specific old-age dependency ratio in Europe.pdf:application/pdf}
+}
+
+@inproceedings{wilson_what_2016,
+	location = {Mainz, Germany},
+	title = {What is the influence of childhood exposure to cultural norms? The role of segregation and community composition in explaining migrant fertility},
+	url = {http://epc2016.princeton.edu/abstracts/160195},
+	booktitle = {European Population Conference 2016},
+	author = {Wilson, Ben and Kuha, Jouni},
+	date = {2016},
+	file = {Wilson_Kuha_2016_What is the influence of childhood exposure to cultural norms.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Wilson_Kuha/Wilson_Kuha_2016_What is the influence of childhood exposure to cultural norms.pdf:application/pdf}
+}
+
+@inproceedings{timonin_mortality_2016,
+	location = {Mainz, Germany},
+	title = {Mortality disparities across Russia: evidence from a small area analysis},
+	url = {http://epc2016.princeton.edu/abstracts/160631},
+	booktitle = {European Population Conference 2016},
+	author = {Timonin, Sergey and Shkolnikov, Vladimir and Andreev, Evgeny},
+	date = {2016}
+}
+
+@inproceedings{riffe_unified_2016,
+	location = {Mainz, Germany},
+	title = {A unified framework of demographic time},
+	url = {http://epc2016.princeton.edu/abstracts/160097},
+	booktitle = {European Population Conference 2016},
+	author = {Riffe, Timothy and Schöley, Jonas and Villavicencio, Francisco},
+	urldate = {2016-08-23},
+	date = {2016},
+	file = {Riffe et al_2015_A unified framework of demographic time.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Riffe et al/Riffe et al_2015_A unified framework of demographic time.pdf:application/pdf}
+}
+
+@article{bell_internal_2015,
+	title = {Internal Migration and Development: Comparing Migration Intensities Around the World},
+	volume = {41},
+	rights = {© 2015 The Population Council, Inc.},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2015.00025.x/abstract},
+	doi = {10.1111/j.1728-4457.2015.00025.x},
+	shorttitle = {Internal Migration and Development},
+	abstract = {Migration is the principal demographic process shaping patterns of human settlement, and it serves an essential role in human development. While progress has been made in measuring international migration, internal migration statistics are as yet poorly developed in many countries. This article draws on a repository of data established under the {IMAGE} (Internal Migration Around the {GlobE}) project to address this deficit by constructing the first comprehensive league table of internal migration intensities for countries around the world. We review previous work, outline the major impediments to making reliable comparisons, and set out a methodology that combines a novel estimation procedure with a flexible spatial aggregation facility. We present the results in the form of league tables of aggregate crude migration intensities that capture all changes of address over one-year or five-year intervals for 96 countries, representing four-fifths of the global population. Explanation for the observed differences has been sought, inter alia, in historical, structural, cultural, and economic forces. We examine the links between development and migration intensity through simple correlations using a range of demographic, economic, and social variables. Results reveal clear associations between internal migration intensities and selected indicators of national development.},
+	pages = {33--58},
+	number = {1},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Bell, Martin and Charles-Edwards, Elin and Ueffing, Philipp and Stillwell, John and Kupiszewski, Marek and Kupiszewska, Dorota},
+	urldate = {2015-11-26},
+	date = {2015-03-01},
+	langid = {english},
+	note = {00003},
+	file = {Bell et al_2015_Internal Migration and Development.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Bell et al/Bell et al_2015_Internal Migration and Development.pdf:application/pdf}
+}
+
+@article{stillwell_how_2016,
+	title = {How far do internal migrants really move? Demonstrating a new method for the estimation of intra-zonal distance},
+	volume = {3},
+	issn = {null},
+	url = {http://dx.doi.org/10.1080/21681376.2015.1109473},
+	doi = {10.1080/21681376.2015.1109473},
+	shorttitle = {How far do internal migrants really move?},
+	abstract = {This paper makes use of data on origin to destination migration by postcode derived from a large biannual consumer survey, Acxiom’s Research Opinion Poll, to measure distances of migration within England in the mid-2000s. These data provide an opportunity to evaluate conventional methods of centroid-based estimation of inter-zonal distance and area-based estimation of intra-zonal distance, and demonstrate how the latter in particular generates problematic estimates. A new regression-based approach for generating intra-zonal distance is presented, resulting in significantly improved goodness-of-fit statistics when used in doubly constrained spatial interaction modelling of migration flows for local authority districts in England from the 2001 and 2011 Censuses.},
+	pages = {28--47},
+	number = {1},
+	journaltitle = {Regional Studies, Regional Science},
+	author = {Stillwell, John and Thomas, Michael},
+	urldate = {2016-04-30},
+	date = {2016-01-01},
+	file = {Stillwell_Thomas_2016_How far do internal migrants really move.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Stillwell_Thomas/Stillwell_Thomas_2016_How far do internal migrants really move.pdf:application/pdf}
+}
+
+@article{goujon_harmonized_2016,
+	title = {A harmonized dataset on global educational attainment between 1970 and 2060 – an analytical window into recent trends and future prospects in human capital development},
+	volume = {82},
+	issn = {2054-0892, 2054-0906},
+	url = {https://www.cambridge.org/core/journals/journal-of-demographic-economics/article/a-harmonized-dataset-on-global-educational-attainment-between-1970-and-2060-an-analytical-window-into-recent-trends-and-future-prospects-in-human-capital-development/D5540E2C23E4CB89AF08ECD9379B38FD},
+	doi = {10.1017/dem.2016.10},
+	abstract = {Abstract:We hereby present a dataset produced at the Wittgenstein Centre ({WIC}) containing comprehensive time series on educational attainment and mean years of schooling ({MYS}). The dataset is split by 5-year age groups and sex for 171 countries and covers the period between 1970 and 2010. It also contains projections of educational attainment to 2060 based on several scenarios of demographic and educational development. The dataset is constructed around collected and harmonized empirical census and survey data sets for the projection base year. The paper presents the principles and methodology associated with the reconstruction and the projection, and how it differs from several previous exercises. It also proposes a closer look at the diffusion of education in world regions and how the existing gaps in terms of generation, gender, and geography have been evolving in the last 40 years.},
+	pages = {315--363},
+	number = {3},
+	journaltitle = {Journal of Demographic Economics},
+	author = {Goujon, Anne and K.C., Samir and Speringer, Markus and Barakat, Bilal and Potancoková, Michaela and Eder, Jakob and Striessnig, Erich and Bauer, Ramon and Lutz, Wolfgang},
+	urldate = {2016-09-16},
+	date = {2016-09},
+	keywords = {back-projection, {EDUCATION}, gender gap, human capital, mean years of schooling, population projection},
+	file = {Goujon et al_2016_A harmonized dataset on global educational attainment between 1970 and 2060 –.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Goujon et al/Goujon et al_2016_A harmonized dataset on global educational attainment between 1970 and 2060 –.pdf:application/pdf}
+}
+
+@article{cooray_does_2015,
+	title = {Does corruption promote emigration? An empirical examination},
+	volume = {29},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s00148-015-0563-y},
+	doi = {10.1007/s00148-015-0563-y},
+	shorttitle = {Does corruption promote emigration?},
+	abstract = {This paper investigates the effects of corruption on the emigration rate of low-, medium- and high-skilled individuals at the country level. Fixed-effects, system generalized method of moments ({GMM}) and instrumental variable estimations are used to establish a causal relationship between emigration and corruption. The empirical results indicate that as corruption increases, the emigration rate of high-skilled migrants also increases. The emigration rate of individuals with low and medium levels of educational attainment, however, increases at low levels of corruption and then decreases beyond a threshold of 3.4–4.0, where corruption is measured on a scale of 0 (not corrupt) to 10 (totally corrupt). Splitting the sample by income inequality suggests that increased inequality reduces the ability for medium- and low-skilled migrants to emigrate. Therefore, government action should focus on controlling corruption in order to prevent a brain drain.},
+	pages = {293--310},
+	number = {1},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Cooray, Arusha and Schneider, Friedrich},
+	urldate = {2016-01-18},
+	date = {2015-08-01},
+	langid = {english},
+	keywords = {05, 017, Corruption, D78, Demography, Educational attainment, Emigration, H2, H11, H26, Labor Economics, Population Economics, Social Policy},
+	file = {Cooray_Schneider_2015_Does corruption promote emigration.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Cooray_Schneider/Cooray_Schneider_2015_Does corruption promote emigration.pdf:application/pdf}
+}
+
+@article{ueffing_differences_2015,
+	title = {Differences in Attitudes towards Immigration between Australia and Germany: The Role of Immigration Policy},
+	volume = {40},
+	url = {http://www.comparativepopulationstudies.de/index.php/CPoS/article/view/181},
+	doi = {10.12765/CPoS-2015-18en},
+	shorttitle = {Differences in Attitudes towards Immigration between Australia and Germany},
+	pages = {437--464},
+	number = {4},
+	journaltitle = {Comparative Population Studies},
+	author = {Ueffing, Philipp and Rowe, Francisco and Mulder, Clara H.},
+	urldate = {2016-02-09},
+	date = {2015},
+	file = {Ueffing et al_2015_Differences in Attitudes towards Immigration between Australia and Germany.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Ueffing et al/Ueffing et al_2015_Differences in Attitudes towards Immigration between Australia and Germany.pdf:application/pdf}
+}
+
+@online{_visual_????,
+	title = {The Visual History of Global Health},
+	url = {https://ourworldindata.org/slides/global-health/#/title-slide},
+	abstract = {A short presentation about how the health of people around the world is improving.},
+	urldate = {2016-09-16}
+}
+
+@article{bik_prevalence_2016,
+	title = {The Prevalence of Inappropriate Image Duplication in Biomedical Research Publications},
+	volume = {7},
+	issn = {, 2150-7511},
+	url = {http://mbio.asm.org/content/7/3/e00809-16},
+	doi = {10.1128/mBio.00809-16},
+	abstract = {Inaccurate data in scientific papers can result from honest error or intentional falsification. This study attempted to determine the percentage of published papers that contain inappropriate image duplication, a specific type of inaccurate data. The images from a total of 20,621 papers published in 40 scientific journals from 1995 to 2014 were visually screened. Overall, 3.8\% of published papers contained problematic figures, with at least half exhibiting features suggestive of deliberate manipulation. The prevalence of papers with problematic images has risen markedly during the past decade. Additional papers written by authors of papers with problematic images had an increased likelihood of containing problematic images as well. As this analysis focused only on one type of data, it is likely that the actual prevalence of inaccurate data in the published literature is higher. The marked variation in the frequency of problematic images among journals suggests that journal practices, such as prepublication image screening, influence the quality of the scientific literature.},
+	pages = {e00809--16},
+	number = {3},
+	journaltitle = {{mBio}},
+	shortjournal = {{mBio}},
+	author = {Bik, Elisabeth M. and Casadevall, Arturo and Fang, Ferric C.},
+	urldate = {2016-10-06},
+	date = {2016-07-06},
+	langid = {english},
+	pmid = {27273827},
+	file = {Bik et al_2016_The Prevalence of Inappropriate Image Duplication in Biomedical Research.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Bik et al/Bik et al_2016_The Prevalence of Inappropriate Image Duplication in Biomedical Research.pdf:application/pdf}
+}
+
+@article{banens_sex_2016,
+	title = {Sex miscoding in the Census and its Effects on the Enumeration of Same-Sex Couples},
+	volume = {71},
+	issn = {00324663},
+	url = {http://www.journal-population.com/articles/2016-1-sex-miscoding-in-the-census-and-its-effects-on-the-enumeration-of-same-sex-couples/},
+	doi = {10.3917/pope.1601.0131},
+	pages = {131--143},
+	number = {1},
+	journaltitle = {Population},
+	author = {Banens, Maks and Le Penven, Eric},
+	urldate = {2016-09-27},
+	date = {2016-01},
+	keywords = {{ACQUISITION} of data, census, {CIVIL} unions, estimation, Famille et Logements survey, {GAY} couples, {HETEROSEXUALITY}, {HOMOSEXUALITY}, Research, Same-sex union, sex miscoding, Sex Ratio},
+	file = {Banens_Le Penven_2016_Sex miscoding in the Census and its Effects on the Enumeration of Same-Sex.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Banens_Le Penven/Banens_Le Penven_2016_Sex miscoding in the Census and its Effects on the Enumeration of Same-Sex.pdf:application/pdf}
+}
+
+@article{schacht_marriage_2016,
+	title = {Marriage markets and male mating effort: violence and crime are elevated where men are rare},
+	issn = {1045-6767},
+	url = {http://dx.doi.org/10.1007/s12110-016-9271-x},
+	doi = {10.1007/s12110-016-9271-x},
+	shorttitle = {Marriage Markets and Male Mating Effort},
+	pages = {1--12},
+	journaltitle = {Human Nature},
+	shortjournal = {Hum Nat},
+	author = {Schacht, Ryan and Tharp, Douglas and Smith, {KenR}.},
+	urldate = {2016-10-04},
+	date = {2016-09-28},
+	keywords = {Competition, Crime, Mating market, Parental investment, Sex Ratio, Sexual selection, Violence},
+	file = {Schacht_et_al_2016_Marriage_Markets_and_Male_Mating_Effort.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Schacht et al/Schacht_et_al_2016_Marriage_Markets_and_Male_Mating_Effort.pdf:application/pdf}
+}
+
+@online{_anonymous_????,
+	title = {Anonymous Internet Vigilantes Are Taking Peer Review Into Their Own Hands},
+	url = {http://motherboard.vice.com/read/anonymous-internet-vigilantes-are-taking-peer-review-into-their-own-hands-pubpeer},
+	abstract = {{PubPeer} users went from discussing papers to hunting down fraud—and have embroiled the site in the most important internet privacy case you've never heard of.},
+	titleaddon = {Motherboard},
+	urldate = {2016-10-19}
+}
+
+@article{czaika_restrictive_2016,
+	title = {Do restrictive asylum and visa policies increase irregular migration into Europe?},
+	volume = {17},
+	issn = {1465-1165, 1741-2757},
+	url = {http://eup.sagepub.com.proxy-ub.rug.nl/content/17/3/345},
+	doi = {10.1177/1465116516633299},
+	abstract = {This article investigates the extent to which restrictive asylum and visa policies trigger an unintended behavioural response of potential and rejected asylum seekers. Based on our analysis of bilateral asylum and visa policies on migrant flows to 29 European states in the 2000s, we find evidence of a significant deflection into irregularity at work. Our estimates suggest that a 10\% increase in asylum rejections raises the number of irregular migrants by on average 2\% to 4\%, and similarly, a 10\% increase in short-stay visa rejections leads to a 4\% to 7\% increase in irregular border entries. We identify significant nuances in the impact of restrictive asylum and visa policies on the number of apprehensions ‘at the border’ versus ‘on territory’.},
+	pages = {345--365},
+	number = {3},
+	journaltitle = {European Union Politics},
+	shortjournal = {European Union Politics},
+	author = {Czaika, Mathias and Hobolth, Mogens},
+	urldate = {2016-09-17},
+	date = {2016-09-01},
+	langid = {english},
+	keywords = {Asylum, deflection, Migration, policy effects, visa},
+	file = {Czaika_Hobolth_2016_Do restrictive asylum and visa policies increase irregular migration into Europe.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Czaika_Hobolth/Czaika_Hobolth_2016_Do restrictive asylum and visa policies increase irregular migration into Europe.pdf:application/pdf}
+}
+
+@article{krapf_gendered_2016,
+	title = {Gendered Authorship and Demographic Research: An Analysis of 50 Years of Demography},
+	volume = {53},
+	issn = {0070-3370, 1533-7790},
+	url = {http://link.springer.com.proxy-ub.rug.nl/article/10.1007/s13524-016-0482-x},
+	doi = {10.1007/s13524-016-0482-x},
+	shorttitle = {Gendered Authorship and Demographic Research},
+	abstract = {Demography, the official journal of the Population Association of America, has been given the highest rating among demographic journals by the Social Sciences Citation Index ({SSCI}). Our aim here is to investigate the development of research subfields and female authorship in Demography over the last 50 years. We find that female authorship in Demography has risen considerably since the 1980s and that currently a woman is about as likely as a man to be the sole or the first author of a paper published in the journal. However, we find some differences by subfield. Women seem to be overrepresented in the “family and household” research subfield but underrepresented in the “mortality and health” and “data and methods” categories.},
+	pages = {1169--1184},
+	number = {4},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Krapf, Sandra and Kreyenfeld, Michaela and Wolf, Katharina},
+	urldate = {2016-09-15},
+	date = {2016-07-11},
+	langid = {english},
+	file = {Krapf et al_2016_Gendered Authorship and Demographic Research.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Krapf et al/Krapf et al_2016_Gendered Authorship and Demographic Research.pdf:application/pdf}
+}
+
+@online{__????,
+	title = {Количество соавторов научных работ всё чаще превышает тысячу человек},
+	url = {https://geektimes.ru/post/260098/},
+	abstract = {Ученые, чьи имена регулярно встречаются в научных работах по физике, собрались на территории Большого адронного коллайдера в 2012 году. Фото: Claudia...},
+	urldate = {2016-10-19}
+}
+
+@article{parr_cost_2016,
+	title = {A cost of living longer: Projections of the effects of prospective mortality improvement on economic support ratios for 14 advanced economies},
+	volume = {70},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2016.1190029},
+	doi = {10.1080/00324728.2016.1190029},
+	shorttitle = {A cost of living longer},
+	abstract = {The economic implications of increasing life expectancy are important concerns for governments in developed countries. The aims of this study were as follows: (i) to forecast mortality for 14 developed countries from 2010 to 2050, using the Poisson Common Factor Model; (ii) to project the effects of the forecast mortality patterns on support ratios; and (iii) to calculate labour force participation increases which could offset these effects. The forecast gains in life expectancy correlate negatively with current fertility. Pre-2050 support ratios are projected to fall most in Japan and east-central and southern Europe, and least in Sweden and Australia. A post-2050 recovery is projected for most east-central and southern European countries. The increases in labour force participation needed to counterbalance the effects of mortality improvement are greatest for Japan, Poland, and the Czech Republic, and least for the {USA}, Canada, Netherlands, and Sweden. The policy implications are discussed.},
+	pages = {181--200},
+	number = {2},
+	journaltitle = {Population Studies},
+	author = {Parr, Nick and Li, Jackie and Tickle, Leonie},
+	urldate = {2016-07-16},
+	date = {2016-05-03},
+	pmid = {27282412},
+	file = {parr2016.pdf:/home/ikashnitsky/Zotero_System/storage/ZEKJC28S/parr2016.pdf:application/pdf;Parr et al_2016_A cost of living longer.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Parr et al/Parr et al_2016_A cost of living longer.pdf:application/pdf}
+}
+
+@article{ncd-risc_century_2016,
+	title = {A century of trends in adult human height},
+	volume = {5},
+	rights = {© 2016, Franco et al. This article is distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use and redistribution provided that the original author and source are credited.},
+	issn = {2050-084X},
+	url = {https://elifesciences.org/content/5/e13410v1},
+	doi = {10.7554/eLife.13410},
+	abstract = {People from different countries grow to different heights. This may be partly due to genetics, but most differences in height between countries have other causes. For example, children and adolescents who are malnourished, or who suffer from serious diseases, will generally be shorter as adults. This is important because taller people generally live longer, are less likely to suffer from heart disease and stroke, and taller women and their children are less likely to have complications during and after birth. Taller people may also earn more and be more successful at school. However, they are also more likely to develop some cancers. The {NCD} Risk Factor Collaboration set out to find out how tall people are, on average, in every country in the world at the moment, and how this has changed over the past 100 years. The analysis revealed large differences in height between countries. The tallest men were born in the last part of the 20th century in the Netherlands, and were nearly 183 cm tall on average. The shortest women were born in 1896 in Guatemala, and were on average 140 cm tall. The difference between the shortest and tallest countries is about 20 cm for both men and women. This means there are large differences between countries in terms of nutrition and the risk of developing some diseases. The way in which height has changed over the past 100 years also varies from country to country. Iranian men born in 1996 were around 17 cm taller than those born in 1896, and South Korean women were 20 cm taller. In other parts of the world, particularly in South Asia and parts of Africa, people are only slightly taller than 100 years ago, and in some countries people are shorter than they were 50 years ago. There is a need to better understand why height has changed in different countries by different amounts, and use this information to improve nutrition and health across the world. It would also be valuable to understand how much becoming taller has been responsible for improved health and longevity throughout the world.},
+	pages = {e13410},
+	journaltitle = {{eLife}},
+	author = {({NCD}-{RisC}), {NCD} Risk Factor Collaboration},
+	urldate = {2016-08-15},
+	date = {2016-07-26},
+	langid = {english},
+	pmid = {27458798},
+	keywords = {biological sciences, Epidemiology, medical research, nutrition},
+	file = {(NCD-RisC)_2016_A century of trends in adult human height.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/(NCD-RisC)/(NCD-RisC)_2016_A century of trends in adult human height.pdf:application/pdf}
+}
+
+@article{hotz_how_2015,
+	title = {How Many Scientists Does It Take to Write a Paper? Apparently, Thousands},
+	issn = {0099-9660},
+	url = {http://www.wsj.com/articles/how-many-scientists-does-it-take-to-write-a-paper-apparently-thousands-1439169200},
+	shorttitle = {How Many Scientists Does It Take to Write a Paper?},
+	abstract = {How many scientists does it take to write a research paper? Apparently, thousands, as journals see a spike in the number of contributors.},
+	journaltitle = {Wall Street Journal},
+	author = {Hotz, Robert Lee},
+	urldate = {2016-10-19},
+	date = {2015-08-10},
+	file = {Wall Street Journal Snapshot:/home/ikashnitsky/Zotero_System/storage/X9KIIQ95/how-many-scientists-does-it-take-to-write-a-paper-apparently-thousands-1439169200.html:text/html}
+}
+
+@article{jakobsson_does_2016,
+	title = {Does marriage affect men’s labor market outcomes? A European perspective},
+	volume = {14},
+	issn = {1569-5239, 1573-7152},
+	url = {http://link.springer.com/10.1007/s11150-013-9224-7},
+	doi = {10.1007/s11150-013-9224-7},
+	shorttitle = {Does marriage affect men’s labor market outcomes?},
+	pages = {373--389},
+	number = {2},
+	journaltitle = {Review of Economics of the Household},
+	author = {Jakobsson, Niklas and Kotsadam, Andreas},
+	urldate = {2016-11-16},
+	date = {2016-06},
+	langid = {english},
+	file = {Jakobsson_Kotsadam_2016_Does marriage affect men’s labor market outcomes.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Jakobsson_Kotsadam/Jakobsson_Kotsadam_2016_Does marriage affect men’s labor market outcomes.pdf:application/pdf}
+}
+
+@article{pal_family_2016,
+	title = {The Family Gap in Pay: New Evidence for 1967 to 2013},
+	volume = {2},
+	url = {http://www.rsfjournal.org/doi/abs/10.7758/RSF.2016.2.4.04},
+	shorttitle = {The Family Gap in Pay},
+	pages = {104--127},
+	number = {4},
+	journaltitle = {{RSF}},
+	author = {Pal, Ipshita and Waldfogel, Jane},
+	urldate = {2016-11-16},
+	date = {2016},
+	file = {Pal_Waldfogel_2016_The Family Gap in Pay.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Pal_Waldfogel/Pal_Waldfogel_2016_The Family Gap in Pay.pdf:application/pdf}
+}
+
+@online{yau_day_2015,
+	title = {A Day in the Life of Americans},
+	url = {http://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/},
+	abstract = {I wanted to see how daily patterns emerge at the individual level and how a person’s entire day plays out. So I simulated 1,000 of them.},
+	titleaddon = {{FlowingData}},
+	author = {Yau, Nathan},
+	urldate = {2016-11-16},
+	date = {2015-12-15}
+}
+
+@article{andersson_long-distance_2016,
+	title = {Long-Distance Migration and Mortality in Sweden: Testing the Salmon Bias and Healthy Migrant Hypotheses},
+	issn = {1544-8452},
+	url = {http://onlinelibrary.wiley.com/doi/10.1002/psp.2032/abstract},
+	doi = {10.1002/psp.2032},
+	shorttitle = {Long-Distance Migration and Mortality in Sweden},
+	abstract = {International migrants often have lower mortality rates than the native populations in their new host countries. Several explanations have been proposed, but in the absence of data covering the entire life courses of migrants both before and after each migration event, it is difficult to assess the validity of different explanations. In the present study, we apply hazard regressions to Swedish register data to study the mortality of long-distance migrants from Northern to Southern Sweden as well as the mortality of return migrants to the North. In this way, we can study a situation that at least partly resembles that of international migration while still having access to data covering the full demographic biographies of all migrants. This allows us to test the relative roles of salmon bias and healthy migrant status in observed mortality rates of long-distance migrants. We find no mortality differentials between residents in northern and southern Sweden, and no evidence of a selection of healthy migrants from the North to the South. In contrast, we provide clear evidence of ‘salmon effects’ in terms of elevated mortality of the return migrants to northern Sweden, which are produced when migrants return to their place of origin in relation to subsequent death. © 2016 The Authors. Population, Space and Place. Published by John Wiley \& Sons, Ltd.},
+	pages = {n/a--n/a},
+	journaltitle = {Population, Space and Place},
+	shortjournal = {Popul. Space Place},
+	author = {Andersson, Gunnar and Drefahl, Sven},
+	urldate = {2016-09-16},
+	date = {2016-01-01},
+	langid = {english},
+	keywords = {migrants, Migration, Mortality, salmon bias, Selection, Sweden},
+	file = {Andersson_Drefahl_2016_Long-Distance Migration and Mortality in Sweden.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Andersson_Drefahl/Andersson_Drefahl_2016_Long-Distance Migration and Mortality in Sweden.pdf:application/pdf}
+}
+
+@article{okike_single-blind_2016,
+	title = {Single-blind vs Double-blind Peer Review in the Setting of Author Prestige},
+	volume = {316},
+	issn = {0098-7484},
+	url = {http://jama.jamanetwork.com/article.aspx?doi=10.1001/jama.2016.11014},
+	doi = {10.1001/jama.2016.11014},
+	pages = {1315},
+	number = {12},
+	journaltitle = {{JAMA}},
+	author = {Okike, Kanu and Hug, Kevin T. and Kocher, Mininder S. and Leopold, Seth S.},
+	urldate = {2016-10-20},
+	date = {2016-09-27},
+	langid = {english},
+	file = {Okike et al_2016_Single-blind vs Double-blind Peer Review in the Setting of Author Prestige.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Okike et al/Okike et al_2016_Single-blind vs Double-blind Peer Review in the Setting of Author Prestige.pdf:application/pdf}
+}
+
+@article{gershoff_spanking_2016,
+	title = {Spanking and child outcomes: Old controversies and new meta-analyses},
+	volume = {30},
+	issn = {1939-1293, 0893-3200},
+	url = {http://doi.apa.org/getdoi.cfm?doi=10.1037/fam0000191},
+	doi = {10.1037/fam0000191},
+	shorttitle = {Spanking and child outcomes},
+	pages = {453--469},
+	number = {4},
+	journaltitle = {Journal of Family Psychology},
+	author = {Gershoff, Elizabeth T. and Grogan-Kaylor, Andrew},
+	urldate = {2016-11-19},
+	date = {2016},
+	langid = {english},
+	file = {Gershoff_Grogan-Kaylor_2016_Spanking and child outcomes.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Gershoff_Grogan-Kaylor/Gershoff_Grogan-Kaylor_2016_Spanking and child outcomes.pdf:application/pdf}
+}
+
+@article{ncd-risc_trends_2016,
+	title = {Trends in adult body-mass index in 200 countries from 1975 to 2014: a pooled analysis of 1698 population-based measurement studies with 19·2 million participants},
+	volume = {387},
+	issn = {0140-6736, 1474-547X},
+	url = {http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30054-X/abstract},
+	doi = {10.1016/S0140-6736(16)30054-X},
+	shorttitle = {Trends in adult body-mass index in 200 countries from 1975 to 2014},
+	abstract = {If post-2000 trends continue, the probability of meeting the global obesity target
+is virtually zero. Rather, if these trends continue, by 2025, global obesity prevalence
+will reach 18\% in men and surpass 21\% in women; severe obesity will surpass 6\% in
+men and 9\% in women. Nonetheless, underweight remains prevalent in the world's poorest
+regions, especially in south Asia.},
+	pages = {1377--1396},
+	number = {10026},
+	journaltitle = {The Lancet},
+	shortjournal = {The Lancet},
+	author = {({NCD}-{RisC}), {NCD} Risk Factor Collaboration},
+	urldate = {2016-11-05},
+	date = {2016-04-02},
+	file = {(NCD-RisC)_2016_Trends in adult body-mass index in 200 countries from 1975 to 2014.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/(NCD-RisC)/(NCD-RisC)_2016_Trends in adult body-mass index in 200 countries from 1975 to 2014.pdf:application/pdf}
+}
+
+@article{nail_tale_2016,
+	title = {A Tale of Two Crises: Migration and Terrorism after the Paris Attacks},
+	volume = {16},
+	issn = {1754-9469},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/sena.12168/abstract},
+	doi = {10.1111/sena.12168},
+	shorttitle = {A Tale of Two Crises},
+	abstract = {This paper argues that the figure of the migrant has come to be seen as a potential terrorist in the West, under the condition of a double, but completely opposed, set of crises internal to the nation-state. The refugee crisis in Europe can no longer be understood as separate from the crisis of terrorism after the Paris attacks on 13 November 2015. In fact, the two crises were never really separate in the nationalist imaginary to begin with. The difference is that, with such a quick shift of attention between crises, we now see what was only implicit in the European response to the Syrian refugees has now become explicit in the response to the tragic attacks in Paris: that migration is understood to be a form of barbarian warfare that threatens the European Union.},
+	pages = {158--167},
+	number = {1},
+	journaltitle = {Studies in Ethnicity and Nationalism},
+	shortjournal = {Studies in Ethnicity and Nationalism},
+	author = {Nail, Thomas},
+	urldate = {2016-09-17},
+	date = {2016-04-01},
+	langid = {english},
+	file = {Nail_2016_A Tale of Two Crises.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Nail/Nail_2016_A Tale of Two Crises.pdf:application/pdf}
+}
+
+@article{dong_evidence_2016,
+	title = {Evidence for a limit to human lifespan},
+	issn = {0028-0836, 1476-4687},
+	url = {http://www.nature.com/doifinder/10.1038/nature19793},
+	doi = {10.1038/nature19793},
+	journaltitle = {Nature},
+	author = {Dong, Xiao and Milholland, Brandon and Vijg, Jan},
+	urldate = {2016-10-06},
+	date = {2016-10-05},
+	file = {Dong et al_2016_Evidence for a limit to human lifespan.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Dong et al/Dong et al_2016_Evidence for a limit to human lifespan.pdf:application/pdf;Dong et al_2016_Evidence for a limit to human lifespan.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Dong et al/Dong et al_2016_Evidence for a limit to human lifespan_2.pdf:application/pdf}
+}
+
+
+@article{fenge_pensions_2017,
+	title = {Pensions and fertility: back to the roots},
+	volume = {30},
+	issn = {0933-1433, 1432-1475},
+	url = {http://link.springer.com/article/10.1007/s00148-016-0608-x},
+	doi = {10.1007/s00148-016-0608-x},
+	shorttitle = {Pensions and fertility},
+	abstract = {Fertility has long been declining in industrialised countries and the existence of public pension systems is considered as one of the causes. This paper provides detailed evidence on the mechanism by which a public pension system depresses fertility, based on historical data. Our theoretical framework highlights that the effect of a public pension system on fertility is ex ante ambiguous while its size is determined by the internal rate of return of the pension system. We identify an overall negative effect of the introduction of pension insurance on fertility using regional variation across 23 provinces of Imperial Germany in key variables of Bismarck’s pension system, which was introduced in Imperial Germany in 1891. The negative effect on fertility is robust to controlling for the traditional determinants of the first demographic transition as well as to other policy changes.},
+	pages = {93--139},
+	number = {1},
+	journaltitle = {Journal of Population Economics},
+	shortjournal = {J Popul Econ},
+	author = {Fenge, Robert and Scheubel, Beatrice},
+	urldate = {2017-01-09},
+	date = {2017-01-01},
+	langid = {english},
+	file = {Fenge_Scheubel_2017_Pensions_and_fertility.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Fenge_Scheubel/Fenge_Scheubel_2017_Pensions_and_fertility.pdf:application/pdf}
+}
+
+@article{breschi_superstitions_2016,
+	title = {Superstitions, religiosity and secularization: an analysis of the periodic oscillations of weddings in Italy},
+	volume = {72},
+	rights = {2016 The Author(s)},
+	issn = {2035-5556},
+	url = {http://genus.springeropen.com/articles/10.1186/s41118-016-0012-0},
+	doi = {10.1186/s41118-016-0012-0},
+	shorttitle = {Superstitions, religiosity and secularization},
+	abstract = {Using exhaustive data on all of the marriages celebrated in Italy 2007–2009, we investigated the influence of superstition and religious beliefs on the choice of wedding dates. We compared our results with those relative to postwar Italy, gathered together by Nora Federici. Surprisingly, we found that superstition has a constant effect in all areas of the country. At the same time, there were different levels of religious secularization. We also found that education was not a negative factor for religiosity.},
+	pages = {7},
+	number = {1},
+	journaltitle = {Genus},
+	author = {Breschi, Marco and Ruiu, Gabriele},
+	urldate = {2017-01-13},
+	date = {2016-12-01},
+	file = {Breschi_Ruiu_2016_Superstitions,_religiosity_and_secularization.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Breschi_Ruiu/Breschi_Ruiu_2016_Superstitions,_religiosity_and_secularization.pdf:application/pdf}
+}
+
+@article{stokes_how_2016,
+	title = {How Dangerous Is Obesity? Issues in Measurement and Interpretation},
+	volume = {42},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/padr.12015/abstract},
+	doi = {10.1111/padr.12015},
+	shorttitle = {How Dangerous Is Obesity?},
+	pages = {595--614},
+	number = {4},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Stokes, Andrew and Preston, Samuel H.},
+	urldate = {2017-01-09},
+	date = {2016-12-01},
+	langid = {english},
+	file = {Stokes_Preston_2016_How_Dangerous_Is_Obesity.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Stokes_Preston/Stokes_Preston_2016_How_Dangerous_Is_Obesity.pdf:application/pdf}
+}
+
+@article{leonhardt_1.5_2015,
+	title = {1.5 Million Missing Black Men},
+	issn = {0362-4331},
+	url = {http://www.nytimes.com/interactive/2015/04/20/upshot/missing-black-men.html},
+	abstract = {Across the country, hundreds of thousands of black men are missing from everyday life.},
+	journaltitle = {The New York Times},
+	author = {Leonhardt, David, Justin Wolfers and Quealy, Kevin},
+	urldate = {2017-01-15},
+	date = {2015-04-20},
+	keywords = {Blacks, Deaths (Fatalities), Demographics, Ferguson (Mo), Men and Boys, Mortality, North Charleston ({SC}), Prisons and Prisoners, Race and Ethnicity}
+}
+
+@article{casterline_unrealized_2017,
+	title = {Unrealized fertility: Fertility desires at the end of the reproductive career},
+	volume = {36},
+	url = {http://www.demographic-research.org/volumes/vol36/14/},
+	doi = {10.4054/DemRes.2017.36.14},
+	shorttitle = {Unrealized fertility},
+	abstract = {Background: ‘Unrealized fertility’ is a failure to achieve desired fertility. Unrealized fertility has been examined in low-fertility societies but, with the exception of research on infertility, has been neglected in research on non-Western societies.
+
+Objective: We conduct a multicountry investigation of one form of unrealized fertility, namely a reproductive career which ends with the woman desiring further children.
+
+Methods: We analyze 295,854 women aged 44‒48 in 252 surveys ({DHS}, {RHS}, {PAP}) conducted in the period 1986–2015 in 78 countries. Two indicators of unrealized fertility are constructed: (i) a comparison of ideal versus actual number of children; (ii) the desire for another child. We estimate multilevel regressions with covariates at individual and aggregate levels.
+
+Results: Unrealized fertility is far more prevalent according to the first indicator than the second. It is more common among women with fewer living children and women whose first birth occurs after age 20, and it is distinctly higher in sub-Saharan Africa and lower in South Asia. The evidence on trend over the course of fertility transition is mixed: for the second indicator but not the first, the net effect is a reduction in the prevalence of unrealized fertility as fertility declines.
+
+Conclusions: Unrealized fertility occurs frequently in most societies and therefore deserves more rigorous research, especially on its consequences for emotional, social, economic, and demographic outcomes.
+
+Contribution: We provide the first comprehensive documentation of the prevalence of unrealized fertility across a broad set of contemporary non-Western societies.},
+	pages = {427--454},
+	number = {14},
+	journaltitle = {Demographic Research},
+	shortjournal = {Demographic Research},
+	author = {Casterline, John and Han, Siqi},
+	urldate = {2017-01-28},
+	date = {2017-01-27}
+}
+
+@article{hayford_fifty_2016,
+	title = {Fifty Years of Unintended Births: Education Gradients in Unintended Fertility in the {US}, 1960–2013},
+	volume = {42},
+	rights = {© 2016 Wiley Periodicals, Inc},
+	issn = {1728-4457},
+	url = {http://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2016.00126.x/abstract},
+	doi = {10.1111/j.1728-4457.2016.00126.x},
+	shorttitle = {Fifty Years of Unintended Births},
+	pages = {313--341},
+	number = {2},
+	journaltitle = {Population and Development Review},
+	shortjournal = {Population and Development Review},
+	author = {Hayford, Sarah R. and Guzzo, Karen Benjamin},
+	urldate = {2016-06-15},
+	date = {2016},
+	langid = {english},
+	file = {Hayford_Guzzo_2016_Fifty Years of Unintended Births.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Hayford_Guzzo/Hayford_Guzzo_2016_Fifty Years of Unintended Births.pdf:application/pdf}
+}
+
+@article{stonawski_fertility_2016,
+	title = {Fertility Patterns of Native and Migrant Muslims in Europe},
+	volume = {22},
+	issn = {1544-8452},
+	url = {http://onlinelibrary.wiley.com/doi/10.1002/psp.1941/abstract},
+	doi = {10.1002/psp.1941},
+	abstract = {This study focuses on Muslim fertility in Europe. Evidence from 25 countries suggests that the Muslim total fertility rate is on average 47\% higher than the national level. However, we find a significant difference in the level of fertility of native-born Muslims and immigrant Muslims. The native-born have a 19\% higher total fertility rate, while immigrants have 62\% higher fertility. Our main research question is whether religion is an important determinant of fertility outcome, or whether the other characteristics that are specific for Muslims in Europe (e.g. socio-economics, migrant status, and religiosity) determine the observed difference in fertility. To answer this question, we focus on three case studies: Spain, where most Muslims are immigrants; Bulgaria, where most Muslims are native; and Greece, which has significant shares of both recent migrants and native Muslims. Our findings suggest that the immigrant status of Muslims and their socio-economic status are more important than religion in terms of explaining their high fertility. Copyright © 2015 John Wiley \& Sons, Ltd.},
+	pages = {552--567},
+	number = {6},
+	journaltitle = {Population, Space and Place},
+	shortjournal = {Popul. Space Place},
+	author = {Stonawski, Marcin and Potančoková, Michaela and Skirbekk, Vegard},
+	urldate = {2016-09-16},
+	date = {2016-08-01},
+	langid = {english},
+	keywords = {{EUROPE}, {FERTILITY}, Muslims, religion},
+	file = {Stonawski et al_2016_Fertility Patterns of Native and Migrant Muslims in Europe.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Stonawski et al/Stonawski et al_2016_Fertility Patterns of Native and Migrant Muslims in Europe.pdf:application/pdf}
+}
+
+@online{casselman_gun_2016,
+	title = {Gun Deaths In America},
+	url = {https://fivethirtyeight.com/features/gun-deaths/},
+	abstract = {The data in this interactive graphic comes primarily from the Centers for Disease Control and Prevention’s Multiple Cause of Death database, which is derived from death certificates from all 50 states and the District of Columbia and is widely considered the most comprehensive estimate of firearm deaths.},
+	titleaddon = {{FiveThirtyEight}},
+	author = {Casselman, Ben and Conlen, Matthew and Fischer-Baum, Reuben},
+	urldate = {2017-02-12},
+	date = {2016-07-13}
+}
+
+@article{baal_forecasting_2016,
+	title = {Forecasting differences in life expectancy by education},
+	volume = {70},
+	issn = {0032-4728},
+	url = {http://dx.doi.org/10.1080/00324728.2016.1159718},
+	doi = {10.1080/00324728.2016.1159718},
+	abstract = {Forecasts of life expectancy ({LE}) have fuelled debates about the sustainability and dependability of pension and healthcare systems. Of relevance to these debates are inequalities in {LE} by education. In this paper, we present a method of forecasting {LE} for different educational groups within a population. As a basic framework we use the Li–Lee model that was developed to forecast mortality coherently for different groups. We adapted this model to distinguish between overall, sex-specific, and education-specific trends in mortality, and extrapolated these time trends in a flexible manner. We illustrate our method for the population aged 65 and over in the Netherlands, using several data sources and spanning different periods. The results suggest that {LE} is likely to increase for all educational groups, but that differences in {LE} between educational groups will widen. Sensitivity analyses illustrate the advantages of our proposed method.},
+	pages = {201--216},
+	number = {2},
+	journaltitle = {Population Studies},
+	author = {Baal, Pieter van and Peters, Frederik and Mackenbach, Johan and Nusselder, Wilma},
+	urldate = {2016-08-11},
+	date = {2016-05-03},
+	pmid = {27052447},
+	file = {Baal et al_2016_Forecasting differences in life expectancy by education.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Baal et al/Baal et al_2016_Forecasting differences in life expectancy by education.pdf:application/pdf}
+}
+
+@article{reher_agency_2017,
+	title = {Agency in Fertility Decisions in Western Europe During the Demographic Transition: A Comparative Perspective},
+	volume = {54},
+	issn = {0070-3370, 1533-7790},
+	url = {http://link.springer.com/article/10.1007/s13524-016-0536-0},
+	doi = {10.1007/s13524-016-0536-0},
+	shorttitle = {Agency in Fertility Decisions in Western Europe During the Demographic Transition},
+	abstract = {We use a set of linked reproductive histories taken from Sweden, the Netherlands, and Spain for the period 1871–1960 to address key issues regarding how reproductive change was linked specifically to mortality and survivorship and more generally to individual agency. Using event-history analysis, this study investigates how the propensity to have additional children was influenced by the number of surviving offspring when reproductive decisions were made. The results suggest that couples were continuously regulating their fertility to achieve reproductive goals. Families experiencing child fatalities show significant increases in the hazard of additional births. In addition, the sex composition of the surviving sibset also appears to have influenced reproductive decisions in a significant but changing way. The findings offer strong proof of active decision-making during the demographic transition and provide an important contribution to the literature on the role of mortality for reproductive change.},
+	pages = {3--22},
+	number = {1},
+	journaltitle = {Demography},
+	shortjournal = {Demography},
+	author = {Reher, David Sven and Sandström, Glenn and Sanz-Gimeno, Alberto and Poppel, Frans W. A. van},
+	urldate = {2017-02-13},
+	date = {2017-02-01},
+	langid = {english},
+	file = {Reher_et_al_2017_Agency_in_Fertility_Decisions_in_Western_Europe_During_the_Demographic.pdf:/home/ikashnitsky/sync/SOFTWARE/Zotero_Library/Authors/Reher et al/Reher_et_al_2017_Agency_in_Fertility_Decisions_in_Western_Europe_During_the_Demographic.pdf:application/pdf}
+}
