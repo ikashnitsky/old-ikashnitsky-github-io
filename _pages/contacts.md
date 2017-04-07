@@ -17,7 +17,9 @@ ikashnitsky@hse.ru
 [HSE](https://www.hse.ru/en/staff/ikashnitsky)     
    
 [Google Scholar](https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1)   
-[ORCID](http://orcid.org/0000-0003-1835-8687)   
+[ORCID](http://orcid.org/0000-0003-1835-8687)  
+[ImpactStory](https://impactstory.org/u/0000-0003-1835-8687)  
+[Open Science Framework](osf.io/n6usx)  
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2340978)   
 [RePEc](https://ideas.repec.org/f/pka1114.html)   
 [ResearchGate](http://www.researchgate.net/profile/Ilya_Kashnitsky)   
