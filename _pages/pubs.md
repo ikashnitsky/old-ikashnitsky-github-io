@@ -7,7 +7,7 @@ image:
   teaser: teaser-pubs.png
 ---
 
-### [[Google Scholar]][1] [[Academia]][2]
+### [[OSF]][osf] [[Google Scholar]][gs] [[Impactstory]][is]
 
 ***
 
@@ -122,6 +122,6 @@ image:
 
 
 
-
-[1]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
-[2]: https://hse-ru.academia.edu/ikashnitsky
+[osf]: https://osf.io/n6usx/
+[gs]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
+[is]: https://impactstory.org/u/0000-0003-1835-8687
