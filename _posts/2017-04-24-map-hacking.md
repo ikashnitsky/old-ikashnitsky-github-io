@@ -48,6 +48,10 @@ fort_hack <- fort %>%
 Finally, we are ready to create the schematic map. 
 
 ```
+# create color pallete
+brbg <- RColorBrewer::brewer.pal(11,"BrBG")
+brbg4 <- brbg[c(4,9,2,11)]
+
 # create the two-dim legend
 ggleg <- ggplot()+
         coord_equal(xlim = c(0,1), ylim = c(0,1), expand = c(0,0))+

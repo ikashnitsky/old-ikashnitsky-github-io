@@ -36,6 +36,11 @@ fort_hack <- fort %>%
                lat = ifelse(subregion=='S', lat - 5e5, lat),
                long = ifelse(subregion=='W', long - 2e5, long))
 
+
+# create color pallete
+brbg <- RColorBrewer::brewer.pal(11,"BrBG")
+brbg4 <- brbg[c(4,9,2,11)]
+
 # create the two-dim legend
 ggleg <- ggplot()+
         coord_equal(xlim = c(0,1), ylim = c(0,1), expand = c(0,0))+
