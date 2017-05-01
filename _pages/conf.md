@@ -90,6 +90,12 @@ Swansea, Great Britain
 
 # Seminars
 
+**2017 May 02**  
+Lunch seminar at the Faculty of Spatial Sciences  
+Groningen, The Netherlands  
+*Regional demographic convergence in Europe*   
+[[slides](doc/slides/1705-rug-ik.html)]  
+
 **2016 June 21 (RUS)**  
 Migration studies seminar at NRU Higher School of Economics  
 Moscow, Russia  
