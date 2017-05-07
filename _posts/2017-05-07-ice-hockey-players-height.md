@@ -1,5 +1,5 @@
 ---
-title: "Ice hockey player's height dynamics: IIHF world championships 2001-2016"
+title: "Evolution of ice hockey players' height: IIHF world championships 2001-2016"
 layout: article
 image:
   teaser: 170507-teaser.png
