@@ -9,7 +9,7 @@ The 2017 Ice Hockey World Championship has started. Thus I want to share a small
 
 When the TV camera shows the players returning to the changing rooms, it is difficult not to notice just how huge the players are compared to the surrounding people -- fans, journalists, coaches, or the ice arena workers. For example, here are the rising stars of the Finnish hockey -- Patrik Laine and Aleksander Barkov -- with the two fans in between.
 
-[![fig0][f0]][f0]  
+[![fig0][f0s]][f0]  
 *[Source][photo]*
 
 So the questions arise. Are ice hockey players really taller than average people? How is the height of ice hockey players evolving over time? Are there any lasting differences between countries?
@@ -67,7 +67,7 @@ gg_period_jitter <- ggplot(df, aes(x = year, y = height))+
 gg_period <- cowplot::plot_grid(gg_period_mean, gg_period_jitter)
 ```
 
-[![fig1][f1]][f1]  
+[![fig1][f1s]][f1]  
 
 **Figure 1. The dynamics of the average height of the ice hockey players at the world championships, 2001--2016**
 
@@ -110,7 +110,7 @@ gg_times_part <- ggplot(df_part, aes(y = Freq, x = Var1))+
         theme(panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig2][f2]][f2]   
+[![fig2][f2s]][f2]   
 
 **Figure 2. Histogram of the players by the number of times they participated in world championships over the period 2001-2016.**
 
@@ -334,7 +334,7 @@ gg_cnt_part <- ggplot(data = df_cnt_part, aes(x = year, y = country))+
               axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
 ```
 
-[![fig3][f3]][f3]  
+[![fig3][f3s]][f3]  
 
 **Figure 3. Stats of the national teams participation in the world championships**
 
@@ -582,7 +582,7 @@ gg_av.h_country <- ggplot(dfuc , aes(x = factor(cohort), y = av.height))+
               panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig4][f4]][f4]  
+[![fig4][f4s]][f4]  
 
 **Figure 4. The height of ice hockey players by nations**
 
@@ -606,7 +606,7 @@ gg_pos <- ggplot(dfuc_pos , aes(x = cohort, y = av.height))+
         theme(legend.position = "none", 
               panel.grid = element_line(colour = "grey75", size = .25))
 ```
-[![fig5][f5]][f5]  
+[![fig5][f5s]][f5]  
 
 **Figure 5. Correlation between height and birth cohort by position**
 
@@ -865,7 +865,7 @@ gg_hoc_vs_pop <- ggplot()+
         theme(panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig6][f6]][f6]  
+[![fig6][f6s]][f6]  
 
 **Figure 6. The comparison of height dynamics in ice hockey players (brown) and the corresponding male populations (green)**
 
@@ -906,7 +906,7 @@ gg_hb_growth <- ggplot(df_hb_gr, aes(x = average_growth, y = country))+
               panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig7][f7]][f7]  
+[![fig7][f7s]][f7]  
 
 **Figure 7. Average changes in male population**
 
@@ -933,7 +933,7 @@ gg_month <- ggplot(df_month, aes(x = factor(month)))+
               panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig8][f8]][f8]  
+[![fig8][f8s]][f8]  
 
 **Figure 8. The distribution of ice hockey players by month of birth**
 
@@ -955,7 +955,7 @@ gg_month_dec <- ggplot(df_month_dec, aes(x = factor(month)))+
               panel.grid = element_line(colour = "grey75", size = .25))
 ```
 
-[![fig9][f9]][f9]  
+[![fig9][f9s]][f9]  
 
 **Figure 9. The distribution of ice hockey players by month of birth -- separately by decades of birth**
 
@@ -984,3 +984,14 @@ The full R script can be downloaded [here][code].
 [f7]: https://ikashnitsky.github.io/images/170507/fig-07-av-growth-pop.png
 [f8]: https://ikashnitsky.github.io/images/170507/fig-08-month-selectivity.png
 [f9]: https://ikashnitsky.github.io/images/170507/fig-09-month-selectivity-decades.png
+
+[f0s]: https://ikashnitsky.github.io/images/170507/s-fig-00.jpg
+[f1s]: https://ikashnitsky.github.io/images/170507/s-fig-01.png
+[f2s]: https://ikashnitsky.github.io/images/170507/s-fig-02.png
+[f3s]: https://ikashnitsky.github.io/images/170507/s-fig-03.png
+[f4s]: https://ikashnitsky.github.io/images/170507/s-fig-04.png
+[f5s]: https://ikashnitsky.github.io/images/170507/s-fig-05.png
+[f6s]: https://ikashnitsky.github.io/images/170507/s-fig-06.png
+[f7s]: https://ikashnitsky.github.io/images/170507/s-fig-07.png
+[f8s]: https://ikashnitsky.github.io/images/170507/s-fig-08.png
+[f9s]: https://ikashnitsky.github.io/images/170507/s-fig-09.png
