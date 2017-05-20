@@ -13,9 +13,8 @@ image:
 
 ## 2017
 
-[Kashnitsky I](https://ikashnitsky.github.io/me), De Beer J, Van Wissen L. Decomposition of regional convergence in population aging across Europe. *Genus*, 73(1): 2. 
+[Kashnitsky I](https://ikashnitsky.github.io/me), De Beer J, Van Wissen L. Decomposition of regional convergence in population aging across Europe. *Genus*, 73(1): 2. [DOI](https://doi.org/10.1186/s41118-017-0018-2): 10.1186/s41118-017-0018-2. 
 [[paper](/doc/pubs/1705-genus-ik.pdf)] 
-[[link](https://doi.org/10.1186/s41118-017-0018-2)] 
 [[reproduce](https://github.com/ikashnitsky/genus-2017)] 
 [[osf](https://osf.io/z6fym/)]   
 
