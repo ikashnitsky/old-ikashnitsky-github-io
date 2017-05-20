@@ -20,7 +20,8 @@ image:
 
 
 [Kashnitsky I](https://ikashnitsky.github.io/me), De Beer J, Van Wissen L. 2017. Economic convergence in ageing Europe. *NIDI Working Papers* 2017/02. 
-[[paper](/doc/pubs/1702-nidi-wp-ik.pdf)]  
+[[paper](/doc/pubs/1702-nidi-wp-ik.pdf)] 
+[[osf](https://osf.io/j6yhk/)]   
 
 ## 2016
 
