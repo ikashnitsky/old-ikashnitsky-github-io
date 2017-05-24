@@ -26,7 +26,7 @@ library(hrbrthemes) # version 0.1.0
 
 
 # load the prepared geodata and stat data
-load("https://ikashnitsky.github.io/doc/misc/map-hacking/map-hacking.Rdata")
+load(url("https://ikashnitsky.github.io/doc/misc/map-hacking/map-hacking.Rdata"))
 
 # fortify the spatial objects
 bord <- fortify(Sborders)
@@ -110,4 +110,4 @@ And here is the result.
 [pre]: https://ikashnitsky.github.io/doc/pubs/1702-nidi-wp-ik.pdf
 
 
-[f1]: /images/170424/hacked-map.png
+[f1]: https://ikashnitsky.github.io/images/170424/hacked-map.png
