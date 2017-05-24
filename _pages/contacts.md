@@ -28,7 +28,7 @@ ikashnitsky@hse.ru
 [Kudos](https://www.growkudos.com/profiles/133159)   
 [Figshare](https://figshare.com/authors/Ilya_Kashnitsky/816969)   
 [Istina (ru)](http://istina.msu.ru/profile/ikashnitsky/)   
-[CyberLeninka (ru)   ](http://cyberleninka.ru/scientist/ikashnitsky)     
+[CyberLeninka (ru)](http://cyberleninka.ru/scientist/ikashnitsky)     
   
 [LinkedIN](https://www.linkedin.com/in/ikashnitsky)   
 [Facebook](https://www.facebook.com/ikashnitsky)   
