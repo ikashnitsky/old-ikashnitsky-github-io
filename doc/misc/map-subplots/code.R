@@ -14,6 +14,7 @@ library(tidyverse)
 library(ggthemes)
 library(rgdal)
 library(viridis)
+library(RColorBrewer)
 library(extrafont)
 myfont <- "Roboto Condensed"
 
@@ -105,6 +106,10 @@ gghole <- function (fort) {
         names(out) <- c("poly", "hole")
         return(out)
 }
+
+
+# pal for the subregions
+brbg3 <- brewer.pal(11,"BrBG")[c(8,2,11)]
 
 # annotate a small map of the subregions of Europe
 an_sub <- basemap +
