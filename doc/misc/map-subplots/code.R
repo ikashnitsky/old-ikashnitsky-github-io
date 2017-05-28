@@ -138,7 +138,7 @@ typ <-  basemap +
         geom_polygon(data = gghole(fort_map)[[2]], 
                      aes(x=long, y=lat, group=group, fill=type),
                      color="grey30",size=.1)+
-        scale_fill_viridis("NEUJOBS\ncalssification of\nNUTS-2 regions", 
+        scale_fill_viridis("NEUJOBS\nclassification of\nNUTS-2 regions", 
                            option = "B", discrete = T, end = .8)+
         geom_path(data = bord, aes(x = long, y = lat, group = group),
                   color = "grey20",size = .5) + 
