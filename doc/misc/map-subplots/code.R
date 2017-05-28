@@ -1,5 +1,5 @@
 ################################################################################
-#                                                                                                        
+#                                                                                
 # ikashnitsky.github.io 2017-05-25
 # Map urb/rur
 # Ilya Kashnitsky, ilya.kashnitsky@gmail.com
@@ -14,7 +14,6 @@ library(tidyverse)
 library(ggthemes)
 library(rgdal)
 library(viridis)
-library(RColorBrewer)
 library(extrafont)
 myfont <- "Roboto Condensed"
 
@@ -107,10 +106,6 @@ gghole <- function (fort) {
         return(out)
 }
 
-
-# pal for the subregions
-brbg3 <- brewer.pal(11,"BrBG")[c(8,2,11)]
-
 # annotate a small map of the subregions of Europe
 an_sub <- basemap +
         geom_polygon(data = gghole(fort_map)[[1]], 
@@ -154,4 +149,4 @@ typ <-  basemap +
         theme(plot.title = element_text(size = 20),
               plot.caption = element_text(size = 12))
 
-ggsave(filename = "map.png", typ, width = 6.5, height = 8)
+ggsave(filename = "map.png", typ, width = 6.5, height = 8, dpi = 300)
