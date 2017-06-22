@@ -1,0 +1,179 @@
+---
+title: "Maps with ggplot2"
+author: Ilya Kashnitsky
+date: 22 June 2017
+output:
+  revealjs::revealjs_presentation:
+    theme: serif
+    highlight: zenburn
+    center: TRUE
+    transitionSpeed: fast
+    transition: slide
+    incremental: false
+    reveal_options:
+      slideNumber: true
+      previewLinks: true
+    fig_width: 10
+    fig_height: 7
+    fig_caption: false
+    smart: true
+    mathjax: null
+---
+
+```{r setup, include=FALSE}
+stripcolour <- "grey93"
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, cache = TRUE)
+
+library(stats)
+library(ik)
+library(tidyverse)
+library(ggthemes)
+library(knitr)
+library(rmarkdown)
+library(revealjs)
+theme_set(theme_minimal() +
+    theme(panel.background = element_blank(),
+          strip.background = element_rect(colour = NA, fill = stripcolour)))
+```
+
+
+
+# We are doing the right thing here {data-background=#cce5cc}
+
+## Anscombe's Quartet
+![Imgur](http://i.imgur.com/QA3Ss8D.png)
+
+##
+![dino](http://i.imgur.com/db9eMTL.gif)
+<span style="font-size:0.7em">https://www.autodeskresearch.com/publications/samestats</span>
+
+
+##
+![Imgur](http://i.imgur.com/dv8n9lG.jpg)
+<span style="font-size:0.7em">https://twitter.com/hafenstats/status/877586553597378560</span>
+
+
+# Map projections{data-background=#ffeb7f}
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://xkcd.com/977/"></iframe>
+<span style="font-size:0.7em">https://xkcd.com/977/</span>
+
+##{data-background="http://i.imgur.com/HmwuO7c.png"}
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="http://epsg.io"></iframe>
+<span style="font-size:0.7em">http://epsg.io</span>
+
+# Result: animated map
+
+##
+![eu](http://i.imgur.com/gLLHSWU.gif)
+
+
+# Sources of geodata {data-background=#ffcccc} 
+
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://www.google.de/search?client=opera&q=download+shapefile&sourceid=opera&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=-Y1LWciCFYLBaJ77qeAO"></iframe>
+<span style="font-size:0.7em">https://www.google.de/search?client=opera&q=download+shapefile&sourceid=opera&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=-Y1LWciCFYLBaJ77qeAO</span>
+
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://www.statsilk.com/maps/download-free-shapefile-maps"></iframe>
+<span style="font-size:0.7em">https://www.statsilk.com/maps/download-free-shapefile-maps</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="http://wiki.openstreetmap.org/wiki/Shapefiles"></iframe>
+<span style="font-size:0.7em">http://wiki.openstreetmap.org/wiki/Shapefiles</span>
+
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="http://www.gadm.org"></iframe>
+<span style="font-size:0.7em">http://www.gadm.org</span>
+
+
+
+
+# Where to go next? {data-background=#cefafa}
+
+## Materials
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://ikashnitsky.github.io"></iframe>
+<span style="font-size:0.7em">https://ikashnitsky.github.io</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://github.com/Robinlovelace/Creating-maps-in-R"></iframe>
+<span style="font-size:0.7em">https://github.com/Robinlovelace/Creating-maps-in-R</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://bookdown.org"></iframe>
+<span style="font-size:0.7em">https://bookdown.org</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://www.r-bloggers.com"></iframe>
+<span style="font-size:0.7em">https://www.r-bloggers.com</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://xinye1.github.io/projects/brexit-cartogram-leaflet/"></iframe>
+<span style="font-size:0.7em">https://xinye1.github.io/projects/brexit-cartogram-leaflet/</span>
+
+
+# Packages to explore {data-background=#cce5cc}
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="http://rpubs.com/bhaskarvk/tilegramsR"></iframe>
+<span style="font-size:0.7em">http://rpubs.com/bhaskarvk/tilegramsR</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://github.com/sjewo/cartogram"></iframe>
+<span style="font-size:0.7em">https://github.com/sjewo/cartogram</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html"></iframe>
+<span style="font-size:0.7em">https://cran.r-project.org/web/packages/tmap/vignettes/tmap-nutshell.html</span>
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://edzer.github.io/sfr/articles/sf1.html"></iframe>
+<span style="font-size:0.7em">https://edzer.github.io/sfr/articles/sf1.html</span>
+
+## `swirl`
+<iframe width="980px" height="500px" src="http://swirlstats.com"></iframe>
+<span style="font-size:0.7em">http://swirlstats.com</span>
+
+
+# Presentations with R {data-background=#ffcccc}
+
+## Easy and impressive
+
+##
+![impress](http://i.imgur.com/0hn1vVs.jpg)
+
+## Numerous frameworks for creating presentations with R
+<iframe width="980px" height="400px" style="background: #FFFFFF;" src="http://rmarkdown.rstudio.com/formats.html"></iframe>
+<span style="font-size:0.7em">http://rmarkdown.rstudio.com/formats.html</span>
+
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="https://ramnathv.github.io/slidifyExamples/"></iframe>
+<span style="font-size:0.7em">https://ramnathv.github.io/slidifyExamples</span>
+
+
+## My choice: revealjs
+<iframe width="980px" height="500px" style="background: #FFFFFF;" src="http://lab.hakim.se/reveal-js/"></iframe>
+<span style="font-size:0.7em">http://lab.hakim.se/reveal-js/</span>
+
+
+## Advantages of HTML5 presentations
+>- Open in any browser
+>- Put online
+>- Dynamic fit to screen (4:3 or 16:9 ?)
+>- Animated contents
+>- Fast to create
+>- Enforce KISS
+
+
+##
+<iframe width="980px" height="630px" style="background: #FFFFFF;" src="http://rmarkdown.rstudio.com/revealjs_presentation_format.html"></iframe>
+<span style="font-size:0.7em">http://rmarkdown.rstudio.com/revealjs_presentation_format.html</span>
