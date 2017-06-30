@@ -23,8 +23,12 @@ It is striking how clearly can we see the borders between European countries: Po
 
 The obvious drawback of the map is that it is not colorblind friendly, and there is no way to make it so because color is the main player in this dataviz. 
 
+# Full reproducibility
+To reproduce the map from the scratch please see [the gist][gist].
+
 [f1]: https://ikashnitsky.github.io/images/170630/fig-01.png
 [f1s]: https://ikashnitsky.github.io/images/170630/s-fig-01.png
 
 [retreat]: https://twitter.com/RostockRetreat
 [gen]: https://doi.org/10.1186/s41118-017-0018-2
+[gist]: https://gist.github.com/ikashnitsky/c7bf13f6c716f65ddba3e52073793f3f
