@@ -1,10 +1,10 @@
 ---
 layout: article
-permalink: /slides
-title: "SLIDES"
+permalink: /conf
+title: "ACADEMIC EVENTS VISITED"
 comments: false
 image:
-  teaser: teaser-slides.png
+  teaser: teaser-conf.png
 ---
 
 # Conferences
