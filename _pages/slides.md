@@ -1,13 +1,22 @@
 ---
 layout: article
-permalink: /conf
-title: "CONFERENCES"
+permalink: /slides
+title: "SLIDES"
 comments: false
 image:
-  teaser: teaser-conf.png
+  teaser: teaser-slides.png
 ---
 
+# Conferences
+
 ## 2017
+**2017 June 26-28**  
+[Rostock Retreat Visualization](https://twitter.com/RostockRetreat)  
+Rostock, Germany  
+*Colorcoded map: regional population structures at a glance*  
+[[visualization](/doc/slides/1706-mind-the-gap.pdf)] 
+[[post](https://ikashnitsky.github.io/2017/colorcoded-map/)]
+
 **2017 March 21**  
 Belgian Day of Demography  
 Ghent, Belgium  
@@ -88,7 +97,12 @@ Swansea, Great Britain
 
 ***
 
-# Seminars
+# Seminars / workshops
+
+**2017 June 28**  
+Dataviz challenge presentation by team #2 "Mind the gap!" ([Michael Boissonneault](https://twitter.com/michaelboiss), [Jorge Cimentada](https://twitter.com/cimentadaj), [Juan Galeano](https://twitter.com/GEDEM_CED), [Corina Huisman](https://twitter.com/CorinaHuisman), [Ilya Kashnitsky](https://twitter.com/ikashnitsky), and [Nikola Sander](https://twitter.com/nikolasander)) at [Rostock Retreat Visualization](https://twitter.com/RostockRetreat)  
+Rostock, Germany  
+[[slides](/doc/slides/1706-mind-the-gap.pdf)]  
 
 **2017 May 02**  
 Lunch seminar at the Faculty of Spatial Sciences  

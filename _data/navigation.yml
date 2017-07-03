@@ -20,10 +20,10 @@
   excerpt       : "List of publications"
   image         : teaser-pubs.png
   
-- title         : "CONF"
-  url           : /conf
+- title         : "SLIDES"
+  url           : /slides
   excerpt       : "Talks at conferences and seminars"
-  image         : teaser-conf.png
+  image         : teaser-slides.png
   
 - title         : "DD"
   url           : /dd
