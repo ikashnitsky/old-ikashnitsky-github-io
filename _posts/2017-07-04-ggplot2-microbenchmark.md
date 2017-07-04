@@ -18,6 +18,7 @@ library(rgdal)          # deal with shapefiles
 library(microbenchmark) # measure the speed of executing
 library(extrafont)      # nice font
 myfont <- "Roboto Condensed"
+library(RColorBrewer)
 
 # create a canvas 
 canv_mt <- ggplot(mtcars, aes(hp, mpg, color = cyl))+
@@ -71,7 +72,10 @@ bord <- fortify(Sborders)
 fort <- fortify(Sn2, region = "id")
 
 # join spatial and statistical data
-fort_map <- left_join(df,fort,"id")
+fort_map <- left_join(df, fort, "id")
+
+# pal for the subregions
+brbg3 <- brewer.pal(11,"BrBG")[c(8,2,11)]
 
 # create a blank map
 basemap <- ggplot()+
