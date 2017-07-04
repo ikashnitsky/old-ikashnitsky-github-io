@@ -152,8 +152,8 @@ The median time of execution is 16 milliseconds for the map *without* canvas and
 ### For the full script to reproduce the results check out this [gist][gist].
 
 [f1]: https://ikashnitsky.github.io/images/170704/fig-01-test-simple.png
-[f2]: https://ikashnitsky.github.io/images/170522/fig-02-sub.png
-[f2]: https://ikashnitsky.github.io/images/170522/fig-02-test-map.png
+[f2]: https://ikashnitsky.github.io/images/170704/fig-02-sub.png
+[f3]: https://ikashnitsky.github.io/images/170704/fig-03-test-map.png
 
 [one]: https://ikashnitsky.github.io/2017/denmark-nuts-reconstruction/
 [two]: https://ikashnitsky.github.io/2017/map-hacking/
