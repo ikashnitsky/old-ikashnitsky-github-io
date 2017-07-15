@@ -150,11 +150,11 @@ autoplot(test_map)+
 
 The median time of execution is 18.8 milliseconds for the map *without* canvas and 6.3 milliseconds for the map *with* canvas. 
 
-## Conclusion
-**Use canvas with `ggplot2`**
+## Conclusion: Use canvas with `ggplot2`
 
-### For the full script to reproduce the results check out this [gist][gist].  
+## For the full script to reproduce the results check out this [gist][gist].  
 
+***
 
 > This post is updated on 2017-07-15. The earlier version had a terminology mistake [pointed out by Hadley Wickham][hadley]. I wrongly called creation time of the plots as rendering time. 
 
