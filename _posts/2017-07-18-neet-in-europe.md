@@ -5,6 +5,8 @@ image:
   teaser: 170718-teaser.jpg
 ---
 
+[![fig1][f1]][f1]  
+
 # R Documentation at Stack Overflow
 One of the nice features of `R` is the ease of data acquisition. I am now working on the examples of data acquisition form different sources within an R session. Soon I am going publish a long-read with an overview of demographic data acquisition in R.
 
