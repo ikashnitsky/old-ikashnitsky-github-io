@@ -5,8 +5,6 @@ image:
   teaser: 170718-teaser.jpg
 ---
 
-[![fig1][f1]][f1]  
-
 # R Documentation at Stack Overflow
 One of the nice features of `R` is the ease of data acquisition. I am now working on the examples of data acquisition form different sources within an R session. Soon I am going publish a long-read with an overview of demographic data acquisition in R.
 
@@ -43,12 +41,11 @@ neet %>%
         ungroup() %>% 
         ggplot(aes(x = time %>% year(),
                    y = values))+
-        coord_cartesian(expand = c(0, 0), 
-                        ylim = c(0, 40))+
         geom_path(aes(group = 1))+
         geom_point(aes(fill = values), pch = 21)+
         scale_x_continuous(breaks = seq(2000, 2015, 5),
                            labels = c("2000", "'05", "'10", "'15"))+
+        scale_y_continuous(expand = c(0, 0), limits = c(0, 40))+
         scale_fill_viridis("NEET, %", option = "B")+
         facet_geo(~ geo, grid = "eu_grid1")+
         labs(x = "Year",
