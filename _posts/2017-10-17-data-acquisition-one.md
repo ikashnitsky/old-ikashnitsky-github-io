@@ -5,8 +5,6 @@ image:
   teaser: 171017-teaser-one.png
 ---
 
-# Intro
-
 R is an incredible tool for reproducible research. In the present series of blog posts I want to show how one can easily acquire data within an R session, documenting every step in a fully reproducible way. There are numerous data acquisition options for R users. Of course, I do not attempt to show all the data possibilities and tend to focus mostly on demographic data. If your prime interest lies outside human population statistics, it's worth checking the amazing [Open Data Task View][odata]. 
 
 The series consists of four posts:
