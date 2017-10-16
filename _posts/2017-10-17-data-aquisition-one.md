@@ -162,7 +162,7 @@ All the code chunks can be found in [this gist][gist].
 [f2]: https://ikashnitsky.github.io/images/171017/gapminder.png
 [f3]: https://ikashnitsky.github.io/images/171017/galton.png
 [f4]: https://ikashnitsky.github.io/images/171017/new-york.png
-[f4]: https://ikashnitsky.github.io/images/171017/ice-hockey.png
+[f5]: https://ikashnitsky.github.io/images/171017/ice-hockey.png
 
 [odata]: https://github.com/ropensci/opendata
 [list]: https://vincentarelbundock.github.io/Rdatasets/datasets.html
