@@ -15,7 +15,7 @@ The series consists of four posts:
  
 For each of the data acquisition options I provide a small visualization use case.
 
-# Biult-in datasets
+# Built-in datasets
 
 For illustration purposes, many R packages include data samples. Base R comes with a `datasets` package that offers a wide range of simple, sometimes very famous, datasets. Quite a detailed list of built-in datasets from various packages is [maintained by Vincent Arel-Bundock][list]. 
 
