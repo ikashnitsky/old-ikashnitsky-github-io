@@ -7,6 +7,21 @@ image:
   teaser: teaser-tea.png
 ---
 
+# 2017
+
+## R workshop at HSE
+
+2017-10-17 R - the tool (intro, tidyverse, ggplot2)   
+[[slides](/hse-r-workshop-2017/slides/171017-R-the-tool.html)]
+[[materials](https://github.com/ikashnitsky/hse-r-workshop-2017)]  
+
+2017-10-17 Maps with R  
+[[slides](/hse-r-workshop-2017/slides/171018-maps-with-R.html)]
+[[materials](https://github.com/ikashnitsky/hse-r-workshop-2017)]  
+
+
+# 2016
+
 ## R seminars
 
 2016-12-06 R intro   
