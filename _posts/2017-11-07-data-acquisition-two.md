@@ -131,7 +131,7 @@ df_oecd %>%
 
 # WID
 
-[World Wealth and Income Database][wdi] is a harmonized dataset on income and wealth inequality. The developers of the database provide an R package to get their data, which is only [available from github][widr] so far. 
+[World Wealth and Income Database][wid] is a harmonized dataset on income and wealth inequality. The developers of the database provide an R package to get their data, which is only [available from github][widr] so far. 
 
 ```
 library(tidyverse) 
