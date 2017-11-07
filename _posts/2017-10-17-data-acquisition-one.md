@@ -9,7 +9,7 @@ R is an incredible tool for reproducible research. In the present series of blog
 
 The series consists of four posts:
  - **Loading prepared datasets**
- - Accessing popular statistical databases
+ - [Accessing popular statistical databases][two]
  - Demographic data sources
  - Getting spatial data
  
@@ -162,6 +162,7 @@ All the code chunks can be found in [this gist][gist].
 [f4]: https://ikashnitsky.github.io/images/171017/new-york.png
 [f5]: https://ikashnitsky.github.io/images/171017/ice-hockey.png
 
+[two]: https://ikashnitsky.github.io/2017/data-acquisition-two
 [odata]: https://github.com/ropensci/opendata
 [list]: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 [ny]: https://catalog.data.gov/dataset/historical-new-york-city-crime-data-ad47e
