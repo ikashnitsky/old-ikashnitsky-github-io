@@ -43,7 +43,7 @@ e0 %>%
         geom_path()+
         facet_wrap(~ geo, ncol = 3)+
         labs(y = "Life expectancy at age 65", x = NULL)+
-        theme_minimal()
+        theme_minimal(base_family = "mono")
 ```
 
 [![fig1][f1]][f1]  
@@ -87,7 +87,7 @@ df_wb %>%
         geom_path(size = 1)+
         scale_color_brewer(NULL, palette = "Dark2")+
         labs(x = NULL, y = NULL, title = "Lifetime risk of maternal death (%)")+
-        theme_minimal()+
+        theme_minimal(base_family = "mono")+
         theme(panel.grid.minor = element_blank(),
               legend.position = c(.8, .9))
 
@@ -123,7 +123,7 @@ df_oecd %>%
         facet_wrap(~ country, ncol = 1)+
         labs(x = NULL, y = "Age groups", 
              title = "Average duration of unemployment in months, males")+
-        theme_minimal()
+        theme_minimal(base_family = "mono")
 ```
 
 [![fig3][f3]][f3]  
@@ -164,7 +164,7 @@ df_wid %>%
         labs(title = "Top 1% and top 10% personal wealth shares in France and Great Britain",
              y = "top share")+
         facet_wrap(~ percentile)+
-        theme_minimal()
+        theme_minimal(base_family = "mono")
 
 ```
 [![fig4][f4]][f4]  
