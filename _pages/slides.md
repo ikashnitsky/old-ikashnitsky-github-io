@@ -15,8 +15,8 @@ image:
 Dutch Demography Day 2017  
 Utrecht, Netherlands  
 *Colorcoded map: regional population structures at a glance*  
-[[slides](/doc/slides/1711-ddd-ik.html) | 
-[book of abstracts](/doc/slides/1711-ddd-book.pdf)] 
+[[slides](/doc/slides/1711-ddd-ik.html)] 
+[[book of abstracts](/doc/slides/1711-ddd-book.pdf)] 
 
 
 **2017 June 26-28**  
