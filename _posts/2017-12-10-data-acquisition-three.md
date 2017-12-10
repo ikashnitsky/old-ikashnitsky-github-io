@@ -253,7 +253,7 @@ All the code chunks together can be found in [this gist][gist].
 
 
 [f1]: https://ikashnitsky.github.io/images/171210/hmd.png
-[f2]: https://ikashnitsky.github.io/images/171210/wpp.png
+[f2]: https://ikashnitsky.github.io/images/171210/wpp2015.png
 [f3]: https://ikashnitsky.github.io/images/171210/ess.png
 [f4]: https://ikashnitsky.github.io/images/171210/tidycensus.png
 
