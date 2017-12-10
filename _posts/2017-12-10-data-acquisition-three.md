@@ -187,7 +187,7 @@ df_ess_select %>%
 
 
 
-# American Comunity Survey and Census
+# American Community Survey and Census
 
 There are several packages that provide access to the US Census and ACS data. Perhaps the most convenient one is the recent `tidycensus` package by [Kyle Walker][kyle]. One extremely useful feature of this approach is the ability to download geodata along with stats in the form of simple features. Simple features, a revolutionary approach to deal with spatial data in R implemented in `sf` package by [Edzer Pebesma][edz], allow to manage and visualize geodata tidy and efficiently. Note that in order to reproduce the following example one would have to install the development version of ggplot2. 
 
