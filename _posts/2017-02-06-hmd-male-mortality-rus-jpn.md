@@ -10,7 +10,7 @@ Russia is sadly notorious for its ridiculously high adult male mortality. Accord
 
 Now let's compare age-specific mortality rates of Russian men to that of the Japanese. For years and years Japan performs best in reducing mortality. It became standard to compare mortality schedules of other countries to the Japanese one [^2]. 
 
-First, I need to get HMD data for both Russian and Japanese males. Again, I am using the amazing `R` package `HMDPFDplus` of [Tim Riffe](https://sites.google.com/site/timriffepersonal/) to download HMD data with just a couple of lines of `R` code. 
+First, I need to get HMD data for both Russian and Japanese males. Again, I am using the amazing `R` package `HMDHFDplus` of [Tim Riffe](https://sites.google.com/site/timriffepersonal/) to download HMD data with just a couple of lines of `R` code. 
 
 
 ```

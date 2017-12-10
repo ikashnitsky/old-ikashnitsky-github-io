@@ -8,9 +8,9 @@ comments: true
 
 Sex ratios reflect the two basic regularities of human demographics: 1) there are always more boys being born; 2) males experience higher mortality throughout their life-course. The sex ratio at birth does not vary dramatically[^1] and is more or less constant at the level of 105-106 boys per 100 girls. Hence, differences in the sex ratio profiles of countries mainly reflect gender gap in mortality. In this post I will compare sex ratios age profiles in all countries included in [Human Mortality Database](http://www.mortality.org).
 
- `R` gives amazing opportunities to grab data fast and easy. Thanks to [Tim Riffe's](https://sites.google.com/site/timriffepersonal/) `HMDPFDplus` package, one can now download HMD data with just a couple of lines of `R` code. 
+ `R` gives amazing opportunities to grab data fast and easy. Thanks to [Tim Riffe's](https://sites.google.com/site/timriffepersonal/) `HMDHFDplus` package, one can now download HMD data with just a couple of lines of `R` code. 
  
-There is a handy function in `HMDPFDplus` package -- `getHMDcountries()`. It lists the codes for all countries in HMD. So it becomes really easy to loop through the database and download data for all countries.
+There is a handy function in `HMDHFDplus` package -- `getHMDcountries()`. It lists the codes for all countries in HMD. So it becomes really easy to loop through the database and download data for all countries.
 
 
 ```
