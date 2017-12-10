@@ -10,7 +10,7 @@ R is an incredible tool for reproducible research. In the present series of blog
 The series consists of four posts:
  - [Loading prepared datasets][one]
  - **Accessing popular statistical databases**
- - Demographic data sources
+ - [Demographic data sources][three]
  - Getting spatial data
  
 For each of the data acquisition options I provide a small visualization use case.
@@ -182,6 +182,7 @@ All the code chunks together can be found in [this gist][gist].
 
 [odata]: https://github.com/ropensci/opendata
 [one]: https://ikashnitsky.github.io/2017/data-acquisition-one/
+[three]: https://ikashnitsky.github.io/2017/data-acquisition-three
 [estat]: http://ec.europa.eu/eurostat/data/database
 [esreg]: http://ec.europa.eu/eurostat/web/regions/data/database
 [bulk]: http://ec.europa.eu/eurostat/estat-navtree-portlet-prod/BulkDownloadListing

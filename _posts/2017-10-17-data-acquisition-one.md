@@ -10,7 +10,7 @@ R is an incredible tool for reproducible research. In the present series of blog
 The series consists of four posts:
  - **Loading prepared datasets**
  - [Accessing popular statistical databases][two]
- - Demographic data sources
+ - [Demographic data sources][three]
  - Getting spatial data
  
 For each of the data acquisition options I provide a small visualization use case.
@@ -163,6 +163,7 @@ All the code chunks can be found in [this gist][gist].
 [f5]: https://ikashnitsky.github.io/images/171017/ice-hockey.png
 
 [two]: https://ikashnitsky.github.io/2017/data-acquisition-two
+[three]: https://ikashnitsky.github.io/2017/data-acquisition-three
 [odata]: https://github.com/ropensci/opendata
 [list]: https://vincentarelbundock.github.io/Rdatasets/datasets.html
 [ny]: https://catalog.data.gov/dataset/historical-new-york-city-crime-data-ad47e
