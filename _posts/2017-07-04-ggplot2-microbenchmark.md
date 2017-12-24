@@ -5,6 +5,13 @@ image:
   teaser: 170704-teaser.png
 ---
 
+***
+> **Too wrong; don't read.** Basically, this post turned out to be just a wrong, premature, and unnecessary attempt of code optimization. If you still want to have look, make sure that later you read [this post][tlp] by Thomas Lin Pedersen. You are warned .)  
+
+***
+
+> This post is updated on 2017-07-15. The earlier version had a terminology mistake [pointed out by Hadley Wickham][hadley]. I wrongly called creation time of the plots as rendering time. 
+
 One of the nice features of the `gg`approach to plotting is that one can save plots as R objects at any step and use later to render and/or modify. I used that feature extensively while creating maps with `ggplot2` (see my previous posts: [one][one], [two][two], [three][three], [four][four], [five][five]). It is just convenient to first create a canvas with all the theme parameters appropriate for a map, and then overlay the map layer. At some point I decided to check if that workflow was computationally efficient or not. To my surprise, the usage of canvas reduces the creation time of a ggplot quite a lot. To my further surprise, this finding holds for simple plots as well as maps.
 
 Let's start with a simple check. 
@@ -156,12 +163,13 @@ The median time of execution is 18.8 milliseconds for the map *without* canvas a
 
 ***
 
-> This post is updated on 2017-07-15. The earlier version had a terminology mistake [pointed out by Hadley Wickham][hadley]. I wrongly called creation time of the plots as rendering time. 
+
 
 [f1]: https://ikashnitsky.github.io/images/170704/fig-01-test-simple.png
 [f2]: https://ikashnitsky.github.io/images/170704/fig-02-sub.png
 [f3]: https://ikashnitsky.github.io/images/170704/fig-03-test-map.png
 
+[tlp]: https://www.data-imaginist.com/2017/beneath-the-canvas/
 [one]: https://ikashnitsky.github.io/2017/denmark-nuts-reconstruction/
 [two]: https://ikashnitsky.github.io/2017/map-hacking/
 [three]: https://ikashnitsky.github.io/2017/align-six-maps/
