@@ -40,10 +40,8 @@ ikashnitsky@hse.ru
 [R-bloggers](https://www.r-bloggers.com/author/ilya-kashnitsky/)
  
 # Phone
-**+31 6 55026845 (mob)**
-+31 70 3565214 (work)   
-+7 985 4906790 (mob, RU)   
- 
++31-6-5502-6845
+
 # Post address
 Lange Houtstraat 19  
 NL-2511 CV The Hague  
