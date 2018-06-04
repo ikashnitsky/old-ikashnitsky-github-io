@@ -7,7 +7,7 @@ image:
 
 # Preambule
 
-This academic year I am participating in [European Doctoral School of Demography][edsd]. It is a unique one-year long training for PhD students in demography. It keeps migrating across European research centers; this year Jim Vaupel's research group in Odense hosts the program. Best demographers visit us to give us various one-week-long courses. Here we are, the EDSD cohort 2017/18: 
+This academic year I am participating in [European Doctoral School of Demography][edsd]. It is a unique one-year-long training for PhD students in demography. It keeps migrating across European research centers; this year Jim Vaupel's research group in Odense hosts the program. Best demographers visit us to give us various one-week-long courses. Here we are, the EDSD cohort 2017/18: 
 
 [![fig1][f1]][f1]  
 
@@ -20,16 +20,16 @@ Back in February (yes, I know, that was a quarter of a year ago, EDSD is quite d
 > Villavicencio, F., Jordà, J. P., & Pujadas-Mora, J. M. (2015). Reconstructing lifespans through historical marriage records of Barcelona from the sixteenth and seventeenth centuries. In _Population reconstruction_ (pp. 199–216). Springer.
 
 
-Our assignment was to play with a sample of the dataset and link daughters, who got married in 1597--1629, to their possible parents, who got married in 1573--1617, using string distance metrics. 
+Our assignment was to play with a sample of the dataset and link daughters, who got married in 1597--1629, to their possible parents, who got married in 1573--1617, using string distance metrics. But that's not what I am about to show you.
 
 
 # A side-walk solution
 
-While doing the assignment, I decided to check if there lived "re-incarnations" of my group-mates in Barcelona back in the day. Instead of linking daughters to parents I linked us, 20 guys from various countries, to Catalans from 16-17 century. Here is how I handed in the assignment =)
+While doing the assignment, I decided to check if there lived "re-incarnations" of my group-mates in Barcelona back in the day. Instead of linking daughters to parents I linked us, 20 young demographers from various countries, to Catalans from 16-17 century. Here is how I handed in the assignment =)
 
 [![fig2][f2]][f2]
 
-So, let's dive into string distances and probabilistic sting matching. 
+So, let's dive into string distances and probabilistic string matching. 
 
 > __Important note!__ For the sake of post's readability, this time I chose not to insert code chunks in the post. Instead, you are welcome to explore the [github repo][repo] that replicates all the analyses presented here. Since I cannot publish openly a big chunk of The Barcelona Historical Marriage Database, the guthub repo only contains minimal indicative data sample -- 10 best matching records to each of the groupmate's name.  
 
