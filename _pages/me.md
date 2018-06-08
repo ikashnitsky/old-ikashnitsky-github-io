@@ -39,7 +39,7 @@ ilya.kashnitsky@gmail.com
 Ilya  
 
 
-[cv]: https://ikashnitsky.github.io/doc/cv/1804-cv-ikashnitsky.pdf
+[cv]: https://ikashnitsky.github.io/doc/cv/1806-cv-ikashnitsky.pdf
 [nidi]: http://nidi.nl/en/staff/overview/kashnitsky
 [hse]: https://www.hse.ru/en/staff/ikashnitsky
 [1]: http://www.rug.nl
