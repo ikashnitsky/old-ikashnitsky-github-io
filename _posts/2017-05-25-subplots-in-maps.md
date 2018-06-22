@@ -26,8 +26,8 @@ library(extrafont)
 myfont <- "Roboto Condensed"
 
 # load the already prepared data
-load(url("https://ikashnitsky.github.io/doc/misc/map-subplots/df-27-261-urb-rur.RData"))
-load(url("https://ikashnitsky.github.io/doc/misc/map-subplots/spatial-27-261.RData"))
+load(url("https://ikashnitsky.github.io/share/1705-map-subplots/df-27-261-urb-rur.RData"))
+load(url("https://ikashnitsky.github.io/share/1705-map-subplots/spatial-27-261.RData"))
 ```
 
 Now, I prepare the spatial objects to be plotted with ggplot2 and create a blank map of Europe -- our canvas.
@@ -199,4 +199,4 @@ Of course, it takes several iterations to position each element in its proper pl
 [so]: http://stackoverflow.com/a/19252389/4638884
 [poly]: https://stackoverflow.com/questions/21748852
 [fix]: https://stackoverflow.com/a/32186989/4638884
-[code]: https://ikashnitsky.github.io/doc/misc/map-subplots/code.R
+[code]: https://ikashnitsky.github.io/share/1705-map-subplots/code.R

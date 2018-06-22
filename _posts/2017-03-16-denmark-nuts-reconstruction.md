@@ -76,17 +76,17 @@ library(fuzzyjoin) # version: 0.1.2
 library(viridis) # version: 0.3.4
 
 # load Denmark pop structures for the old municipalities
-df <- read_csv("https://ikashnitsky.github.io/doc/misc/nuts2-denmark/BEF1A.csv.gz")
+df <- read_csv("https://ikashnitsky.github.io/share/1703-nuts2-denmark/BEF1A.csv.gz")
 
 # create a directory for geodata
 ifelse(!dir.exists("geodata"), dir.create("geodata"), "Directory already exists")
 
 # download, unzip and read Danish NUTS-3 geodata (31KB)
-url_nuts <- "https://ikashnitsky.github.io/doc/misc/nuts2-denmark/denmark-nuts3-espg3044.tgz"
+url_nuts <- "https://ikashnitsky.github.io/share/1703-nuts2-denmark/denmark-nuts3-espg3044.tgz"
 path_nuts <- "geodata/denmark-nuts3-espg3044.tgz"
 ifelse(!file.exists(path_nuts), download.file(url_nuts, path_nuts, mode="wb"), 'file alredy exists')
 # If there are problems downloading the data automatically, please download it manually from
-# https://ikashnitsky.github.io/doc/misc/nuts2-denmark/denmark-nuts3-espg3044.tgz
+# https://ikashnitsky.github.io/share/1703-nuts2-denmark/denmark-nuts3-espg3044.tgz
 untar(tarfile = path_nuts, exdir = "geodata")
 
 sp_nuts3 <- readOGR(dsn = "geodata/.", layer = "denmark-nuts3-espg3044")
@@ -94,11 +94,11 @@ gd_nuts3 <- fortify(sp_nuts3, region = "NUTS_ID") # to the ggplot format
 
 
 # download, unzip and read Danish old municipal geodata (6.0MB)
-url_mun <- "https://ikashnitsky.github.io/doc/misc/nuts2-denmark/kommune2006win1252.tgz"
+url_mun <- "https://ikashnitsky.github.io/share/1703-nuts2-denmark/kommune2006win1252.tgz"
 path_mun <- "geodata/kommune2006win1252.tgz"
 ifelse(!file.exists(path_mun), download.file(url_mun, path_mun, mode="wb"), 'file alredy exists')
 # If there are problems downloading the data automatically, please download it manually from
-# https://ikashnitsky.github.io/doc/misc/nuts2-denmark/kommune2006utf8.tgz
+# https://ikashnitsky.github.io/share/1703-nuts2-denmark/kommune2006utf8.tgz
 untar(tarfile = path_mun, exdir = "geodata")
 
 sp_mun <- readOGR(dsn = "geodata/.", layer = "kommune2006win1252", encoding = danish_ecnoding) 
@@ -232,7 +232,7 @@ mun_geo <- mun_coord %>%
         transmute(name = sub(x = name, " Kommune", replacement = ""), objectid) %>% 
         mutate(name = gsub(x = tolower(name), "å", "aa"))
 
-mun_stat <- read.csv2("https://ikashnitsky.github.io/doc/misc/nuts2-denmark/stat-codes-names.csv", 
+mun_stat <- read.csv2("https://ikashnitsky.github.io/share/1703-nuts2-denmark/stat-codes-names.csv", 
                       fileEncoding = danish_ecnoding) %>% 
         select(name) %>% 
         separate(name, into = c("code", "name"), sep = " ", extra = "merge") %>% 
@@ -412,18 +412,18 @@ The result (thankfully!) looks realistic, with higher shares of the working-age 
 [eurostat-map]: http://ec.europa.eu/eurostat/cache/RCI
 [cran]: https://cran.r-project.org
 [stat-den]: www.statbank.dk/BEF1A
-[data-mun-pop]: https://ikashnitsky.github.io/doc/misc/nuts2-denmark/BEF1A.csv.gz
+[data-mun-pop]: https://ikashnitsky.github.io/share/1703-nuts2-denmark/BEF1A.csv.gz
 [aalborg]: http://www.geodatabiblioteket.dk/index.php
-[geo-old]: https://ikashnitsky.github.io/doc/misc/nuts2-denmark/kommune2006utf8.tgz
+[geo-old]: https://ikashnitsky.github.io/share/1703-nuts2-denmark/kommune2006utf8.tgz
 [eur-geo]: http://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts
-[geo-dk]: https://ikashnitsky.github.io/doc/misc/nuts2-denmark/denmark-nuts3-espg3044.tgz
+[geo-dk]: https://ikashnitsky.github.io/share/1703-nuts2-denmark/denmark-nuts3-espg3044.tgz
 [dk-prj]: https://epsg.io/3044
 [ch]: https://en.wikipedia.org/wiki/Ertholmene
 [ch-hist]: http://www.christiansoe.dk/historien
 [ch-stat-dk]: http://www.dst.dk/da/Statistik/dokumentation/Nomenklaturer/NUTS
 [fuz]: https://github.com/dgrtwo/fuzzyjoin
 [drob]: http://varianceexplained.org/about/
-[stat-names]: https://ikashnitsky.github.io/doc/misc/nuts2-denmark/stat-names-codes.csv.gz
+[stat-names]: https://ikashnitsky.github.io/share/1703-nuts2-denmark/stat-names-codes.csv.gz
 [herst]: http://albertslund.lokalavisen.dk/fra-herstederne-til-albertslund-/20131017/artikler/710179831
 [biv]: https://www.nhh.no/en/employees/faculty/roger-bivand/
 [figshare]: https://figshare.com/

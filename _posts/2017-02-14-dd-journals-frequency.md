@@ -15,7 +15,7 @@ The project is in the transitional phase now. Since 2016 Demographic Digest welc
 
 To draw a line after the first phase of the project, I analysed what journals supplied Demographic Digest most frequently. Also, my desire was to try visualizing data with treemaps, which I mentioned in the bonus part[^1] of [the latest digest issue](http://demoscope.ru/weekly/2017/0715/digest03.php).  
 
-For that, I exported the bibliographic data of all the papers covered in Demographic Digest. I use [Zotero](https://www.zotero.org) as a reference manager; the paper records are exported as a single .bib file, which I then saved as a [plain text (.txt) file](/doc/misc/dd-stats/dd-bib.txt). Then I read this data in R, cleaned it, and finally visualized.
+For that, I exported the bibliographic data of all the papers covered in Demographic Digest. I use [Zotero](https://www.zotero.org) as a reference manager; the paper records are exported as a single .bib file, which I then saved as a [plain text (.txt) file](/share/1702-dd-stats/dd-bib.txt). Then I read this data in R, cleaned it, and finally visualized.
 
 
 ```
@@ -26,7 +26,7 @@ library(readxl)
 library(extrafont)
 myfont <- "Roboto Condensed"
 
-df <- data.frame(lines = readLines("https://ikashnitsky.github.io/doc/misc/dd-stats/dd-bib.txt")) %>% 
+df <- data.frame(lines = readLines("https://ikashnitsky.github.io/share/1702-dd-stats/dd-bib.txt")) %>% 
         mutate(lines = lines %>% as.character()) %>% 
         
         # grab only the lines that contain journals' titles
@@ -60,7 +60,7 @@ To provide some additional metrics of the journals, I downloaded bibliometric da
 
 ```
 # read SJR data for journals in Social Sciences
-sjr <- readxl::read_excel("https://ikashnitsky.github.io/doc/misc/dd-stats/scimagojr.xlsx", 1) %>% 
+sjr <- readxl::read_excel("https://ikashnitsky.github.io/share/1702-dd-stats/scimagojr.xlsx", 1) %>% 
         mutate(id = Title %>% tolower())
 
 # join the data frames; note that I create an "id" variable in lower case

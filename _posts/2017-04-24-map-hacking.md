@@ -26,7 +26,7 @@ library(hrbrthemes) # version 0.1.0
 
 
 # load the prepared geodata and stat data
-load(url("https://ikashnitsky.github.io/doc/misc/map-hacking/map-hacking.Rdata"))
+load(url("https://ikashnitsky.github.io/share/1704-map-hacking/map-hacking.Rdata"))
 
 # fortify the spatial objects
 bord <- fortify(Sborders)
