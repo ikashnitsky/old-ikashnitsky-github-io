@@ -33,7 +33,7 @@ DemoTricolore()
 
 # Replication materials [at github][repo]
 
-# Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
+## Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
 
 ## SEE ALSO
  - [**My PhD project -- Regional demographic convergence in Europe**][proj]
@@ -48,7 +48,7 @@ DemoTricolore()
 [f0]: https://ikashnitsky.github.io/images/180721/full-text.png
 [f1]: https://ikashnitsky.github.io/images/180721/the-map.png
 
-[doi]: https://doi.org/10.1016/S0140-6736(18)31194-2
+[doi]: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31194-2/fulltext
 [tric]: https://github.com/jschoeley/tricolore
 [repo]: https://github.com/ikashnitsky/the-lancet-2018
 [ik]: https://twitter.com/ikashnitsky
