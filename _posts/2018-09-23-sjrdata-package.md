@@ -9,7 +9,7 @@ image:
 [![][logo]][logo]
 
 
-SCImago Journal & Country Rank provides valuable estimates of academic journals' prestige. The data is freely available at https://www.scimagojr.com and is distributed for deeper analysis in forms of .csv and .xlsx files. I downloaded all the files and pooled them together, ready to be used in R. 
+SCImago Journal & Country Rank provides valuable estimates of academic journals' prestige. The data is freely available at [the project website][site] and is distributed for deeper analysis in forms of .csv and .xlsx files. I downloaded all the files and pooled them together, ready to be used in R. 
 
 Basically, all the package gives you three easily accessible data frames: `sjr_journals` (Journal Rank), `sjr_countries` (Country Rank, year-by-year), and `sjr_countries_1996_2017` (Country Rank, all years together).
 
@@ -79,5 +79,6 @@ sjr_journals %>%
 [f1]: https://ikashnitsky.github.io/images/180923/nature-science.png
 [f2]: https://ikashnitsky.github.io/images/180923/demographic-journals.png
 
+[site]: https://www.scimagojr.com
 [repo]: https://github.com/ikashnitsky/sjrdata 
 [gist]: https://gist.github.com/ikashnitsky/3133422ef85ff3f3d65be9926d6bd990
