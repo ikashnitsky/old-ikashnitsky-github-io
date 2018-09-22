@@ -2,7 +2,7 @@
 layout: article
 title: "sjrdata: all SCImago Journal & Country Rank data, ready for R"
 image:
-  teaser: 180923-teaser.jpg
+  teaser: 180923-teaser.png
 ---
 
 
