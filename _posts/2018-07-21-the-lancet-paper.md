@@ -26,14 +26,14 @@ With ternary colour coding, each element of a three-dimensional array of composi
 The method is very flexible, and one can easily produce these meaningful colours using our [R package `tricolore`][tric]. Just explore the capabilities of the package in a built-in shiny app using the following lines of code:
 
 ```
-install.packages("ticolore")
+install.packages("tricolore")
 library(tricolore)
 DemoTricolore()
 ```
 
 # Replication materials [at github][repo]
 
-## Folow us on Twitter: [@ikahhnitsky][ik], [@jschoeley][js].
+## Folow us on Twitter: [@ikashnitsky][ik], [@jschoeley][js].
 
 ## SEE ALSO
  - [**My PhD project -- Regional demographic convergence in Europe**][proj]
