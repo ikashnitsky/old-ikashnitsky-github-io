@@ -9,7 +9,7 @@ image:
 
 # Emails
 **ilya.kashnitsky@gmail.com**   
-kashnitsky@nidi.nl   
+ikashnitsky@sdu.dk    
 ikashnitsky@hse.ru   
  
 # Profiles
@@ -23,7 +23,6 @@ ikashnitsky@hse.ru
 [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2340978)   
 [RePEc](https://ideas.repec.org/f/pka1114.html)   
 [ResearchGate](http://www.researchgate.net/profile/Ilya_Kashnitsky)   
-[Academia](https://hse-ru.academia.edu/ikashnitsky)   
 [Publons](http://publons.com/a/1183702/)   
 [Kudos](https://www.growkudos.com/profiles/133159)   
 [Figshare](https://figshare.com/authors/Ilya_Kashnitsky/816969)   
@@ -43,6 +42,6 @@ ikashnitsky@hse.ru
 +31-6-5502-6845
 
 # Post address
-Lange Houtstraat 19  
-NL-2511 CV The Hague  
-The Netherlands  
+J. B. Winsløws Vej 9B 
+DK-5000 Odense  
+Denmark 

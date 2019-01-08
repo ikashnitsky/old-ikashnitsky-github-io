@@ -13,7 +13,17 @@ image:
 
 ## 2018
 
-[Kashnitsky I][me], [Schöley J](http://jschoeley.github.io). Regional population structures at a glance. *The Lancet*, 392(10143), 209–210.
+[Kashnitsky I][me], De Beer J, Van Wissen L. (forthcoming). Economic convergence in ageing Europe. *Tijdschrift Voor Economische En Sociale Geografie*. [DOI](https://doi.org/10.1111/tesg.12357): 10.1111/tesg.12357. 
+[[paper](/doc/pubs/fort-tesg-ik.pdf)] 
+[[osf](https://osf.io/uy8dn/)]
+
+
+[Kashnitsky I][me]. (2018). Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*. 
+[DOI](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
+[[paper](/doc/pubs/1811-geoj-ik.pdf)] 
+
+
+[Kashnitsky I][me], Schöley J. Regional population structures at a glance. *The Lancet*, 392(10143), 209–210.
 [DOI](https://doi.org/10.1016/S0140-6736(18)31194-2): 10.1016/S0140-6736(18)31194-2. 
 [[paper](/doc/pubs/1806-the-lancet-ik.pdf)] 
 [[github](https://github.com/ikashnitsky/the-lancet-2018)] 
@@ -153,4 +163,4 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 [osf]: https://osf.io/n6usx/
 [gs]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
 [is]: https://impactstory.org/u/0000-0003-1835-8687
-[me]: https://ikashnitsky.github.io/me
+[me]: https://twitter.com/ikashnitsky

@@ -9,6 +9,23 @@ image:
 
 # Conferences
 
+
+## 2018
+
+**2018 November 28**  
+Dutch Demography Day 2018  
+Utrecht, Netherlands  
+*Compare population age structures of Europe NUTS-3 regions and the US counties using ternary colour-coding*  
+[[poster](images/181203/compare-poster.png) | [blog](/2018/ddd-poster/)]   
+
+**2018 June 6-9**  
+European Population Conference 2018  
+Brussels, Belgium  
+*Regional Population Structures at a Glance*  
+[[poster](/the-lancet-2018/colorcoded-map-ikashnitsky-jschoeley.png) | 
+[abstract](https://eaps.confex.com/eaps/2018/meetingapp.cgi/Paper/2436) | 
+[paper](/doc/pubs/1806-the-lancet-ik.pdf)]  
+
 ## 2017
 
 **2017 November 22**  
