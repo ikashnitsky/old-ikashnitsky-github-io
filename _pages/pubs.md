@@ -18,7 +18,7 @@ image:
 [[osf](https://osf.io/uy8dn/)]
 
 
-[Kashnitsky I][me]. (2018). Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*. 
+[Kashnitsky I][me]. Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*. 
 [DOI](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
 [[paper](/doc/pubs/1811-geoj-ik.pdf)] 
 
