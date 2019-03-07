@@ -9,7 +9,7 @@ image:
 
 Have you been feeling lately that you are missing out the coolest skill-set in academia? 
 
-<iframe src="https://giphy.com/embed/wopWMLdax7xfxkRggF" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wopWMLdax7xfxkRggF">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/wopWMLdax7xfxkRggF" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 Here is you chance to cut in and dive into R. 
 
