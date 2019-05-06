@@ -29,7 +29,7 @@ I am an avid [R](https://cran.r-project.org) user, who loves GIS, spatial analys
 
 ## BIO 
 
-I was born in Israel, grew up in Moscow, during my PhD years lived in The Hague, and now live in Odense. Married and have a daughter. I got a bachelors in geography from Moscow State University in 2012 and a masters in demography from the National Research University Higher School of Economics (Moscow) in 2014. 
+I was born in Israel, grew up in Moscow, during my PhD years lived in The Hague, and now live in Odense. Married and have two daughters. I got a bachelors in geography from Moscow State University in 2012 and a masters in demography from the National Research University Higher School of Economics (Moscow) in 2014. 
 
 ![us](/images/our-photo.jpg)
 
@@ -39,7 +39,7 @@ ilya.kashnitsky@gmail.com
 Ilya  
 
 
-[cv]: https://ikashnitsky.github.io/doc/cv/1806-cv-ikashnitsky.pdf
+[cv]: https://ikashnitsky.github.io/doc/cv/1905-cv-ikashnitsky.pdf
 [nidi-me]: http://nidi.nl/en/staff/overview/kashnitsky
 [hse-me]: https://www.hse.ru/en/staff/ikashnitsky
 [cpop]: https://www.sdu.dk/en/om_sdu/institutter_centre/dem
