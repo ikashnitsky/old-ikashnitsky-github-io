@@ -24,7 +24,7 @@ Padova, Italy [canceled due to COVID-19 pandemic]
 2 papers accepted for oral presentation + invited member of poster jury
 
 **2020 June 10**
-Internal seminar talk at Statistics Denmark
+Internal seminar talk at Statistics Denmark  
 *The spatial regularities of non-survival to pension age in Danish municipalities*  
 [[tweet](https://twitter.com/PopulationEU/status/1252961026854748160)]
 
@@ -34,8 +34,8 @@ Washington DC, USA [canceled due to COVID-19 pandemic]
 2 papers accepted for oral presentation + 1 paper co-author
 
 **2020 April 07**  
-St. Andrews COVID-19
-*COVID-19 in ageing populations: a demographic reflection*
+Invited talk at the University of St Andrews, Scotland  
+*COVID-19 in ageing populations: a demographic reflection*  
 [[materials](https://gist.github.com/ikashnitsky/65463d9033aeffddfd7d6db5c6183c8a) | 
 [tweet](https://twitter.com/ikashnitsky/status/1251221949591834629)]
 
@@ -45,16 +45,16 @@ St. Andrews COVID-19
 
 **2019 November 14**  
 Share-Net Netherlands, KIT Royal Tropical Institute
-Amsterdam, The Netherlands
-*Crafting a poster -- rules of 👍 + basic dataviz rules*
+Amsterdam, The Netherlands  
+*Crafting a poster -- rules of 👍 + basic dataviz rules*  
 [[slides](ikashnitsky.github.io/share/1911-sharenet-poster/slides.html) | 
 [tweet](https://twitter.com/ShareNet/status/1194976121869291520)]
 
 
 **2019 November 08**
-20 Years Anniversary Celebration of the Masters in Demography program at Population Research Center at the University of Gronoingen
-Groningen, The Netherlands
-*Create powerful dataviz with R*
+20 Years Anniversary Celebration of the Masters in Demography program at Population Research Center at the University of Gronoingen  
+Groningen, The Netherlands  
+*Create powerful dataviz with R*  
 [[slides](https://ikashnitsky.github.io/share/1911-prc20-dataviz/slides.html#/) | 
 [link](https://www.rug.nl/research/ursi/prc/anniversary?lang=en) | 
 [code](https://gist.github.com/ikashnitsky/2800295e304b4858be553432de4a0d11)]
@@ -68,7 +68,7 @@ Cardiff, Great Britain
 
 **2019 April 10--13**  
 Population Association of America Annual Conference 2019 
-Austin, Texas, USA
+Austin, Texas, USA  
 *Gefaceting*  
 [[poster](/share/slides/1904-paa-poster.pdf) | 
 [paper](https://doi.org/10/ggnfjs)]
