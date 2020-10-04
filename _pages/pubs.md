@@ -7,25 +7,60 @@ image:
   teaser: teaser-pubs.png
 ---
 
-### [[OSF]][osf] [[Google Scholar]][gs] [[Impactstory]][is]
+### [[OSF]][osf] [[Google Scholar]][gs] [[ORCID]][orcid] 
 
 ***
 
+## 2020
+
+[Kashnitsky I][me]. 2020. Changing regional inequalities in ageing across Europe. *PhD Thesis, University of Groningen*. [DOI](https://doi.org/10.33612/diss.134195227): 10.33612/diss.134195227. 
+[[thesis](/share/papers/kashnitsky2020.pdf) | 
+[osf](https://osf.io/6m4kg/) | 
+[tweet](https://twitter.com/ikashnitsky/status/1311671116608548865)]
+
+[Kashnitsky I][me], Aburto JM. 2020. COVID-19 in unequally ageing European regions. *World Development* 136: 105170. [DOI](https://doi.org/10.1016/j.worlddev.2020.105170): 10.1016/j.worlddev.2020.105170. 
+[[paper](/share/papers/kashnitsky2020wd.pdf) | 
+[osf](https://osf.io/abx7s/) | 
+[github](https://github.com/ikashnitsky/covid19-nuts3)]
+
+[Kashnitsky I][me], de Beer J, van Wissen L. 2020. Unequally ageing regions of Europe: Exploring the role of urbanization. *Population Studies*. [DOI](https://doi.org/10/ghbd69): 10.1080/00324728.2020.1788130. 
+[[paper](/share/papers/kashnitsky2020ps.pdf) | 
+[osf](https://osf.io/hj28v/)]
+
+Verhagen MD, Brazel DM, Dowd JB, [Kashnitsky I][me], Mills MC. 2020. Forecasting spatial, socioeconomic and demographic variation in COVID-19 health care demand in England and Wales. *BMC Medicine* 18: 203. [DOI](https://doi.org/10.1186/s12916-020-01646-2): 10.1186/s12916-020-01646-2. 
+[[paper](/share/papers/verhagen2020bm.pdf) | 
+[osf](https://osf.io/g8s96/) | 
+[github](https://github.com/OxfordDemSci/COVIDDemographyUK)]
+
+Balbo N, [Kashnitsky I][me], Melegaro A, Meslé F, Mills M, De Valk H, Vono de Vilhena D. 2020. Demography and the Coronavirus Pandemic. *Population & Policy Compact 25*. Max Planck Society/Population Europe, Berlin. [[link](https://population-europe.eu/policy-brief/demography-and-coronavirus-pandemic) | 
+[paper](/share/papers/balbo2020.pdf)]
+
+[Kashnitsky I][me], De Beer J, Van Wissen L. 2020. Economic convergence in ageing Europe. *Tijdschrift Voor Economische En Sociale Geografie*, 111: 28-44. [DOI](https://doi.org/10.1111/tesg.12357): 10.1111/tesg.12357. 
+[[paper](/share/papers/kashnitsky2020tesg.pdf) |  
+[osf](https://osf.io/uy8dn/)]
+
+
+[Kashnitsky I][me]. Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*, 85: 173-185. 
+[DOI](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
+[[paper](/share/papers/kashnitsky2020g.pdf)] 
+
+## 2019
+
+[Kashnitsky I][me], Aburto JM. 2019. Geofaceting: Aligning small-multiples for regions in a spatially meaningful way. Demographic Research 41: 477–490. [DOI](https://doi.org/10/ggnfjs): 10.4054/DemRes.2019.41.17. [[paper](/share/papers/kashnitsky2019dr.pdf) | 
+[poster](/share/slides/1904-paa-poster.pdf) | 
+[github](https://github.com/ikashnitsky/demres-geofacet)]
+
+Schöley J, [Kashnitsky I][me]. 2019. But why? Design choices made while creating “regional population structures at a glance”. In *New Generations in Demography: New Challenging Adventures in the Population Science*. Oeconomica Publishing House; 55–70. [DOI](https://doi.org/10.31219/osf.io/qt47d): 10.31219/osf.io/qt47d. 
+[[paper](/share/papers/scholey2019ngidncaitps) | 
+[tweet](https://twitter.com/ikashnitsky/status/1177509284059340800)]
+
+
+
 ## 2018
 
-[Kashnitsky I][me], De Beer J, Van Wissen L. (forthcoming). Economic convergence in ageing Europe. *Tijdschrift Voor Economische En Sociale Geografie*. [DOI](https://doi.org/10.1111/tesg.12357): 10.1111/tesg.12357. 
-[[paper](/doc/pubs/fort-tesg-ik.pdf)] 
-[[osf](https://osf.io/uy8dn/)]
-
-
-[Kashnitsky I][me]. Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*. 
-[DOI](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
-[[paper](/doc/pubs/1811-geoj-ik.pdf)] 
-
-
-[Kashnitsky I][me], Schöley J. Regional population structures at a glance. *The Lancet*, 392(10143), 209–210.
+[Kashnitsky I][me], Schöley J. Regional population structures at a glance. *The Lancet*, 392(10143): 209–210.
 [DOI](https://doi.org/10.1016/S0140-6736(18)31194-2): 10.1016/S0140-6736(18)31194-2. 
-[[paper](/doc/pubs/1806-the-lancet-ik.pdf)] 
+[[paper](/share/papers/1806-the-lancet-ik.pdf)] 
 [[github](https://github.com/ikashnitsky/the-lancet-2018)] 
 [[osf](https://osf.io/zac5x/)]
 [media: 
@@ -38,31 +73,31 @@ image:
 
 Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Moscow: a case of path dependent development. In Housing Estates in Europe: Poverty, Ethnic Segregation, and Policy Challenges (pp. 289–311). Springer International Publishing.
 [DOI](https://doi.org/10.1007/978-3-319-92813-5_13): 10.1007/978-3-319-92813-5_13. 
-[[paper](/doc/pubs/1808-springer-estates-ik.pdf)] 
+[[paper](/share/papers/1808-springer-estates-ik.pdf)] 
 
 
 
 ## 2017
 
 [Kashnitsky I][me], De Beer J, Van Wissen L. Decomposition of regional convergence in population aging across Europe. *Genus*, 73(1): 2. [DOI](https://doi.org/10.1186/s41118-017-0018-2): 10.1186/s41118-017-0018-2. 
-[[paper](/doc/pubs/1705-genus-ik.pdf)] 
+[[paper](/share/papers/1705-genus-ik.pdf)] 
 [[github](https://github.com/ikashnitsky/genus-2017)] 
 [[osf](https://osf.io/z6fym/)]   
 
 
 [Kashnitsky I][me], De Beer J, Van Wissen L. 2017. Economic convergence in ageing Europe. *NIDI Working Papers* 2017/02. 
-[[paper](/doc/pubs/1702-nidi-wp-ik.pdf)] 
+[[paper](/share/papers/1702-nidi-wp-ik.pdf)] 
 [[osf](https://osf.io/j6yhk/)]   
 
 ## 2016
 
-[Kashnitsky I][me], Gunko M. 2016. Spatial variation of in-migration to Moscow: Testing the effect of housing market. *Cities*, 59: 30-39. [DOI](https://doi.org/10.1016/j.cities.2016.05.025): 10.1016/j.cities.2016.05.025. [[postprint](/doc/pubs/1611-cities-ik.pdf)]  
+[Kashnitsky I][me], Gunko M. 2016. Spatial variation of in-migration to Moscow: Testing the effect of housing market. *Cities*, 59: 30-39. [DOI](https://doi.org/10.1016/j.cities.2016.05.025): 10.1016/j.cities.2016.05.025. [[postprint](/share/papers/1611-cities-ik.pdf)]  
 
 [Kashnitsky I][me]. 2016. A cohort is not representative of humanity: Review of “Evidence for a limit to human lifespan.” *Publons*. [DOI](https://doi.org/10.14322/publons.r505407): 10.14322/publons.r505407. 
-[[paper](/doc/pubs/1610-publons-ik.pdf)]  
+[[paper](/share/papers/1610-publons-ik.pdf)]  
 
 [Kashnitsky I][me], Mkrtchyan N, Leshukov O. 2016. Interregional migration of youths in Russia: a comprehensive analysis of demographic statistics. *Educational Studies Moscow*, 13(3): 169–203. [DOI](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
-[[paper](/doc/pubs/1609-esm-ik.pdf)] 
+[[paper](/share/papers/1609-esm-ik.pdf)] 
 [media: 
 [1](http://www.bbc.com/russian/news-37455100), 
 [2](http://mel.fm/2016/09/26/spb), 
@@ -70,17 +105,17 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 [4](https://www.riatomsk.ru/article/20160926/tomskaya-oblastj-v-liderah-po-privlecheniyu-molodezhi-iz-drugih-regionov), 
 [5](http://nsk.rbc.ru/nsk/freenews/57f114d09a794750fb16da29)]  
 
-[Kashnitsky I][me], De Beer J, van Wissen L. 2016. Decomposition of regional convergence in population ageing across Europe. *European Population Conference 2016*. Mainz, Germany. [[paper](/doc/pubs/1609-epc-ik.pdf)] 
+[Kashnitsky I][me], De Beer J, van Wissen L. 2016. Decomposition of regional convergence in population ageing across Europe. *European Population Conference 2016*. Mainz, Germany. [[paper](/share/papers/1609-epc-ik.pdf)] 
 [[link](http://epc2016.princeton.edu/abstracts/161065)]   
 
 ## 2015
 
 [Kashnitsky I][me], Gunko M. 2015. Spatial variation of in-migration to Moscow: housing market VS socialist legacy. *NIDI Working Papers* 2015/3. 
-[[paper](/doc/pubs/1511-nidi-wp-ik.pdf)] 
+[[paper](/share/papers/1511-nidi-wp-ik.pdf)] 
 [[link](http://www.nidi.nl/shared/content/output/papers/nidi-wp-2015-03.pdf)]  
 
 [Kashnitsky I][me]. 2015. Youth migration drives the depopulation of periphery. *In XV April International Academic Conference on Economic and Social Development*. Higher School of Economics: Moscow; 103–113. 
-[[paper](/doc/pubs/1501-hse-april-ik.pdf)] 
+[[paper](/share/papers/1501-hse-april-ik.pdf)] 
 [media: 
 [1](https://iq.hse.ru/news/177667817.html),
 [2](http://echo.msk.ru/programs/poehali/1295190-echo)]  
@@ -88,11 +123,11 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 ## 2014
 
 [Kashnitsky I][me], Mkrtchyan N. 2014. Russian periphery is dying in movement: a cohort assessment of Russian internal youth migration based on Census data. *NIDI Working Papers* 2014/14. 
-[[paper](/doc/pubs/1412-nidi-wp-ik.pdf)] 
+[[paper](/share/papers/1412-nidi-wp-ik.pdf)] 
 [[link](www.nidi.nl/shared/content/output/papers/nidi-wp-2014-14.pdf)]  
 
 [Kashnitsky I][me]. 2014. Cohort research on Russian youth intraregional migration. *European Population Conference 2014*. Budapest, Hungary. 
-[[paper](/doc/pubs/1406-epc-ik.pdf)] 
+[[paper](/share/papers/1406-epc-ik.pdf)] 
 [[link](http://epc2014.princeton.edu/papers/140465)] 
 [media: 
 [1](http://bg.ru/society/v_rossii_vymirajut_melkie_goroda-22208)]  
@@ -103,7 +138,7 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 ## Publications in Russian
 
 [Кашницкий ИС][me], Мкртчян НВ, Лешуков ОВ. 2016. Межрегиональная миграция молодежи в России: комплексный анализ демографической статистики. *Вопросы образования* 13(3): 169–203. [DOI](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
-[[paper](/doc/pubs/1609-esm-ru-ik.pdf)] 
+[[paper](/share/papers/1609-esm-ru-ik.pdf)] 
 [media: 
 [1](http://www.bbc.com/russian/news-37455100), 
 [2](http://mel.fm/2016/09/26/spb), 
@@ -112,11 +147,11 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 [5](http://nsk.rbc.ru/nsk/freenews/57f114d09a794750fb16da29)]  
 
 [Кашницкий ИС][me]. 2015. Миграции молодежи в России: влияние на возрастные структуры. In Современные Исследования Миграции Населения, Донец ЕВ, , Чудиновских ОС (eds). Экономический факультет МГУ имени М.В. Ломоносова: Москва; 79–93. 
-[[paper](/doc/pubs/1501-msu-ik.pdf)]
+[[paper](/share/papers/1501-msu-ik.pdf)]
 [[link](http://www.econ.msu.ru/sys/raw.php?o=30120&p=attachment)]
 
 [Кашницкий ИС][me]. 2014. Влияние миграции на демографическую структуру в малых территориях России. *Магистерская диссертация*. Национальный исследовательский университет «Высшая школа экономики», Москва. 
-[[full text](/doc/pubs/1406-hse-master-ik.pdf)] 
+[[full text](/share/papers/1406-hse-master-ik.pdf)] 
 [[link](https://www.hse.ru/edu/vkr/125155517)]
 
 [Кашницкий ИС][me]. 2014. Что в возрасте тебе моем? *Демоскоп Weekly* 581–582. 
@@ -162,5 +197,5 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 
 [osf]: https://osf.io/n6usx/
 [gs]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
-[is]: https://impactstory.org/u/0000-0003-1835-8687
+[orcid]: http://orcid.org/0000-0003-1835-8687
 [me]: https://twitter.com/ikashnitsky
