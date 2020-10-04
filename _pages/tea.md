@@ -113,8 +113,8 @@ National Research University Higher School of Economics, Moscow, Russia
 *Lectures on migration*  
 Population and Development Masters program  
 National Research University Higher School of Economics, Moscow, Russia  
-[[The laws of migration](https://github.com/ikashnitsky/teach-hse-2016/hse-migr-laws/161205-migr-laws.html)) | 
-[Migration and generation replacement](https://github.com/ikashnitsky/teach-hse-2016/hse-migr-gen-rep/161212-migr-gen-rep.html))]
+[[The laws of migration](https://github.com/ikashnitsky/teach-hse-2016/hse-migr-laws/161205-migr-laws.html) | 
+[Migration and generation replacement](https://github.com/ikashnitsky/teach-hse-2016/hse-migr-gen-rep/161212-migr-gen-rep.html)]
 
 **2016 December 07**  
 *Lecture on migration*  [In Russian]  
