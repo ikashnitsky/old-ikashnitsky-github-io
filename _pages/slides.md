@@ -29,7 +29,7 @@ Internal seminar talk at Statistics Denmark
 [[tweet](https://twitter.com/PopulationEU/status/1252961026854748160)]
 
 **2020 April 22--25**  
-~~Population Association of America Annual Conference 2020~~ 
+~~Population Association of America Annual Conference 2020~~   
 Washington DC, USA [canceled due to COVID-19 pandemic]  
 2 papers accepted for oral presentation + 1 paper co-author
 
@@ -67,7 +67,7 @@ Cardiff, Great Britain
 [abstract](https://www.lse.ac.uk/social-policy/research/Research-clusters/british-society-for-population-studies/Assets/documents/Migration-mobilities-abstracts.pdf)]
 
 **2019 April 10--13**  
-Population Association of America Annual Conference 2019 
+Population Association of America Annual Conference 2019   
 Austin, Texas, USA  
 *Gefaceting*  
 [[poster](/share/slides/1904-paa-poster.pdf) | 
