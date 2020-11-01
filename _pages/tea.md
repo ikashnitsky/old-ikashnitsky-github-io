@@ -24,7 +24,7 @@ Max Planck Institute for Demographic Research, Rostock, Germany
 Share-Net Netherlands, KIT Royal Tropical Institute
 Amsterdam, The Netherlands  
 *Crafting a poster -- rules of 👍 + basic dataviz rules*  
-[[slides](ikashnitsky.github.io/share/1911-sharenet-poster/slides.html) | 
+[[slides](https://ikashnitsky.github.io/share/1911-sharenet-poster/slides.html) | 
 [tweet](https://twitter.com/ShareNet/status/1194976121869291520)]
 
 **2019 November 08**  

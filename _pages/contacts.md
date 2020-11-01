@@ -39,9 +39,9 @@ ikashnitsky@hse.ru
 [R-bloggers](https://www.r-bloggers.com/author/ilya-kashnitsky/)
  
 # Phone
-+31-6-5502-6845
++45-6055-0126
 
 # Post address
-J. B. Winsløws Vej 9B 
-DK-5000 Odense  
+Campusvej 55  
+5230 Odense M  
 Denmark 
