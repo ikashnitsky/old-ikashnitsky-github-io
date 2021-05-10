@@ -10,11 +10,9 @@ image:
 # Emails
 **ilya.kashnitsky@gmail.com**   
 ikashnitsky@sdu.dk    
-ikashnitsky@hse.ru   
  
 # Profiles
-[NIDI](http://nidi.nl/en/staff/overview/kashnitsky)   
-[HSE](https://www.hse.ru/en/staff/ikashnitsky)     
+[CPop SDU](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky)   
    
 [Google Scholar](https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1)   
 [ORCID](http://orcid.org/0000-0003-1835-8687)  
@@ -30,16 +28,12 @@ ikashnitsky@hse.ru
 [CyberLeninka (ru)](http://cyberleninka.ru/scientist/ikashnitsky)     
   
 [LinkedIN](https://www.linkedin.com/in/ikashnitsky)   
-[Facebook](https://www.facebook.com/ikashnitsky)   
 [Twitter](https://twitter.com/ikashnitsky)     
   
 [github](https://github.com/ikashnitsky)   
 [StackExchange](http://stackexchange.com/users/5892831/ilya?tab=accounts)   
 [Habrahabr (ru)](http://habrahabr.ru/users/ikashnitsky/)   
 [R-bloggers](https://www.r-bloggers.com/author/ilya-kashnitsky/)
- 
-# Phone
-+45-6055-0126
 
 # Post address
 Campusvej 55  
