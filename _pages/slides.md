@@ -9,6 +9,30 @@ image:
 
 # Conferences, seminars, and workshops
 
+
+## 2021
+
+
+**2021 September 4**  
+satRday Nairobi
+R-Ladies Nairobi, Kenya [online event]  
+*Create powerful dataviz with R*
+[[link](https://nairobi2021.satrdays.org) | 
+[slides](https://ikashnitsky.github.io/share/2109-r-ladies.html) | 
+[code](https://bit.ly/rladies21ik) | 
+[tweet](https://twitter.com/RLadiesNairobi/status/1428722294189404161)]
+
+**2021 June 23**  
+Rostock Retreat "Visualizing Uncertainty"  
+Max Planck Institute for Demographic Research, Rostock, Germany  
+*Beyond summary statistics: a practical guide to #ShowTheDamnData*
+[[link](https://rostock-retreat.org) | 
+[slides](https://ikashnitsky.github.io/share/2106-rostock-retreat.html) | 
+[code](https://gist.github.com/ikashnitsky/60fc613f5ffd367f5bc66361eb14b874) | 
+[tweet](https://twitter.com/ikashnitsky/status/1407693167420493834)]
+
+
+
 ## 2020
 
 **2020 November 16**
@@ -47,7 +71,7 @@ Invited talk at the University of St Andrews, Scotland
 Share-Net Netherlands, KIT Royal Tropical Institute
 Amsterdam, The Netherlands  
 *Crafting a poster -- rules of 👍 + basic dataviz rules*  
-[[slides](ikashnitsky.github.io/share/1911-sharenet-poster/slides.html) | 
+[[slides](https://ikashnitsky.github.io/share/1911-sharenet-poster/slides.html) | 
 [tweet](https://twitter.com/ShareNet/status/1194976121869291520)]
 
 

@@ -7,6 +7,35 @@ image:
   teaser: teaser-tea.png
 ---
 
+
+# 2021
+
+**2021 July 12--16**  
+Barcelona Summer School of Demography  
+Centre d’Estudis Demogràfics (CED)  
+Autonomous University of Barcelona, Barcelona, Spain  
+[[github](https://github.com/ikashnitsky/bssd-dataviz) | 
+[link](https://bit.ly/bssd2019) | 
+[tweet](https://twitter.com/ikashnitsky/status/1416332062450143232)]
+
+
+**2021 June 19**  
+SICSS-Oxford (Summer Institute in Computational Social Science)  
+Nuffield College & Leverhulme Centre for Demographic Science, Oxford University, UK  
+[[github](https://github.com/ikashnitsky/maps-workshop) | 
+[link](https://sicss.io/2021/oxford/) | 
+[tweet](https://twitter.com/ruettenauer/status/1406269354350624781)]
+
+
+**2020 June 14--18**  
+*Data visualization – the art/skill cocktail*  
+International Advanced Studies in Demography (IDEM) & International Max Planck Research School for Population, Health and Data Science (IMPRS-PHDS)  
+Max Planck Institute for Demographic Research, Rostock, Germany  
+[[link](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/data_visualization_the_art_skill_cocktail_7340/) | 
+[github](https://github.com/ikashnitsky/dataviz-mpidr/tree/v1.0) | 
+[tweet](https://twitter.com/DatavizArtSkill/status/1404308464361484291)]
+
+
 # 2020
 
 **2020 July 13--17**  
@@ -14,7 +43,7 @@ image:
 International Advanced Studies in Demography (IDEM) & International Max Planck Research School for Population, Health and Data Science (IMPRS-PHDS)  
 Max Planck Institute for Demographic Research, Rostock, Germany  
 [[link](https://www.demogr.mpg.de/en/career_6122/international_advanced_studies_in_demography_6682/courses_6931/data_visualization_the_art_skill_cocktail_7340/) | 
-[github](https://github.com/ikashnitsky/dataviz-mpidr) | 
+[github](https://github.com/ikashnitsky/dataviz-mpidr/tree/v1.0) | 
 [tweet](https://twitter.com/ikashnitsky/status/1288826701154312193)]
 
 
@@ -50,10 +79,10 @@ University of Southern Denmark, Odense, Denmark
 [[slides](/share/slides/1909-sdu-lt.pdf)]
 
 **2019 July 8--12**  
-Baracelona Summer School of Demography  
+Barcelona Summer School of Demography  
 Centre d’Estudis Demogràfics (CED)  
 Autonomous University of Barcelona, Barcelona, Spain  
-[[github](https://github.com/ikashnitsky/bssd-dataviz-2019) | 
+[[github](https://github.com/ikashnitsky/dataviz-bssd/tree/v1.0) | 
 [link](https://bit.ly/bssd2019) | 
 [post](https://ikashnitsky.github.io/2019/barcelona-summer-school-of-demography/)]
 
