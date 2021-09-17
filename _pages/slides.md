@@ -18,7 +18,7 @@ satRday Nairobi
 R-Ladies Nairobi, Kenya [online event]  
 *Create powerful dataviz with R*
 [[link](https://nairobi2021.satrdays.org) | 
-[slides](https://ikashnitsky.github.io/share/2109-r-ladies.html) | 
+[slides](https://ikashnitsky.github.io/share/slides/2109-r-ladies.html) | 
 [code](https://bit.ly/rladies21ik) | 
 [tweet](https://twitter.com/RLadiesNairobi/status/1428722294189404161)]
 
@@ -27,7 +27,7 @@ Rostock Retreat "Visualizing Uncertainty"
 Max Planck Institute for Demographic Research, Rostock, Germany  
 *Beyond summary statistics: a practical guide to #ShowTheDamnData*
 [[link](https://rostock-retreat.org) | 
-[slides](https://ikashnitsky.github.io/share/2106-rostock-retreat.html) | 
+[slides](https://ikashnitsky.github.io/share/slides/2106-rostock-retreat.html) | 
 [code](https://gist.github.com/ikashnitsky/60fc613f5ffd367f5bc66361eb14b874) | 
 [tweet](https://twitter.com/ikashnitsky/status/1407693167420493834)]
 
@@ -35,7 +35,7 @@ Max Planck Institute for Demographic Research, Rostock, Germany
 
 ## 2020
 
-**2020 November 16**
+**2020 November 16**  
 Dutch Demography Week 2018   
 Online  
 *COVID-19 in unequally ageing European regions*  
