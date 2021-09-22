@@ -12,6 +12,15 @@ image:
 
 ## 2021
 
+**2021 September 22**  
+Workshop of the EAPS Health, Morbidity and Mortality Working Group  
+Higher School of Economics, Prague, Czechia [online event]  
+*A radically simple way to monitor life expectancy*
+[[link](https://hmmwg2021.vse.cz) | 
+[slides](https://ikashnitsky.github.io/share/slides/2109-eaps-mort.pdf) | 
+[code](https://github.com/ikashnitsky/ex-delta) | 
+[tweet](https://twitter.com/ikashnitsky/status/1440645340567195666)]
+
 
 **2021 September 4**  
 satRday Nairobi
