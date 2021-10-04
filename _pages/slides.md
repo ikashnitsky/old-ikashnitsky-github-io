@@ -15,7 +15,7 @@ image:
 **2021 October 4**  
 Seminar at Department of Epidemiology, Erasmus MC, Rotterdam, The Netherlands   [online event]    
 *Imaginary populations, imaginary understanding*   
-[slides](https://ikashnitsky.github.io/share/slides/2110-erasmus.pdf)  
+[[slides](https://ikashnitsky.github.io/share/slides/2110-erasmus.pdf)]  
 
 **2021 September 22**  
 Workshop of the EAPS Health, Morbidity and Mortality Working Group  
