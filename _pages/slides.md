@@ -12,10 +12,15 @@ image:
 
 ## 2021
 
+**2021 October 4**  
+Seminar at Department of Epidemiology, Erasmus MC, Rotterdam, The Netherlands   [online event]    
+*Imaginary populations, imaginary understanding*   
+[slides](https://ikashnitsky.github.io/share/slides/2110-erasmus.pdf)  
+
 **2021 September 22**  
 Workshop of the EAPS Health, Morbidity and Mortality Working Group  
 Higher School of Economics, Prague, Czechia [online event]  
-*A radically simple way to monitor life expectancy*
+*A radically simple way to monitor life expectancy*   
 [[link](https://hmmwg2021.vse.cz) | 
 [slides](https://ikashnitsky.github.io/share/slides/2109-eaps-mort.pdf) | 
 [code](https://github.com/ikashnitsky/ex-delta) | 
@@ -25,7 +30,7 @@ Higher School of Economics, Prague, Czechia [online event]
 **2021 September 4**  
 satRday Nairobi
 R-Ladies Nairobi, Kenya [online event]  
-*Create powerful dataviz with R*
+*Create powerful dataviz with R*   
 [[link](https://nairobi2021.satrdays.org) | 
 [slides](https://ikashnitsky.github.io/share/slides/2109-r-ladies.html) | 
 [code](https://bit.ly/rladies21ik) | 
@@ -34,7 +39,7 @@ R-Ladies Nairobi, Kenya [online event]
 **2021 June 23**  
 Rostock Retreat "Visualizing Uncertainty"  
 Max Planck Institute for Demographic Research, Rostock, Germany  
-*Beyond summary statistics: a practical guide to #ShowTheDamnData*
+*Beyond summary statistics: a practical guide to #ShowTheDamnData*   
 [[link](https://rostock-retreat.org) | 
 [slides](https://ikashnitsky.github.io/share/slides/2106-rostock-retreat.html) | 
 [code](https://gist.github.com/ikashnitsky/60fc613f5ffd367f5bc66361eb14b874) | 
