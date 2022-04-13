@@ -42,7 +42,7 @@ Twitter DM
 Ilya  
 
 
-[cv]: https://ikashnitsky.github.io/doc/cv/2021-09-cv-ilya-kashnitsky.pdf
+[cv]: https://ikashnitsky.github.io/doc/cv/2022-04-cv-ilya-kashnitsky.pdf
 [cpop]: https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop
 [cpop-me]: https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky
 [rug]: http://www.rug.nl
