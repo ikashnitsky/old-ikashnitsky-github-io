@@ -29,7 +29,7 @@ purify_md <- function(date_of_thread) {
   md_name <- post_path[1] %>% str_remove_all(".*/")
   
   # write new md
-  write_lines(out, "{base_path}/_posts/{md_name}" %>% glue)
+  write_lines(md, "{base_path}/_posts/{md_name}" %>% glue)
   
 }
 
