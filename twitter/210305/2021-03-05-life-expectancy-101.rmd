@@ -61,13 +61,3 @@ htmltools::tagList(
   lapply(thread, tweet_embed_ik)
 )
 ```
-
-
-```{r index, echo=FALSE}
-library(fs)
-file_copy(
-  path = "2021-03-05-life-expectancy-101.md", 
-  new_path = "~/github/ikashnitsky.github.io/_posts/2021-03-05-life-expectancy-101.md", overwrite = TRUE
-)
-```
-

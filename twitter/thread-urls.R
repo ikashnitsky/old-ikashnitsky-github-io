@@ -29,6 +29,8 @@ build_url_paths <- function(twdf) {
     paste0("https://twitter.com/ikashnitsky/status/", .)
 }
 
-# Life expectancy thread 2021-03-05
+
+# 200305 Life expectancy thread  ------------------------------------------
 thread210305 <- lookup_thread("1367856057226301446")
 thread210305 %>% build_url_paths %>% clipr::write_clip()
+
