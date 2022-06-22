@@ -8,25 +8,34 @@
 library(tidyverse)
 library(magrittr)
 library(fs)
+library(glue)
 
-dir
 
-raw <- read_lines("~/github/ikashnitsky.github.io/twitter/2021-03-05-life-expectancy-101.md")
-yaml <- read_lines("~/github/ikashnitsky.github.io/twitter/2021-03-05-life-expectancy-101.rmd", n = 10)
+# function to purify md ---------------------------------------------------
 
-# append YAML
-md <- c(yaml, raw)
+# th only input is the date of the thread as 6 digist, just like the folder
+purify_md <- function(date_of_thread) {
+  
+  base_path <- here::here()
+  post_path <- dir_ls("twitter/{date_of_thread}/" %>% glue)
+  
+  raw <- read_lines("{base_path}/{post_path[1]}" %>% glue)
+  yaml <- read_lines("{base_path}/{post_path[2]}" %>% glue, n_max = 10)
+  
+  # append YAML and remove twitter clutter
+  md <- c(yaml, raw) %>% 
+    str_remove_all("&mdash.*</a>")
+  
+  md_name <- post_path[1] %>% str_remove_all(".*/")
+  
+  # write new md
+  write_lines(out, "{base_path}/_posts/{md_name}" %>% glue)
+  
+}
 
-# remove twitter clutter
-out <- md %>% 
-  str_remove_all("</p>&mdash.*</a>")
 
-# write new md
-write_lines(out, "~/github/ikashnitsky.github.io/twitter/2021-03-05-life-expectancy-101.md")
 
-# save the ouput to posts
-file_copy(
-  path = "2021-03-05-life-expectancy-101.md", 
-  new_path = "~/github/ikashnitsky.github.io/_posts/2021-03-05-life-expectancy-101.md", overwrite = TRUE
-)
+# use on threads ----------------------------------------------------------
 
+# 210305
+purify_md(210305)
