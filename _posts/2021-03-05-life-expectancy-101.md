@@ -4,12 +4,13 @@ categories: tw
 hidden: true
 title: "What is life expectancy? and (even more important) what it isn't"
 always_allow_html: true
+output: md_document
 image:
   teaser: 210305-teaser.png
 ---
 
-> This post is based on my previous Twitter thread.
-> <https://twitter.com/ikashnitsky/status/1367856010476613632>
+> This post is based on my previous [Twitter
+> thread](https://twitter.com/ikashnitsky/status/1367856010476613632).
 
 <blockquote class="twitter-tweet" data-width="550" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Demography 101<br><br>🔥 WHAT IS LIFE EXPECTANCY ? 🔥<br><br>and (even more important)<br><br>❌ what it isn&#39;t ❌<br><br>Join in for the most topical demography primer <br><br>🧵 THREAD 1/x <a href="https://t.co/5p292vfsGc">pic.twitter.com/5p292vfsGc</a></p>&mdash; Ilya Kashnitsky (@ikashnitsky) <a href="https://twitter.com/ikashnitsky/status/1367856010476613632?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote>
 
