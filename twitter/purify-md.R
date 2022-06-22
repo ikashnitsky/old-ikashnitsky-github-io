@@ -24,7 +24,11 @@ purify_md <- function(date_of_thread) {
   
   # append YAML and remove twitter clutter
   md <- c(yaml, raw) %>% 
-    str_remove_all("&mdash.*</a>")
+    str_remove_all("&mdash.*</a>") %>% 
+    str_replace_all(
+      '</blockquote>',
+      '</blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+    )
   
   md_name <- post_path[1] %>% str_remove_all(".*/")
   
