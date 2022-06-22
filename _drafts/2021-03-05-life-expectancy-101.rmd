@@ -1,0 +1,64 @@
+---
+layout: article
+categories: tw
+hidden: true
+title: "What is life expectancy? and (even more important) what it isn't"
+always_allow_html: true
+output: md_document
+image:
+  teaser: 210305-teaser.png
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tweetrmd)
+tweet_embed_ik <- function(tweet_url, ...) {
+  tweet_embed(
+    tweet_url, maxwidth = 700, hide_thread = TRUE, link_color = "#269999"
+  )
+}
+```
+
+> This post is based on my previous Twitter thread. 
+https://twitter.com/ikashnitsky/status/1367856010476613632
+
+
+```{r}
+thread <- c("https://twitter.com/ikashnitsky/status/1367856010476613632",
+            "https://twitter.com/ikashnitsky/status/1367856012548530179",
+            "https://twitter.com/ikashnitsky/status/1367856013794283520",
+            "https://twitter.com/ikashnitsky/status/1367856014960304134",
+            "https://twitter.com/ikashnitsky/status/1367856016189165568",
+            "https://twitter.com/ikashnitsky/status/1367856017250414600",
+            "https://twitter.com/ikashnitsky/status/1367856018328272896",
+            "https://twitter.com/ikashnitsky/status/1367856019557265410",
+            "https://twitter.com/ikashnitsky/status/1367856020719104009",
+            "https://twitter.com/ikashnitsky/status/1367856022065385473",
+            "https://twitter.com/ikashnitsky/status/1367856023525068800",
+            "https://twitter.com/ikashnitsky/status/1367856024632311810",
+            "https://twitter.com/ikashnitsky/status/1367856026234597381",
+            "https://twitter.com/ikashnitsky/status/1367856027698401282",
+            "https://twitter.com/ikashnitsky/status/1367856028939935754",
+            "https://twitter.com/ikashnitsky/status/1367856030315610120",
+            "https://twitter.com/ikashnitsky/status/1367856031292915717",
+            "https://twitter.com/ikashnitsky/status/1367856032710557697",
+            "https://twitter.com/ikashnitsky/status/1367856034111488001",
+            "https://twitter.com/ikashnitsky/status/1367856035780849674",
+            "https://twitter.com/ikashnitsky/status/1367856037211045890",
+            "https://twitter.com/ikashnitsky/status/1367856041682157573",
+            "https://twitter.com/ikashnitsky/status/1367856046774104070",
+            "https://twitter.com/ikashnitsky/status/1367856048812548097",
+            "https://twitter.com/ikashnitsky/status/1367856049936556033",
+            "https://twitter.com/ikashnitsky/status/1367856051169681411",
+            "https://twitter.com/ikashnitsky/status/1367856052646117379",
+            "https://twitter.com/ikashnitsky/status/1367856054135095300",
+            "https://twitter.com/ikashnitsky/status/1367856055670210563",
+            "https://twitter.com/ikashnitsky/status/1367856057226301446")
+
+
+htmltools::tagList(
+  lapply(thread, tweet_embed_ik)
+)
+```
+
