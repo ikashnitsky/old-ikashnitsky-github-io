@@ -4,11 +4,9 @@ categories: tw
 hidden: true
 title: "What is life expectancy? and (even more important) what it isn't"
 always_allow_html: true
-output: md_document
 image:
   teaser: 210305-teaser.png
 ---
-
 
 > This post is based on my previous Twitter thread.
 > <https://twitter.com/ikashnitsky/status/1367856010476613632>

@@ -21,8 +21,7 @@ tweet_embed_ik <- function(tweet_url, ...) {
 }
 ```
 
-> This post is based on my previous Twitter thread. 
-https://twitter.com/ikashnitsky/status/1367856010476613632
+> This post is based on my previous [Twitter thread](https://twitter.com/ikashnitsky/status/1367856010476613632). 
 
 
 ```{r}
