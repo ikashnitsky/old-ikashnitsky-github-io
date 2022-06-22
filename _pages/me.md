@@ -42,13 +42,13 @@ Twitter DM
 Ilya  
 
 
-[cv]: https://ikashnitsky.github.io/doc/cv/2022-04-cv-ilya-kashnitsky.pdf
+[cv]: https://ikashnitsky.github.io/doc/cv/2022-06-cv-ilya-kashnitsky.pdf
 [cpop]: https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop
 [cpop-me]: https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky
 [rug]: http://www.rug.nl
 [nidi]: http://nidi.nl/en
 [phd]: https://osf.io/d4hjx/
-[lvw]: https://twitter.com/leo_wissen
+[lvw]: https://nidi.nl/en/employees/leo-van-wissen
 [jdb]: https://twitter.com/BeerJoop
 [6]: https://sites.google.com/site/ikashnitsky/home
 [thesis]: https://doi.org/10.33612/diss.134195227
