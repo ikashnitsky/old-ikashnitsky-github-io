@@ -15,7 +15,8 @@ knitr::opts_chunk$set(echo = FALSE)
 library(tweetrmd)
 tweet_embed_ik <- function(tweet_url, ...) {
   tweet_embed(
-    tweet_url, maxwidth = 700, hide_thread = TRUE, link_color = "#269999"
+    tweet_url, maxwidth = 700, link_color = "#269999",
+    hide_thread = TRUE, dnt = FALSE
   )
 }
 ```
@@ -59,6 +60,15 @@ thread <- c("https://twitter.com/ikashnitsky/status/1367856010476613632",
 
 htmltools::tagList(
   lapply(thread, tweet_embed_ik)
+)
+```
+
+
+```{r index, echo=FALSE}
+library(fs)
+file_copy(
+  path = "2021-03-05-life-expectancy-101.md", 
+  new_path = "~/github/ikashnitsky.github.io/_posts/2021-03-05-life-expectancy-101.md", overwrite = TRUE
 )
 ```
 
