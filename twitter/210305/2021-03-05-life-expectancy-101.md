@@ -1,6 +1,8 @@
 > This post is based on my previous [Twitter
 > thread](https://twitter.com/ikashnitsky/status/1367856010476613632).
 
+{{% tweet "1367856010476613632" %}}
+
 <blockquote class="twitter-tweet" data-width="550" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Demography 101<br><br>🔥 WHAT IS LIFE EXPECTANCY ? 🔥<br><br>and (even more important)<br><br>❌ what it isn&#39;t ❌<br><br>Join in for the most topical demography primer <br><br>🧵 THREAD 1/x <a href="https://t.co/5p292vfsGc">pic.twitter.com/5p292vfsGc</a></p>&mdash; Ilya Kashnitsky (@ikashnitsky) <a href="https://twitter.com/ikashnitsky/status/1367856010476613632?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote>
 
 <blockquote class="twitter-tweet" data-conversation="none" data-width="550" data-lang="en" data-theme="light"><p lang="en" dir="ltr">Unlike many statistics and quantities of general use that we tend to see regularly, life expectancy is not observed directly. It&#39;s an output of a *mathematical model* called life table. <br><br>So, why can&#39;t we do without a model?<br><br>2/</p>&mdash; Ilya Kashnitsky (@ikashnitsky) <a href="https://twitter.com/ikashnitsky/status/1367856012548530179?ref_src=twsrc%5Etfw">March 5, 2021</a></blockquote>
