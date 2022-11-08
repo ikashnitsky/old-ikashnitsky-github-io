@@ -28,7 +28,8 @@ ikashnitsky@sdu.dk
 [CyberLeninka (ru)](http://cyberleninka.ru/scientist/ikashnitsky)     
   
 [LinkedIN](https://www.linkedin.com/in/ikashnitsky)   
-[Twitter](https://twitter.com/ikashnitsky)     
+[Twitter](https://twitter.com/ikashnitsky)  
+<a rel="me" href="https://fosstodon.org/@ikashnitsky">Mastodon</a>     
   
 [github](https://github.com/ikashnitsky)   
 [StackExchange](http://stackexchange.com/users/5892831/ilya?tab=accounts)   
