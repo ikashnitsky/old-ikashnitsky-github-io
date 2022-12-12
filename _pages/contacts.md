@@ -14,22 +14,17 @@ ikashnitsky@sdu.dk
 # Profiles
 [CPop SDU](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky)   
    
+[Open Science Framework](https://osf.io/n6usx)  
 [Google Scholar](https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1)   
 [ORCID](http://orcid.org/0000-0003-1835-8687)  
-[ImpactStory](https://impactstory.org/u/0000-0003-1835-8687)  
-[Open Science Framework](https://osf.io/n6usx)  
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2340978)   
-[RePEc](https://ideas.repec.org/f/pka1114.html)   
+[Semantic Scholar](https://www.semanticscholar.org/author/Ilya-Kashnitsky/11020544)   
+[OpenCheck](https://opencheck.is/person/Ilya_Kashnitsky)   
 [ResearchGate](http://www.researchgate.net/profile/Ilya_Kashnitsky)   
-[Publons](http://publons.com/a/1183702/)   
-[Kudos](https://www.growkudos.com/profiles/133159)   
-[Figshare](https://figshare.com/authors/Ilya_Kashnitsky/816969)   
-[Istina (ru)](http://istina.msu.ru/profile/ikashnitsky/)   
-[CyberLeninka (ru)](http://cyberleninka.ru/scientist/ikashnitsky)     
-  
+[Figshare](https://figshare.com/authors/Ilya_Kashnitsky/816969)  
+[Zenodo](https://zenodo.org/search?page=1&size=20&q=ilya%20kashnitsky)  
 [LinkedIN](https://www.linkedin.com/in/ikashnitsky)   
-[Twitter](https://twitter.com/ikashnitsky)  
-<a rel="me" href="https://fosstodon.org/@ikashnitsky">Mastodon</a>     
+<a rel="me" href="https://fosstodon.org/@ikashnitsky">Mastodon</a>    
+[Reddit](https://www.reddit.com/user/ikashnitsky)  
   
 [github](https://github.com/ikashnitsky)   
 [StackExchange](http://stackexchange.com/users/5892831/ilya?tab=accounts)   
