@@ -29,6 +29,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-twitter-plugin
+plugins: ['jekyll-twitter-plugin']
 
 
 # Site owner
