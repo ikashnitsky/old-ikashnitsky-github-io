@@ -11,7 +11,7 @@
   url: /contacts
   
 - title: "MASTODON"
-  url: <a rel="me" href="https://fosstodon.org/@ikashnitsky"></a>
+  url: https://fosstodon.org/@ikashnitsky?ref="me"
   
 - title: "LINKEDIN"
   url: https://www.linkedin.com/in/ikashnitsky
