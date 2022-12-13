@@ -6,9 +6,18 @@
   
 - title: "ME"
   url: /me
-  
+
 - title: "CONTACTS"
   url: /contacts
+  
+- title: "OSF"
+  url: https://osf.io/n6usx/
+  
+- title: "GOOGLE SCHOLAR"
+  url: https://scholar.google.com/citations?user=tSQW1XYAAAAJ&hl=en
+  
+- title: "ORCID"
+  url: https://orcid.org/0000-0003-1835-8687
   
 - title: "MASTODON"
   url: https://fosstodon.org/@ikashnitsky?ref="me"
