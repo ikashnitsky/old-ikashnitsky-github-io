@@ -1,8 +1,8 @@
 # Footer navigation links
 
 
-- title: "BLOG"
-  url: /
+- title: "BUY ME A COFFEE"
+  url: https://www.buymeacoffee.com/ikashnitsky
   
 - title: "ME"
   url: /me
@@ -10,20 +10,13 @@
 - title: "CONTACTS"
   url: /contacts
   
-- title: "TWITTER"
-  url: https://twitter.com/ikashnitsky
+- title: "MASTODON"
+  url: <a rel="me" href="https://fosstodon.org/@ikashnitsky"></a>
   
 - title: "LINKEDIN"
   url: https://www.linkedin.com/in/ikashnitsky
-
-- title: "DEMOGRAPHIC DIGEST"
-  url: https://ikashnitsky.github.io/dem-digest
-
-- title: "DEMOGRAPHIC REVIEW"
-  url: https://demreview.hse.ru/en/
   
 - title: "R-BLOGGERS"
   url: https://www.r-bloggers.com/author/ilya-kashnitsky/
   
-- title: "MASTODON"
-  url: https://fosstodon.org/@ikashnitsky?rel="me"
+

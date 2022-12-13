@@ -38,10 +38,10 @@ owner:
   name                  : "Ilya Kashnitsky"
   web                   : https://ikashnitsky.github.io/me
   email                 : "ilya.kashnitsky@gmail.com"
-  twitter               : "ikashnitsky"
+  mastodon              : "ikashnitsky@fosstodon.org"
   github                : "ikashnitsky"
   facebook              : "ikashnitsky"
-  bio                   : "Ilya Kashnitsky is a PhD candidate in demography at University of Groningen and Netherlands Interdisciplinary Demographic Institute, and a Junior Research Fellow at the National Research University Higher School of Economics"
+  bio                   : "Ilya Kashnitsky is an Assist Prof of demography at University of Southern Denmark, Odense, DK"
   avatar                : bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname      : https-ikashnitsky-github-io
 
