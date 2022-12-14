@@ -7,6 +7,23 @@ image:
   teaser: teaser-tea.png
 ---
 
+# 2022
+
+**2022 Spetember 12--15**  
+*Data visualization – the art/skill cocktail*    
+Nuffield College & Leverhulme Centre for Demographic Science, Oxford University, UK    
+[[github](https://github.com/ikashnitsky/dataviz-art-skill) | 
+[tweet](https://twitter.com/OxfordDemSci/status/1570402518055948295)]
+
+
+**2022 July 18--22**  
+Barcelona Summer School of Demography  
+Centre d’Estudis Demogràfics (CED)  
+Autonomous University of Barcelona, Barcelona, Spain  
+[[github](https://github.com/ikashnitsky/bssd-dataviz) | 
+[link](https://ced.cat/courses/barcelona-summer-school-of-demography/) | 
+[tweet](https://twitter.com/ikashnitsky/status/1550492778873880581)]
+
 
 # 2021
 
