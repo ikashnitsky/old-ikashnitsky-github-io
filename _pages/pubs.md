@@ -7,7 +7,7 @@ image:
   teaser: teaser-pubs.png
 ---
 
-### [[OSF]][osf] [[Google Scholar]][gs] [[ORCID]][orcid] 
+### [[Google Scholar]][gs] [[OSF]][osf] [[ORCID]][orcid] 
 
 ***
 
