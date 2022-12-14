@@ -142,9 +142,9 @@ Utrecht, Netherlands
 
 **2017 September 24**
 Statistical Week
-Rostock, Germany 
+Rostock, Germany  
 *Urbanization and regional difference in ageing in Europe*
-[[slides](/share/slides/1703-vvd-ik.html)]] 
+[[slides](/share/slides/1703-vvd-ik.html)] 
 
 **2017 June 26-28**  
 [Rostock Retreat Visualization](https://twitter.com/RostockRetreat)  
@@ -154,7 +154,9 @@ Rostock, Germany
 [[post](https://ikashnitsky.github.io/2017/colorcoded-map/)]
 
 **2017 June 28**  
-Dataviz challenge presentation by team #2 "Mind the gap!" ([Michael Boissonneault](https://twitter.com/michaelboiss), [Jorge Cimentada](https://twitter.com/cimentadaj), [Juan Galeano](https://twitter.com/GEDEM_CED), [Corina Huisman](https://twitter.com/CorinaHuisman), [Ilya Kashnitsky](https://twitter.com/ikashnitsky), and [Nikola Sander](https://twitter.com/nikolasander)) at [Rostock Retreat Visualization](https://twitter.com/RostockRetreat)  
+Dataviz challenge presentation by team #2 "Mind the gap!"   
+([Michael Boissonneault](https://twitter.com/michaelboiss), [Jorge Cimentada](https://twitter.com/cimentadaj), [Juan Galeano](https://twitter.com/GEDEM_CED), [Corina Huisman](https://twitter.com/CorinaHuisman), [Ilya Kashnitsky](https://twitter.com/ikashnitsky), and [Nikola Sander](https://twitter.com/nikolasander))   
+at [Rostock Retreat Visualization](https://twitter.com/RostockRetreat)  
 Rostock, Germany  
 [[slides](/share/slides/1706-mind-the-gap.pdf)]  
 
@@ -194,7 +196,7 @@ Mainz, Germany
 [abstract](http://epc2016.princeton.edu/abstracts/161065) | 
 [paper](/share/papers/kashnitsky2016epc.pdf)]  
 
-**2016 June 21 (RUS)**  
+**2016 June 21 [in Russian]**  
 Migration studies seminar at NRU Higher School of Economics  
 Moscow, Russia  
 *Пост-социалистический мегаполис: пространственные особенности миграционного притока и связь с ценами на жилье*  
