@@ -11,23 +11,61 @@ image:
 
 ***
 
+# 2022
+
+Schöley J, Aburto JM, Kashnitsky I, Kniffka MS, Zhang L, Jaadla H, Dowd JB, Kashyap R. 2022. Life expectancy changes since COVID-19. *Nature Human Behaviour* 6: 1649–1659. 
+[doi](https://doi.org/10.1038/s41562-022-01450-3): 10.1038/s41562-022-01450-3. 
+[[preprint](http://doi.org/10.1101/2022.02.23.22271380) | 
+[github](https://github.com/jschoeley/ex2021)]
+
+Bergeron-Boucher M-P, Alvarez J-A, Kashnitsky I, Zarulli V. 2022. Probability of males to outlive females: an international comparison from 1751 to 2020. *BMJ Open* 12: e059964.
+[doi](https://doi.org/10.1136/bmjopen-2021-059964): 10.1136/bmjopen-2021-059964. 
+[[preprint](https://doi.org/10.31235/osf.io/typws) | 
+[github](https://github.com/CPop-SDU/outsurvival-in-perspective)]
+
+Aburto JM, Schöley J, [Kashnitsky I][me], Kashyap R. 2022. Life expectancy declines in Russia during the COVID-19 pandemic in 2020. *International Journal of Epidemiology*: dyac055. 
+[doi](https://doi.org/10.1093/ije/dyac055): 10.1093/ije/dyac055. 
+[[github](https://github.com/OxfordDemSci/ex2020)] 
+
+Levin AT, Owusu-Boaitey N, Pugh S, Fosdick BK, Zwi AB, Malani A, Soman S, Besançon L, [Kashnitsky I][me], Ganesh S, McLaughlin A, Song G, Uhm R, Herrera-Esposito D, de los Campos G , Antonio ACPP, Tadese EB, Meyerowitz-Katz G. 2022. Assessing the burden of COVID-19 in developing countries: systematic review, meta-analysis and public policy implications. B*MJ Global Health* 7: e008477. 
+[doi](https://doi.org/10.1136/bmjgh-2022-008477): 10.1136/bmjgh-2022-008477. 
+[[preprint](https://doi.org/10.1101/2021.09.29.21264325)] 
+
+
+
+## 2021
+
+Aburto JM, Schöley J, [Kashnitsky I][me], Zhang L, Rahal C, Missov TI, Mills MC, Dowd JB, Kashyap R. 2021. Quantifying impacts of the COVID-19 pandemic through life-expectancy losses: A population-level study of 29 countries. *International Journal of Epidemiology*, dyab207. 
+[doi](https://doi.org/10.1093/ije/dyab207): 10.1093/ije/dyab207. 
+[[preprint](https://doi.org/10.1101/2021.03.02.21252772) | 
+[github](https://github.com/OxfordDemSci/ex2020)] 
+
+Zarulli V, [Kashnitsky I][me], Vaupel JW. 2021. Death rates at specific life stages mold the sex gap in life expectancy. *Proceedings of the National Academy of Sciences* 118(20): e2010588118. 
+[doi](https://doi.org/10.1073/pnas.2010588118): 10.1073/pnas.2010588118. 
+[[github](https://github.com/CPop-SDU/sex-gap-e0-pnas)] 
+
+Vaupel JW, Bergeron-Boucher M-P, & [Kashnitsky I][me]. 2021. Outsurvival as a measure of the inequality of lifespans between two populations. *Demographic Research*, S8(35): 853–864. 
+[doi](https://doi.org/10.4054/DemRes.2021.44.35): 10.4054/DemRes.2021.44.35. 
+[[preprint](https://doi.org/10.31235/osf.io/gsdkx) | 
+[github](https://github.com/CPop-SDU/outsurvival-demres)] 
+
 ## 2020
 
-[Kashnitsky I][me]. 2020. Changing regional inequalities in ageing across Europe. *PhD Thesis, University of Groningen*. [DOI](https://doi.org/10.33612/diss.134195227): 10.33612/diss.134195227. 
+[Kashnitsky I][me]. 2020. Changing regional inequalities in ageing across Europe. *PhD Thesis, University of Groningen*. [doi](https://doi.org/10.33612/diss.134195227): 10.33612/diss.134195227. 
 [[thesis](/share/papers/kashnitsky2020.pdf) | 
 [osf](https://osf.io/6m4kg/) | 
 [tweet](https://twitter.com/ikashnitsky/status/1311671116608548865)]
 
-[Kashnitsky I][me], Aburto JM. 2020. COVID-19 in unequally ageing European regions. *World Development* 136: 105170. [DOI](https://doi.org/10.1016/j.worlddev.2020.105170): 10.1016/j.worlddev.2020.105170. 
+[Kashnitsky I][me], Aburto JM. 2020. COVID-19 in unequally ageing European regions. *World Development* 136: 105170. [doi](https://doi.org/10.1016/j.worlddev.2020.105170): 10.1016/j.worlddev.2020.105170. 
 [[paper](/share/papers/kashnitsky2020wd.pdf) | 
 [osf](https://osf.io/abx7s/) | 
 [github](https://github.com/ikashnitsky/covid19-nuts3)]
 
-[Kashnitsky I][me], de Beer J, van Wissen L. 2020. Unequally ageing regions of Europe: Exploring the role of urbanization. *Population Studies*. [DOI](https://doi.org/10/ghbd69): 10.1080/00324728.2020.1788130. 
+[Kashnitsky I][me], de Beer J, van Wissen L. 2020. Unequally ageing regions of Europe: Exploring the role of urbanization. *Population Studies*. [doi](https://doi.org/10/ghbd69): 10.1080/00324728.2020.1788130. 
 [[paper](/share/papers/kashnitsky2020ps.pdf) | 
 [osf](https://osf.io/hj28v/)]
 
-Verhagen MD, Brazel DM, Dowd JB, [Kashnitsky I][me], Mills MC. 2020. Forecasting spatial, socioeconomic and demographic variation in COVID-19 health care demand in England and Wales. *BMC Medicine* 18: 203. [DOI](https://doi.org/10.1186/s12916-020-01646-2): 10.1186/s12916-020-01646-2. 
+Verhagen MD, Brazel DM, Dowd JB, [Kashnitsky I][me], Mills MC. 2020. Forecasting spatial, socioeconomic and demographic variation in COVID-19 health care demand in England and Wales. *BMC Medicine* 18: 203. [doi](https://doi.org/10.1186/s12916-020-01646-2): 10.1186/s12916-020-01646-2. 
 [[paper](/share/papers/verhagen2020bm.pdf) | 
 [osf](https://osf.io/g8s96/) | 
 [github](https://github.com/OxfordDemSci/COVIDDemographyUK)]
@@ -35,22 +73,22 @@ Verhagen MD, Brazel DM, Dowd JB, [Kashnitsky I][me], Mills MC. 2020. Forecasting
 Balbo N, [Kashnitsky I][me], Melegaro A, Meslé F, Mills M, De Valk H, Vono de Vilhena D. 2020. Demography and the Coronavirus Pandemic. *Population & Policy Compact 25*. Max Planck Society/Population Europe, Berlin. [[link](https://population-europe.eu/policy-brief/demography-and-coronavirus-pandemic) | 
 [paper](/share/papers/balbo2020.pdf)]
 
-[Kashnitsky I][me], De Beer J, Van Wissen L. 2020. Economic convergence in ageing Europe. *Tijdschrift Voor Economische En Sociale Geografie*, 111: 28-44. [DOI](https://doi.org/10.1111/tesg.12357): 10.1111/tesg.12357. 
-[[paper](/share/papers/kashnitsky2020tesg.pdf) |  
+[Kashnitsky I][me], De Beer J, Van Wissen L. 2020. Economic convergence in ageing Europe. *Tijdschrift Voor Economische En Sociale Geografie*, 111: 28-44. [doi](https://doi.org/10.1111/tesg.12357): 10.1111/tesg.12357. 
+[[paper](/share/papers/kashnitsky2020tesg.pdf) | 
 [osf](https://osf.io/uy8dn/)]
 
 
 [Kashnitsky I][me]. Russian periphery is dying in movement: a cohort assessment of internal youth migration in Central Russia. *GeoJournal*, 85: 173-185. 
-[DOI](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
+[doi](https://doi.org/10.1007/s10708-018-9953-5): 10.1007/s10708-018-9953-5. 
 [[paper](/share/papers/kashnitsky2020g.pdf)] 
 
 ## 2019
 
-[Kashnitsky I][me], Aburto JM. 2019. Geofaceting: Aligning small-multiples for regions in a spatially meaningful way. Demographic Research 41: 477–490. [DOI](https://doi.org/10/ggnfjs): 10.4054/DemRes.2019.41.17. [[paper](/share/papers/kashnitsky2019dr.pdf) | 
+[Kashnitsky I][me], Aburto JM. 2019. Geofaceting: Aligning small-multiples for regions in a spatially meaningful way. Demographic Research 41: 477–490. [doi](https://doi.org/10/ggnfjs): 10.4054/DemRes.2019.41.17. [[paper](/share/papers/kashnitsky2019dr.pdf) | 
 [poster](/share/slides/1904-paa-poster.pdf) | 
 [github](https://github.com/ikashnitsky/demres-geofacet)]
 
-Schöley J, [Kashnitsky I][me]. 2019. But why? Design choices made while creating “regional population structures at a glance”. In *New Generations in Demography: New Challenging Adventures in the Population Science*. Oeconomica Publishing House; 55–70. [DOI](https://doi.org/10.31219/osf.io/qt47d): 10.31219/osf.io/qt47d. 
+Schöley J, [Kashnitsky I][me]. 2019. But why? Design choices made while creating “regional population structures at a glance”. In *New Generations in Demography: New Challenging Adventures in the Population Science*. Oeconomica Publishing House; 55–70. [doi](https://doi.org/10.31219/osf.io/qt47d): 10.31219/osf.io/qt47d. 
 [[paper](/share/papers/scholey2019ngidncaitps) | 
 [tweet](https://twitter.com/ikashnitsky/status/1177509284059340800)]
 
@@ -59,7 +97,7 @@ Schöley J, [Kashnitsky I][me]. 2019. But why? Design choices made while creatin
 ## 2018
 
 [Kashnitsky I][me], Schöley J. Regional population structures at a glance. *The Lancet*, 392(10143): 209–210.
-[DOI](https://doi.org/10.1016/S0140-6736(18)31194-2): 10.1016/S0140-6736(18)31194-2. 
+[doi](https://doi.org/10.1016/S0140-6736(18)31194-2): 10.1016/S0140-6736(18)31194-2. 
 [[paper](/share/papers/1806-the-lancet-ik.pdf)] 
 [[github](https://github.com/ikashnitsky/the-lancet-2018)] 
 [[osf](https://osf.io/zac5x/)]
@@ -72,14 +110,14 @@ Schöley J, [Kashnitsky I][me]. 2019. But why? Design choices made while creatin
 [6](https://www.dailymail.co.uk/news/article-5988331)] 
 
 Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Moscow: a case of path dependent development. In Housing Estates in Europe: Poverty, Ethnic Segregation, and Policy Challenges (pp. 289–311). Springer International Publishing.
-[DOI](https://doi.org/10.1007/978-3-319-92813-5_13): 10.1007/978-3-319-92813-5_13. 
+[doi](https://doi.org/10.1007/978-3-319-92813-5_13): 10.1007/978-3-319-92813-5_13. 
 [[paper](/share/papers/1808-springer-estates-ik.pdf)] 
 
 
 
 ## 2017
 
-[Kashnitsky I][me], De Beer J, Van Wissen L. Decomposition of regional convergence in population aging across Europe. *Genus*, 73(1): 2. [DOI](https://doi.org/10.1186/s41118-017-0018-2): 10.1186/s41118-017-0018-2. 
+[Kashnitsky I][me], De Beer J, Van Wissen L. Decomposition of regional convergence in population aging across Europe. *Genus*, 73(1): 2. [doi](https://doi.org/10.1186/s41118-017-0018-2): 10.1186/s41118-017-0018-2. 
 [[paper](/share/papers/1705-genus-ik.pdf)] 
 [[github](https://github.com/ikashnitsky/genus-2017)] 
 [[osf](https://osf.io/z6fym/)]   
@@ -91,12 +129,12 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 
 ## 2016
 
-[Kashnitsky I][me], Gunko M. 2016. Spatial variation of in-migration to Moscow: Testing the effect of housing market. *Cities*, 59: 30-39. [DOI](https://doi.org/10.1016/j.cities.2016.05.025): 10.1016/j.cities.2016.05.025. [[postprint](/share/papers/1611-cities-ik.pdf)]  
+[Kashnitsky I][me], Gunko M. 2016. Spatial variation of in-migration to Moscow: Testing the effect of housing market. *Cities*, 59: 30-39. [doi](https://doi.org/10.1016/j.cities.2016.05.025): 10.1016/j.cities.2016.05.025. [[postprint](/share/papers/1611-cities-ik.pdf)]  
 
-[Kashnitsky I][me]. 2016. A cohort is not representative of humanity: Review of “Evidence for a limit to human lifespan.” *Publons*. [DOI](https://doi.org/10.14322/publons.r505407): 10.14322/publons.r505407. 
+[Kashnitsky I][me]. 2016. A cohort is not representative of humanity: Review of “Evidence for a limit to human lifespan.” *Publons*. [doi](https://doi.org/10.14322/publons.r505407): 10.14322/publons.r505407. 
 [[paper](/share/papers/1610-publons-ik.pdf)]  
 
-[Kashnitsky I][me], Mkrtchyan N, Leshukov O. 2016. Interregional migration of youths in Russia: a comprehensive analysis of demographic statistics. *Educational Studies Moscow*, 13(3): 169–203. [DOI](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
+[Kashnitsky I][me], Mkrtchyan N, Leshukov O. 2016. Interregional migration of youths in Russia: a comprehensive analysis of demographic statistics. *Educational Studies Moscow*, 13(3): 169–203. [doi](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
 [[paper](/share/papers/1609-esm-ik.pdf)] 
 [media: 
 [1](http://www.bbc.com/russian/news-37455100), 
@@ -137,7 +175,7 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 
 ## Publications in Russian
 
-[Кашницкий ИС][me], Мкртчян НВ, Лешуков ОВ. 2016. Межрегиональная миграция молодежи в России: комплексный анализ демографической статистики. *Вопросы образования* 13(3): 169–203. [DOI](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
+[Кашницкий ИС][me], Мкртчян НВ, Лешуков ОВ. 2016. Межрегиональная миграция молодежи в России: комплексный анализ демографической статистики. *Вопросы образования* 13(3): 169–203. [doi](https://doi.org/10.17323/1814-9545-2016-3-169-203): 10.17323/1814-9545-2016-3-169-203. 
 [[paper](/share/papers/1609-esm-ru-ik.pdf)] 
 [media: 
 [1](http://www.bbc.com/russian/news-37455100), 
@@ -198,4 +236,4 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 [osf]: https://osf.io/n6usx/
 [gs]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
 [orcid]: http://orcid.org/0000-0003-1835-8687
-[me]: https://twitter.com/ikashnitsky
+[me]: https://fosstodon.org/@ikashnitsky
