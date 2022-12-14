@@ -13,7 +13,6 @@ ikashnitsky@sdu.dk
  
 # Profiles
 [CPop SDU](https://www.sdu.dk/en/forskning/forskningsenheder/samf/cpop/about_the_centre/our_people/cpop_dem/ilya_kashnitsky)   
-[Buy me a coffee](https://www.buymeacoffee.com/ikashnitsky)
    
 [Open Science Framework](https://osf.io/n6usx)  
 [Google Scholar](https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1)   
@@ -31,6 +30,8 @@ ikashnitsky@sdu.dk
 [StackExchange](http://stackexchange.com/users/5892831/ilya?tab=accounts)   
 [Habrahabr (ru)](http://habrahabr.ru/users/ikashnitsky/)   
 [R-bloggers](https://www.r-bloggers.com/author/ilya-kashnitsky/)
+
+[BUY ME A COFFEE](https://www.buymeacoffee.com/ikashnitsky)  
 
 # Post address
 Campusvej 55  
