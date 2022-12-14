@@ -7,7 +7,7 @@ image:
   teaser: teaser-pubs.png
 ---
 
-### [[Google Scholar]][gs] [[OSF]][osf] [[ORCID]][orcid] 
+### [[Google Scholar]][gs] [Semantic Scholar][ss] [[OSF]][osf] [[ORCID]][orcid] 
 
 ***
 
@@ -235,5 +235,6 @@ Gunko MS, Bogacheva PA, Medvedev AA, & [Kashnitsky IS][me]. Mass housing in Mosc
 
 [osf]: https://osf.io/n6usx/
 [gs]: https://scholar.google.nl/citations?hl=en&user=tSQW1XYAAAAJ&imq=Ilya+Kashnitsky&btnA=1
+[ss]: https://www.semanticscholar.org/author/Ilya-Kashnitsky/11020544
 [orcid]: http://orcid.org/0000-0003-1835-8687
 [me]: https://fosstodon.org/@ikashnitsky
