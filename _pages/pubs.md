@@ -7,18 +7,18 @@ image:
   teaser: teaser-pubs.png
 ---
 
-### [[Google Scholar]][gs] [Semantic Scholar][ss] [[OSF]][osf] [[ORCID]][orcid] 
+### [[Google Scholar]][gs] [[Semantic Scholar]][ss] [[OSF]][osf] [[ORCID]][orcid] 
 
 ***
 
 # 2022
 
-Schöley J, Aburto JM, Kashnitsky I, Kniffka MS, Zhang L, Jaadla H, Dowd JB, Kashyap R. 2022. Life expectancy changes since COVID-19. *Nature Human Behaviour* 6: 1649–1659. 
+Schöley J, Aburto JM, [Kashnitsky I][me], Kniffka MS, Zhang L, Jaadla H, Dowd JB, Kashyap R. 2022. Life expectancy changes since COVID-19. *Nature Human Behaviour* 6: 1649–1659. 
 [doi](https://doi.org/10.1038/s41562-022-01450-3): 10.1038/s41562-022-01450-3. 
 [[preprint](http://doi.org/10.1101/2022.02.23.22271380) | 
 [github](https://github.com/jschoeley/ex2021)]
 
-Bergeron-Boucher M-P, Alvarez J-A, Kashnitsky I, Zarulli V. 2022. Probability of males to outlive females: an international comparison from 1751 to 2020. *BMJ Open* 12: e059964.
+Bergeron-Boucher M-P, Alvarez J-A, [Kashnitsky I][me], Zarulli V. 2022. Probability of males to outlive females: an international comparison from 1751 to 2020. *BMJ Open* 12: e059964.
 [doi](https://doi.org/10.1136/bmjopen-2021-059964): 10.1136/bmjopen-2021-059964. 
 [[preprint](https://doi.org/10.31235/osf.io/typws) | 
 [github](https://github.com/CPop-SDU/outsurvival-in-perspective)]
