@@ -37,8 +37,8 @@ I was born in Israel, grew up in Moscow, during my PhD years lived in The Hague,
 Feel free to contact me via email  
 ilya.kashnitsky@gmail.com
 or  
-Twitter DM  
-[@ikashnitsky](https://twitter.com/ikashnitsky)  
+Mastodon  
+[@ikashnitsky](https://fosstodon.org/@ikashnitsky)  
 Ilya  
 
 
