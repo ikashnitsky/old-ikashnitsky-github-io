@@ -1,9 +1,7 @@
-# Ilya Kashnitsky
+# [archived]
 
-**work in progress**
-
-Here the `code` for my personal website is stored.  
-Address: https://ikashnitsky.github.io  
+This is the `code` for the old version of my personal website  at 
+Address: https://ikashnitsky.github.io/old-ikashnitsky-github-io  
 The site is build with [Jekyll][1] using [Skinny Bones][2] by [Michael Rose][3].
 
 
